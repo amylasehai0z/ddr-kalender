@@ -67,7 +67,7 @@ Der Kalender enthält zur Zeit **988 Einträge** für die Jahre **2024–2075** 
 Voraussetzung: Python 3
 
 ```bash
-git clone https://github.com/DEINNAME/ddr-kalender
+git clone https://github.com/amylasehai0z/ddr-kalender
 cd ddr-kalender
 python3 generate_ddr_ical.py
 ```
