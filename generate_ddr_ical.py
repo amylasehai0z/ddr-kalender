@@ -368,7 +368,7 @@ for year in YEARS:
 
     add_event(lines, date(year, 1, 21),
         "Todestag Lenin (1924) 🕯️",
-        "Wladimir Iljitsch Lenin ist am 21. Januar 1924 in Gorki Leninskie verstorben. Begründer der Sowjetunion und des Marxismus-Leninismus. In der DDR mit Gedenkfeiern in Betrieben\\, Schulen und Parteiorganisationen begangen.")
+        "Wladimir Iljitsch Lenin ist am 21. Januar 1924 in Gorki Leninskie verstorben. Er wurde 53 Jahre alt. Begründer der Sowjetunion und des Marxismus-Leninismus. In der DDR mit Gedenkfeiern in Betrieben\\, Schulen und Parteiorganisationen begangen.")
 
     add_event(lines, date(year, 3, 5),
         "Geburtstag Rosa Luxemburg (1871) 🌹",
@@ -380,7 +380,7 @@ for year in YEARS:
 
     add_event(lines, date(year, 3, 14),
         "Todestag Karl Marx (1883) 🕯️",
-        "Karl Marx ist am 14. März 1883 in London verstorben. Begründer des wissenschaftlichen Sozialismus gemeinsam mit Friedrich Engels. Autor des Kommunistischen Manifests (1848) und des Kapitals. Ideologisches Fundament der DDR.")
+        "Karl Marx ist am 14. März 1883 in London verstorben. Er wurde 64 Jahre alt. Begründer des wissenschaftlichen Sozialismus gemeinsam mit Friedrich Engels. Autor des Kommunistischen Manifests (1848) und des Kapitals. Ideologisches Fundament der DDR.")
 
     add_event(lines, date(year, 4, 16),
         "Geburtstag Ernst Thälmann (1886) ✊",
@@ -396,7 +396,7 @@ for year in YEARS:
 
     add_event(lines, date(year, 8, 5),
         "Todestag Friedrich Engels (1895) 🕯️",
-        "Friedrich Engels ist am 5. August 1895 in London verstorben. Mitbegründer des wissenschaftlichen Sozialismus gemeinsam mit Karl Marx. Finanzierte Marx' Arbeit und vollendete das Kapital nach dessen Tod. Ideologisches Fundament der DDR.")
+        "Friedrich Engels ist am 5. August 1895 in London verstorben. Er wurde 74 Jahre alt. Mitbegründer des wissenschaftlichen Sozialismus gemeinsam mit Karl Marx. Finanzierte Marx' Arbeit und vollendete das Kapital nach dessen Tod. Ideologisches Fundament der DDR.")
 
     add_event(lines, date(year, 8, 13),
         "Geburtstag Karl Liebknecht (1871) 🕯️",
@@ -416,15 +416,15 @@ for year in YEARS:
 
     add_event(lines, date(year, 9, 7),
         "Todestag Wilhelm Pieck (1960) 🕯️",
-        "Wilhelm Pieck ist am 7. September 1960 in Moskau verstorben. Erster und einziger Staatspräsident der DDR (1949–1960)\\, Mitgründer der KPD und der SED. Nach seinem Tod wurde das Amt des Staatspräsidenten abgeschafft und durch den Staatsrat ersetzt.")
+        "Wilhelm Pieck ist am 7. September 1960 in Moskau verstorben. Er wurde 84 Jahre alt. Erster und einziger Staatspräsident der DDR (1949–1960)\\, Mitgründer der KPD und der SED. Nach seinem Tod wurde das Amt des Staatspräsidenten abgeschafft und durch den Staatsrat ersetzt.")
 
     add_event(lines, date(year, 9, 21),
         "Todestag Otto Grotewohl (1964) 🕯️",
-        "Otto Grotewohl ist am 21. September 1964 in Ost-Berlin verstorben. Erster Ministerpräsident der DDR (1949–1964)\\, führte die SPD in der Sowjetischen Besatzungszone in die Zwangsvereinigung mit der KPD zur SED (1946).")
+        "Otto Grotewohl ist am 21. September 1964 in Ost-Berlin verstorben. Er wurde 70 Jahre alt. Erster Ministerpräsident der DDR (1949–1964)\\, führte die SPD in der Sowjetischen Besatzungszone in die Zwangsvereinigung mit der KPD zur SED (1946).")
 
     add_event(lines, date(year, 8, 1),
         "Todestag Walter Ulbricht (1973) 🕯️",
-        "Walter Ulbricht ist am 1. August 1973 am Döllnsee in Brandenburg verstorben. Erster Sekretär der SED (1950–1971) und Vorsitzender des Staatsrats (1960–1973). Maßgeblich für den Aufbau der DDR verantwortlich\\, ordnete den Mauerbau 1961 an.")
+        "Walter Ulbricht ist am 1. August 1973 am Döllnsee in Brandenburg verstorben. Er wurde 80 Jahre alt. Erster Sekretär der SED (1950–1971) und Vorsitzender des Staatsrats (1960–1973). Maßgeblich für den Aufbau der DDR verantwortlich\\, ordnete den Mauerbau 1961 an.")
 
     add_event(lines, date(year, 8, 25),
         "Geburtstag Erich Honecker (1912) 🕯️",
@@ -432,7 +432,7 @@ for year in YEARS:
 
     add_event(lines, date(year, 5, 29),
         "Todestag Erich Honecker (1994) 🕯️",
-        "Erich Honecker ist am 29. Mai 1994 in Santiago de Chile verstorben. Generalsekretär der SED und Vorsitzender des Staatsrats der DDR (1971–1989). Nach dem Mauerfall angeklagt\\, floh er 1991 in die chilenische Botschaft in Moskau und später nach Chile\\, wo er an Leberkrebs starb.")
+        "Erich Honecker ist am 29. Mai 1994 in Santiago de Chile verstorben. Er wurde 81 Jahre alt. Generalsekretär der SED und Vorsitzender des Staatsrats der DDR (1971–1989). Nach dem Mauerfall angeklagt\\, floh er 1991 in die chilenische Botschaft in Moskau und später nach Chile\\, wo er an Leberkrebs starb.")
 
     add_event(lines, date(year, 4, 17),
         "Geburtstag Margot Honecker (1927) 🕯️",
@@ -440,7 +440,7 @@ for year in YEARS:
 
     add_event(lines, date(year, 5, 6),
         "Todestag Margot Honecker (2016) 🕯️",
-        "Margot Honecker ist am 6. Mai 2016 in Santiago de Chile verstorben. Ministerin für Volksbildung der DDR (1963–1989)\\, prägte das sozialistische Schul- und Erziehungswesen. Nach dem Mauerfall floh sie gemeinsam mit Erich Honecker nach Chile\\, wo sie bis zu ihrem Tod lebte.")
+        "Margot Honecker ist am 6. Mai 2016 in Santiago de Chile verstorben. Sie wurde 89 Jahre alt. Ministerin für Volksbildung der DDR (1963–1989)\\, prägte das sozialistische Schul- und Erziehungswesen. Nach dem Mauerfall floh sie gemeinsam mit Erich Honecker nach Chile\\, wo sie bis zu ihrem Tod lebte.")
 
     add_event(lines, date(year, 3, 19),
         "Geburtstag Egon Krenz (1937) 🕯️",
@@ -452,7 +452,15 @@ for year in YEARS:
 
     add_event(lines, date(year, 5, 21),
         "Todestag Erich Mielke (2000) 🕯️",
-        "Erich Mielke ist am 21. Mai 2000 in Berlin verstorben. Minister für Staatssicherheit der DDR (1957–1989). Unter seiner Führung beschäftigte die Stasi über 90.000 hauptamtliche Mitarbeiter und rund 170.000 inoffizielle Informanten. Nach der Wende wegen Mordes verurteilt\\, wegen Verhandlungsunfähigkeit jedoch vorzeitig entlassen.")
+        "Erich Mielke ist am 21. Mai 2000 in Berlin verstorben. Er wurde 92 Jahre alt. Minister für Staatssicherheit der DDR (1957–1989). Unter seiner Führung beschäftigte die Stasi über 90.000 hauptamtliche Mitarbeiter und rund 170.000 inoffizielle Informanten. Nach der Wende wegen Mordes verurteilt\\, wegen Verhandlungsunfähigkeit jedoch vorzeitig entlassen.")
+
+    add_event(lines, date(year, 1, 15),
+        "Ermordung Rosa Luxemburg (1919) 🌹",
+        "Rosa Luxemburg ist am 15. Januar 1919 in Berlin ermordet worden. Sie wurde 47 Jahre alt. Mitbegründerin der KPD\\, revolutionäre Sozialistin und Theoretikerin. Nach dem Spartakusaufstand von Freikorpssoldaten verhaftet\\, misshandelt und erschossen. Ihre Leiche wurde in den Landwehrkanal geworfen. In der DDR als Märtyrerin der Arbeiterbewegung verehrt.")
+
+    add_event(lines, date(year, 1, 15),
+        "Ermordung Karl Liebknecht (1919) 🕯️",
+        "Karl Liebknecht ist am 15. Januar 1919 in Berlin ermordet worden. Er wurde 47 Jahre alt. Mitbegründer der KPD\\, erklärte am 9. November 1918 die Freie Sozialistische Republik Deutschland. Nach dem Spartakusaufstand von Freikorpssoldaten verhaftet\\, misshandelt und erschossen. In der DDR als Märtyrer der Arbeiterbewegung verehrt.")
 
 lines.append("END:VCALENDAR")
 
