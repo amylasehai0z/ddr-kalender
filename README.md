@@ -7,7 +7,7 @@
 
 ## Abonnieren
 
-Die Kalenderdatei kann direkt in jede gängige Kalender-App als **dauerhaftes Abonnement** eingebunden werden:
+Die Kalenderdatei kann direkt in jede gängige Kalender-App als dauerhaftes Abonnement eingebunden werden:
 
 ```
 https://amylasehai0z.github.io/ddr-kalender/ddr-feiertage.ics
@@ -23,32 +23,55 @@ https://amylasehai0z.github.io/ddr-kalender/ddr-feiertage.ics
 
 ## Inhalt
 
-Der Kalender enthält zur Zeit **988 Einträge** für die Jahre **2024–2075** und deckt folgende Kategorien ab:
+Der Kalender enthält **1.820 Einträge** für die Jahre **2024–2075**. Jeder Termin enthält eine ausführliche Notiz und eine **automatische Erinnerung um 6:00 Uhr morgens**.
 
 ### Gesetzliche Feiertage
 - Tag der Arbeit (1. Mai)
 - Tag der Republik (7. Oktober) — Nationalfeiertag der DDR
 
 ### Politische Gedenk- und Kampftage
-- Gedenktag für Karl Liebknecht und Rosa Luxemburg (15. Januar)
-- Tag der FDJ — Freie Deutsche Jugend (7. März)
-- Internationaler Frauentag (8. März)
+- Liebknecht & Luxemburg Gedenktag (Sonntag nearest 15. Januar)
 - Jahrestag der Pariser Kommune (19. März)
-- Befreiung des KZ Buchenwald (11. April)
+- Gründungstag der SED (21. April)
 - Geburtstag W. I. Lenin (22. April)
+- Jahrestag der Befreiung vom Hitlerfaschismus (8. Mai)
+- Tag des Sieges der UdSSR (9. Mai)
+- Gedenktag Überfall auf die Sowjetunion (22. Juni)
+- Tag der Internationalen Brigaden (18. Juli)
+- Weltfriedenstag (1. September)
+- OdF-Tag — Opfer des Faschismus (2. Sonntag im September)
+- Jahrestag der Oktoberrevolution (7. November)
+- KPD-Gründung (30. Dezember)
+- Gründung der UdSSR (30. Dezember)
+
+### Gesellschaftliche Feiertage
+- Tag der FDJ (7. März)
+- Internationaler Frauentag (8. März)
 - Internationaler Kindertag (1. Juni)
 - Tag des Lehrers (12. Juni)
-- Gedenktag Überfall auf die Sowjetunion (22. Juni)
-- OdF-Tag — Opfer des Faschismus und Militarismus (2. Sonntag im September)
-- Jahrestag der Oktoberrevolution (7. November)
-- KPD-Gründung (1. Januar)
+- Pioniergeburtstag (13. Dezember)
 
-### Militärische und Berufliche Ehrentage
-- Tag der Nationalen Volksarmee — NVA (23. Februar)
-- Tag der Deutschen Volkspolizei (vorletzter Sonntag im März)
-- Tag der Kampfgruppen der Arbeiterklasse (2. Sonntag im April)
-- Tag des Eisenbahners (2. Sonntag im September)
-- Tag des Bergmanns und Energiearbeiters (letzter Sonntag im August)
+### Militärische und Sicherheitsorgane
+- Tag der NVA (1. März)
+- Tag des MfS (8. Februar)
+- Tag der Deutschen Volkspolizei (1. Juli)
+- Tag der Grenztruppen der DDR (1. Dezember)
+
+### Berufliche Ehrentage
+- Tag der Werktätigen des Post- und Fernmeldewesens (2. Sonntag im Februar)
+- Tag der Mitarbeiter des Handels (3. Sonntag im Februar)
+- Tag des Metallarbeiters (2. Sonntag im April)
+- Tag des Eisenbahners (2. Sonntag im Juni)
+- Tag der Genossenschaftsbauern (3. Sonntag im Juni)
+- Tag des Bauarbeiters (4. Sonntag im Juni)
+- Tag des Bergmanns und Energiearbeiters (1. Sonntag im Juli)
+- Tag des Chemiearbeiters (2. Sonntag im November)
+- Tag des Metallurgen (3. Sonntag im November)
+- Tag des Gesundheitswesens (11. Dezember)
+
+### Historische Gedenktage
+- Befreiung KZ Buchenwald (11. April)
+- Tag der Internationalen Brigaden (18. Juli)
 
 ---
 
@@ -58,7 +81,7 @@ Der Kalender enthält zur Zeit **988 Einträge** für die Jahre **2024–2075** 
 |-------|-------------|
 | `ddr-feiertage.ics` | Fertige Kalenderdatei zum Abonnieren |
 | `generate_ddr_ical.py` | Python-Skript zur Generierung der Datei |
-| `DDR-Feiertage.pdf` | Gedruckte Übersicht aller Feiertage |
+| `DDR-Feiertage-Uebersicht.pdf` | Gedruckte Übersicht aller Feiertage |
 
 ---
 
@@ -78,9 +101,9 @@ Der Jahresbereich lässt sich im Skript unter `YEARS = range(2024, 2076)` anpass
 
 ## Hintergrund
 
-Die DDR pflegte einen eigenen sozialistischen Festkalender, der religiöse Feiertage weitgehend durch politische Gedenktage ersetzte oder ergänzte. Neben den gesetzlichen Feiertagen prägten Kampftage, Berufsehrentage und gesellschaftliche Festtradtionen wie die **Jugendweihe** das öffentliche Leben.
+Die DDR pflegte einen eigenen sozialistischen Festkalender, der religiöse Feiertage weitgehend durch politische Gedenktage ersetzte oder ergänzte. Neben den gesetzlichen Feiertagen prägten Kampftage, Berufsehrentage und gesellschaftliche Festtraditionen wie die **Jugendweihe** das öffentliche Leben.
 
-Dieser Kalender dokumentiert diesen Festkalender als lebendiges iCal-Abonnement — nutzbar in jeder modernen Kalender-App.
+Dieser Kalender dokumentiert diesen Festkalender als lebendiges iCal-Abonnement — nutzbar in jeder modernen Kalender-App, mit Erinnerungen und ausführlichen historischen Notizen zu jedem Termin.
 
 ---
 
