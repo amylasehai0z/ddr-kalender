@@ -23,7 +23,9 @@ https://amylasehai0z.github.io/ddr-kalender/ddr-feiertage.ics
 
 ## Inhalt
 
-Der Kalender enthält **1.820 Einträge** für die Jahre **2024–2075**. Jeder Termin enthält eine ausführliche Notiz. Es erfolgt ein **automatischer Hinweis zwischen 6 und 7 Uhr morgens**.
+Der Kalender enthält **1.820 Einträge** für die Jahre **2024–2075**.
+Jeder Termin enthält eine ausführliche Notiz.
+Es erfolgt ein **automatischer Hinweis zwischen 6 und 7 Uhr morgens**.
 
 ### Politische gesetzliche Feiertage
 - Tag der Arbeit (1. Mai)
