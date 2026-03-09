@@ -71,6 +71,11 @@ def add_event(lines, d, name, desc):
     lines.append(f"DESCRIPTION:{desc}")
     lines.append("CATEGORIES:DDR Feiertage")
     lines.append("TRANSP:TRANSPARENT")
+    lines.append("BEGIN:VALARM")
+    lines.append("ACTION:DISPLAY")
+    lines.append(f"DESCRIPTION:{name}")
+    lines.append("TRIGGER;VALUE=DATE-TIME:" + d.strftime("%Y%m%d") + "T060000")
+    lines.append("END:VALARM")
     lines.append("END:VEVENT")
 
 lines = []
