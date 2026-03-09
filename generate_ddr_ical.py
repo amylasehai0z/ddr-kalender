@@ -143,8 +143,8 @@ for year in YEARS:
         "Jahrestag der Gründung der Sozialistischen Einheitspartei Deutschlands (SED) am 21./22. April 1946 durch Zwangsvereinigung von SPD und KPD in der Sowjetischen Besatzungszone.")
 
     add_event(lines, date(year, 4, 22),
-        "Geburtstag W. I. Lenin ☭",
-        f"Geburtstag Wladimir Iljitsch Lenins am 22. April 1870. Er wäre heute {year - 1870} Jahre alt. Begründer der Sowjetunion und theoretischer Vordenker des Marxismus-Leninismus. Gedenktag in Betrieben\\, Schulen und Parteiorganisationen.")
+        "Geburtstag Lenin ☭",
+        f"Wladimir Iljitsch Lenin wurde am 22. April 1870 in Simbirsk (heute Uljanowsk) geboren. Er wäre heute {year - 1870} Jahre alt. Begründer der Sowjetunion und theoretischer Vordenker des Marxismus-Leninismus. Gedenktag in Betrieben\\, Schulen und Parteiorganisationen.")
 
     # ── MAI ─────────────────────────────────────────────────────────────────
     add_event(lines, date(year, 5, 1),
@@ -253,7 +253,7 @@ for year in YEARS:
         "Tag der Vereinten Nationen – 24. Oktober. Jahrestag des Inkrafttretens der UN-Charta (1945). Die DDR trat den Vereinten Nationen 1973 bei und nutzte den Tag für Bekenntnisse zu Frieden und internationaler Zusammenarbeit.")
 
     add_event(lines, date(year, 10, 7),
-        "Tag der Republik 🇩🇩",
+        "Tag der Republik 🇩🇪",
         "Nationalfeiertag der DDR – Jahrestag der Gründung der Deutschen Demokratischen Republik am 7. Oktober 1949. Bedeutendster Staatsfeiertag. Militärparaden\\, Fackelzüge der FDJ\\, Staatsakt in Berlin. Zu runden Jahrestagen besonders große Feierlichkeiten.")
 
     # ── NOVEMBER ────────────────────────────────────────────────────────────
@@ -364,43 +364,43 @@ for year in YEARS:
 
     add_event(lines, date(year, 1, 3),
         "Geburtstag Wilhelm Pieck (1876) 🕯️",
-        f"Geburtstag Wilhelm Piecks am 3. Januar 1876. Er wäre heute {year - 1876} Jahre alt. Erster und einziger Staatspräsident der DDR (1949–1960)\\, Mitgründer der KPD und der SED. Nach ihm wurden viele Straßen\\, Betriebe und Einrichtungen in der DDR benannt.")
+        f"Wilhelm Pieck wurde am 3. Januar 1876 in Guben geboren. Er wäre heute {year - 1876} Jahre alt. Erster und einziger Staatspräsident der DDR (1949–1960)\\, Mitgründer der KPD und der SED. Nach ihm wurden viele Straßen\\, Betriebe und Einrichtungen in der DDR benannt.")
 
     add_event(lines, date(year, 1, 21),
-        "Todestag W. I. Lenin (1924) 🕯️",
-        "Todestag Wladimir Iljitsch Lenins am 21. Januar 1924. Begründer der Sowjetunion und des Marxismus-Leninismus. In der DDR mit Gedenkfeiern in Betrieben\\, Schulen und Parteiorganisationen begangen.")
+        "Todestag Lenin (1924) 🕯️",
+        "Wladimir Iljitsch Lenin ist am 21. Januar 1924 in Gorki Leninskie verstorben. Begründer der Sowjetunion und des Marxismus-Leninismus. In der DDR mit Gedenkfeiern in Betrieben\\, Schulen und Parteiorganisationen begangen.")
 
     add_event(lines, date(year, 3, 5),
         "Geburtstag Rosa Luxemburg (1871) 🌹",
-        f"Geburtstag Rosa Luxemburgs am 5. März 1871. Sie wäre heute {year - 1871} Jahre alt. Mitbegründerin der KPD\\, revolutionäre Sozialistin und Theoretikerin. Am 15. Januar 1919 ermordet. In der DDR als Märtyrerin der Arbeiterbewegung verehrt.")
+        f"Rosa Luxemburg wurde am 5. März 1871 in Zamość (Russisches Kaiserreich\\, heute Polen) geboren. Sie wäre heute {year - 1871} Jahre alt. Mitbegründerin der KPD\\, revolutionäre Sozialistin und Theoretikerin. Am 15. Januar 1919 ermordet. In der DDR als Märtyrerin der Arbeiterbewegung verehrt.")
 
     add_event(lines, date(year, 3, 11),
         "Geburtstag Otto Grotewohl (1894) 🕯️",
-        f"Geburtstag Otto Grotewohls am 11. März 1894. Er wäre heute {year - 1894} Jahre alt. Erster Ministerpräsident der DDR (1949–1964)\\, führte die SPD in der Sowjetischen Besatzungszone in die Zwangsvereinigung mit der KPD zur SED (1946).")
+        f"Otto Grotewohl wurde am 11. März 1894 in Braunschweig geboren. Er wäre heute {year - 1894} Jahre alt. Erster Ministerpräsident der DDR (1949–1964)\\, führte die SPD in der Sowjetischen Besatzungszone in die Zwangsvereinigung mit der KPD zur SED (1946).")
 
     add_event(lines, date(year, 3, 14),
         "Todestag Karl Marx (1883) 🕯️",
-        "Todestag Karl Marx' am 14. März 1883. Begründer des wissenschaftlichen Sozialismus gemeinsam mit Friedrich Engels. Autor des Kommunistischen Manifests (1848) und des Kapitals. Ideologisches Fundament der DDR.")
+        "Karl Marx ist am 14. März 1883 in London verstorben. Begründer des wissenschaftlichen Sozialismus gemeinsam mit Friedrich Engels. Autor des Kommunistischen Manifests (1848) und des Kapitals. Ideologisches Fundament der DDR.")
 
     add_event(lines, date(year, 4, 16),
         "Geburtstag Ernst Thälmann (1886) ✊",
-        f"Geburtstag Ernst Thälmanns am 16. April 1886. Er wäre heute {year - 1886} Jahre alt. Vorsitzender der KPD (1925–1933)\\, inhaftiert von den Nationalsozialisten 1933\\, am 18. August 1944 im KZ Buchenwald ermordet. Zentrales Heldenbild der DDR – nach ihm wurde die Pionierorganisation benannt.")
+        f"Ernst Thälmann wurde am 16. April 1886 in Hamburg geboren. Er wäre heute {year - 1886} Jahre alt. Vorsitzender der KPD (1925–1933)\\, inhaftiert von den Nationalsozialisten 1933\\, am 18. August 1944 im KZ Buchenwald ermordet. Zentrales Heldenbild der DDR – nach ihm wurde die Pionierorganisation benannt.")
 
     add_event(lines, date(year, 5, 5),
         "Geburtstag Karl Marx (1818) 🕯️",
-        f"Geburtstag Karl Marx' am 5. Mai 1818 in Trier. Er wäre heute {year - 1818} Jahre alt. Philosoph\\, Ökonom und revolutionärer Theoretiker. Seine Schriften bildeten die ideologische Grundlage des Marxismus-Leninismus und damit der gesamten DDR-Staatsideologie.")
+        f"Karl Marx wurde am 5. Mai 1818 in Trier geboren. Er wäre heute {year - 1818} Jahre alt. Philosoph\\, Ökonom und revolutionärer Theoretiker. Seine Schriften bildeten die ideologische Grundlage des Marxismus-Leninismus und damit der gesamten DDR-Staatsideologie.")
 
     add_event(lines, date(year, 6, 30),
         "Geburtstag Walter Ulbricht (1893) 🕯️",
-        f"Geburtstag Walter Ulbrichts am 30. Juni 1893. Er wäre heute {year - 1893} Jahre alt. Erster Sekretär der SED (1950–1971) und Vorsitzender des Staatsrats (1960–1973). Maßgeblich für den Aufbau der DDR verantwortlich\\, ordnete den Mauerbau 1961 an. Gestorben am 1. August 1973.")
+        f"Walter Ulbricht wurde am 30. Juni 1893 in Leipzig geboren. Er wäre heute {year - 1893} Jahre alt. Erster Sekretär der SED (1950–1971) und Vorsitzender des Staatsrats (1960–1973). Maßgeblich für den Aufbau der DDR verantwortlich\\, ordnete den Mauerbau 1961 an. Gestorben am 1. August 1973.")
 
     add_event(lines, date(year, 8, 5),
         "Todestag Friedrich Engels (1895) 🕯️",
-        "Todestag Friedrich Engels' am 5. August 1895. Mitbegründer des wissenschaftlichen Sozialismus gemeinsam mit Karl Marx. Finanzierte Marx' Arbeit und vollendete das Kapital nach dessen Tod. Ideologisches Fundament der DDR.")
+        "Friedrich Engels ist am 5. August 1895 in London verstorben. Mitbegründer des wissenschaftlichen Sozialismus gemeinsam mit Karl Marx. Finanzierte Marx' Arbeit und vollendete das Kapital nach dessen Tod. Ideologisches Fundament der DDR.")
 
     add_event(lines, date(year, 8, 13),
         "Geburtstag Karl Liebknecht (1871) 🕯️",
-        f"Geburtstag Karl Liebknechts am 13. August 1871. Er wäre heute {year - 1871} Jahre alt. Mitbegründer der KPD\\, erklärte am 9. November 1918 die Freie Sozialistische Republik Deutschland. Am 15. Januar 1919 gemeinsam mit Rosa Luxemburg ermordet.")
+        f"Karl Liebknecht wurde am 13. August 1871 in Leipzig geboren. Er wäre heute {year - 1871} Jahre alt. Mitbegründer der KPD\\, erklärte am 9. November 1918 die Freie Sozialistische Republik Deutschland. Am 15. Januar 1919 gemeinsam mit Rosa Luxemburg ermordet.")
 
     add_event(lines, date(year, 8, 13),
         "Jahrestag des Mauerbaus (1961) 🧱",
@@ -412,7 +412,47 @@ for year in YEARS:
 
     add_event(lines, date(year, 11, 28),
         "Geburtstag Friedrich Engels (1820) 🕯️",
-        f"Geburtstag Friedrich Engels' am 28. November 1820 in Barmen (heute Wuppertal). Er wäre heute {year - 1820} Jahre alt. Mitbegründer des Marxismus\\, enger Weggefährte von Karl Marx. Ideologisches Fundament der DDR-Staatsideologie.")
+        f"Friedrich Engels wurde am 28. November 1820 in Barmen (heute Wuppertal) geboren. Er wäre heute {year - 1820} Jahre alt. Mitbegründer des Marxismus\\, enger Weggefährte von Karl Marx. Ideologisches Fundament der DDR-Staatsideologie.")
+
+    add_event(lines, date(year, 9, 7),
+        "Todestag Wilhelm Pieck (1960) 🕯️",
+        "Wilhelm Pieck ist am 7. September 1960 in Moskau verstorben. Erster und einziger Staatspräsident der DDR (1949–1960)\\, Mitgründer der KPD und der SED. Nach seinem Tod wurde das Amt des Staatspräsidenten abgeschafft und durch den Staatsrat ersetzt.")
+
+    add_event(lines, date(year, 9, 21),
+        "Todestag Otto Grotewohl (1964) 🕯️",
+        "Otto Grotewohl ist am 21. September 1964 in Ost-Berlin verstorben. Erster Ministerpräsident der DDR (1949–1964)\\, führte die SPD in der Sowjetischen Besatzungszone in die Zwangsvereinigung mit der KPD zur SED (1946).")
+
+    add_event(lines, date(year, 8, 1),
+        "Todestag Walter Ulbricht (1973) 🕯️",
+        "Walter Ulbricht ist am 1. August 1973 am Döllnsee in Brandenburg verstorben. Erster Sekretär der SED (1950–1971) und Vorsitzender des Staatsrats (1960–1973). Maßgeblich für den Aufbau der DDR verantwortlich\\, ordnete den Mauerbau 1961 an.")
+
+    add_event(lines, date(year, 8, 25),
+        "Geburtstag Erich Honecker (1912) 🕯️",
+        f"Erich Honecker wurde am 25. August 1912 in Neunkirchen (Saar) geboren. Er wäre heute {year - 1912} Jahre alt. Generalsekretär der SED und Vorsitzender des Staatsrats (1971–1989)\\, prägte die DDR in ihrer Spätphase. Verantwortlich für den Schießbefehl an der Grenze. Floh 1991 nach Chile\\, wo er 1994 verstarb.")
+
+    add_event(lines, date(year, 5, 29),
+        "Todestag Erich Honecker (1994) 🕯️",
+        "Erich Honecker ist am 29. Mai 1994 in Santiago de Chile verstorben. Generalsekretär der SED und Vorsitzender des Staatsrats der DDR (1971–1989). Nach dem Mauerfall angeklagt\\, floh er 1991 in die chilenische Botschaft in Moskau und später nach Chile\\, wo er an Leberkrebs starb.")
+
+    add_event(lines, date(year, 4, 17),
+        "Geburtstag Margot Honecker (1927) 🕯️",
+        f"Margot Honecker wurde am 17. April 1927 in Halle (Saale) geboren. Sie wäre heute {year - 1927} Jahre alt. Ministerin für Volksbildung der DDR (1963–1989)\\, eine der mächtigsten Frauen des Staates. Ehefrau von Erich Honecker. Verantwortlich für das sozialistische Bildungssystem der DDR. Floh nach dem Mauerfall nach Chile\\, wo sie 2016 verstarb.")
+
+    add_event(lines, date(year, 5, 6),
+        "Todestag Margot Honecker (2016) 🕯️",
+        "Margot Honecker ist am 6. Mai 2016 in Santiago de Chile verstorben. Ministerin für Volksbildung der DDR (1963–1989)\\, prägte das sozialistische Schul- und Erziehungswesen. Nach dem Mauerfall floh sie gemeinsam mit Erich Honecker nach Chile\\, wo sie bis zu ihrem Tod lebte.")
+
+    add_event(lines, date(year, 3, 19),
+        "Geburtstag Egon Krenz (1937) 🕯️",
+        f"Egon Krenz wurde am 19. März 1937 in Kołobrzeg (damals Kolberg\\, heute Polen) geboren. Er ist heute {year - 1937} Jahre alt. Letzter Generalsekretär der SED und Vorsitzender des Staatsrats der DDR (Oktober–Dezember 1989). Langjähriger FDJ-Vorsitzender (1974–1983)\\, galt als designierter Nachfolger Honeckers. Öffnete am 9. November 1989 die Berliner Mauer. 1997 wegen Totschlags an Mauerflüchtlingen verurteilt.")
+
+    add_event(lines, date(year, 12, 28),
+        "Geburtstag Erich Mielke (1907) 🕯️",
+        f"Erich Mielke wurde am 28. Dezember 1907 in Berlin geboren. Er wäre heute {year - 1907} Jahre alt. Minister für Staatssicherheit der DDR (1957–1989)\\, Chef der Stasi. Baute den DDR-Geheimdienst zu einem der effektivsten Überwachungsapparate der Welt aus. 1993 wegen Mordes an zwei Polizisten im Jahr 1931 verurteilt.")
+
+    add_event(lines, date(year, 5, 21),
+        "Todestag Erich Mielke (2000) 🕯️",
+        "Erich Mielke ist am 21. Mai 2000 in Berlin verstorben. Minister für Staatssicherheit der DDR (1957–1989). Unter seiner Führung beschäftigte die Stasi über 90.000 hauptamtliche Mitarbeiter und rund 170.000 inoffizielle Informanten. Nach der Wende wegen Mordes verurteilt\\, wegen Verhandlungsunfähigkeit jedoch vorzeitig entlassen.")
 
 lines.append("END:VCALENDAR")
 
