@@ -462,6 +462,30 @@ for year in YEARS:
         "Ermordung Karl Liebknecht (1919) 🕯️",
         "Karl Liebknecht ist am 15. Januar 1919 in Berlin ermordet worden. Er wurde 47 Jahre alt. Mitbegründer der KPD\\, erklärte am 9. November 1918 die Freie Sozialistische Republik Deutschland. Nach dem Spartakusaufstand von Freikorpssoldaten verhaftet\\, misshandelt und erschossen. In der DDR als Märtyrer der Arbeiterbewegung verehrt.")
 
+    add_event(lines, date(year, 3, 17),
+        "Weltschifffahrtstag 🚢",
+        "Weltschifffahrtstag – 17. März. Internationaler Gedenktag der Schifffahrt\\, ausgerufen von der Internationalen Seeschifffahrts-Organisation (IMO). In der DDR im Kontext der Seeverkehrswirtschaft und des Rostocker Hafens begangen.")
+
+    add_event(lines, date(year, 4, 12),
+        "Tag der Luft- und Raumfahrt 🚀",
+        "Tag der Luft- und Raumfahrt – 12. April. Jahrestag des ersten bemannten Weltraumflugs durch Juri Gagarin am 12. April 1961. In der DDR mit Veranstaltungen in Schulen\\, Betrieben und Planetarien begangen. Besonders bedeutsam nach dem gemeinsamen Weltraumflug von Sigmund Jähn am 26. August 1978\\, dem ersten Deutschen im Weltall.")
+
+    add_event(lines, date(year, 4, 12),
+        "Tag der Jungen Techniker und Naturforscher 🔬",
+        "Tag der Jungen Techniker und Naturforscher – 12. April. Ehrentag der Kinder und Jugendlichen\\, die sich in den Arbeitsgemeinschaften für Technik\\, Naturwissenschaft und Astronomie engagierten. Organisiert durch die Pionierorganisation Ernst Thälmann und die Gesellschaft für Sport und Technik (GST). Begleitet von Ausstellungen\\, Wettbewerben und Vorführungen.")
+
+    add_event(lines, date(year, 4, 23),
+        "Welttag des Buches 📖",
+        "Welttag des Buches – 23. April. Internationaler Gedenktag für Literatur und das Lesen. In der DDR im Kontext der sozialistischen Bildungspolitik und des staatlichen Verlagswesens begangen. Die DDR hatte eine der höchsten Lesequoten der Welt.")
+
+    add_event(lines, nth_weekday(year, 4, 6, -1),
+        "Welttag der Partnerstädte 🤝",
+        "Welttag der Partnerstädte – letzter Sonntag im April. Internationaler Gedenktag der Städtepartnerschaften\\, ausgerufen vom Weltverband der Partnerstädte (WFUCA). In der DDR wurden Partnerschaften vor allem mit sozialistischen Städten in der UdSSR\\, Polen\\, der Tschechoslowakei und anderen Bruderstaaten gepflegt.")
+
+    add_event(lines, date(year, 6, 16),
+        "Tag der Solidarität mit Südafrika ✊",
+        "Tag der Solidarität mit dem Kampf des Volkes von Südafrika – 16. Juni. Gedenktag im Andenken an den Soweto-Aufstand vom 16. Juni 1976\\, bei dem südafrikanische Schüler gegen die Apartheidpolitik protestierten und von der Polizei erschossen wurden. In der DDR als antiimperialistischer Solidaritätstag begangen.")
+
 lines.append("END:VCALENDAR")
 
 with open("/mnt/user-data/outputs/ddr-feiertage.ics", "w", encoding="utf-8") as f:
