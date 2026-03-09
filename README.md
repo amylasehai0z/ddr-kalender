@@ -27,11 +27,11 @@ Der Kalender enthält **1.820 Einträge** für die Jahre **2024–2075**.
 Jeder Termin enthält eine ausführliche Notiz.
 Es erfolgt ein **automatischer Hinweis zwischen 6 und 7 Uhr morgens**.
 
-### Politische gesetzliche Feiertage
+### Politische gesetzliche Feiertage (Beispiele)
 - Tag der Arbeit (1. Mai)
 - Tag der Republik (7. Oktober) — Nationalfeiertag der DDR
 
-### Politische Gedenk- und Kampftage
+### Politische Gedenk- und Kampftage (Beispiele)
 - Liebknecht & Luxemburg Gedenktag ( der dem 15. Januar nächste Sonntag)
 - Jahrestag der Pariser Kommune (19. März)
 - Gründungstag der SED (21. April)
@@ -46,14 +46,14 @@ Es erfolgt ein **automatischer Hinweis zwischen 6 und 7 Uhr morgens**.
 - KPD-Gründung (30. Dezember)
 - Gründung der UdSSR (30. Dezember)
 
-### Gesellschaftliche Feiertage
+### Gesellschaftliche Feiertage (Beispiele)
 - Tag der FDJ (7. März)
 - Internationaler Frauentag (8. März)
 - Internationaler Kindertag (1. Juni)
 - Tag des Lehrers (12. Juni)
 - Pioniergeburtstag (13. Dezember)
 
-### Berufliche Ehrentage
+### Berufliche Ehrentage (Beispiele)
 - Tag der Werktätigen des Post- und Fernmeldewesens (2. Sonntag im Februar)
 - Tag der Mitarbeiter des Handels (3. Sonntag im Februar)
 - Tag des Metallarbeiters (2. Sonntag im April)
@@ -65,13 +65,13 @@ Es erfolgt ein **automatischer Hinweis zwischen 6 und 7 Uhr morgens**.
 - Tag des Metallurgen (3. Sonntag im November)
 - Tag des Gesundheitswesens (11. Dezember)
 
-### Militärische und Sicherheitsorgane
+### Militärische und Sicherheitsorgane (Beispiele)
 - Tag der NVA (1. März)
 - Tag des MfS (8. Februar)
 - Tag der Deutschen Volkspolizei (1. Juli)
 - Tag der Grenztruppen der DDR (1. Dezember)
 
-### Historische Gedenktage
+### Historische Gedenktage (Beispiele)
 - Befreiung KZ Buchenwald (11. April)
 - Tag der Internationalen Brigaden (18. Juli)
 
