@@ -1,4 +1,4 @@
-# 📅 Kalender der DDR
+# 📅 DDR Kalender
 
 > Jubiläen, Feiertage, Gedenk- und Kampftage in der DDR (Deutsche Demokratische Republik, 1949–1990)  
 > als fortlaufendes iCalendar-Abonnement
@@ -83,7 +83,7 @@ Es erfolgt ein **automatischer Hinweis zwischen 6 und 7 Uhr morgens**.
 |-------|-------------|
 | `ddr-feiertage.ics` | Fertige Kalenderdatei zum Abonnieren |
 | `generate_ddr_ical.py` | Python-Skript zur Generierung der Datei |
-| `DDR-Feiertage-Uebersicht.pdf` | Gedruckte Übersicht aller Feiertage |
+| `DDR-Feiertage.pdf` |  Reklame für den DDR-Kalender |
 
 ---
 
