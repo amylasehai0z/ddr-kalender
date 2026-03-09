@@ -105,7 +105,7 @@ Der Jahresbereich lässt sich im Skript unter `YEARS = range(2024, 2076)` anpass
 
 Die DDR pflegte einen eigenen sozialistischen Festkalender, der religiöse Feiertage weitgehend durch politische Gedenktage ersetzte oder ergänzte. Neben den gesetzlichen Feiertagen prägten Kampftage, Berufsehrentage und gesellschaftliche Festtraditionen wie die **Jugendweihe** das öffentliche Leben.
 
-Dieser Kalender dokumentiert diesen Festkalender als lebendiges iCal-Abonnement — nutzbar in jeder modernen Kalender-App, mit Erinnerungen und ausführlichen historischen Notizen zu jedem Termin.
+Dieser Kalender dokumentiert diesen Festkalender als lebendiges iCal-Abonnement — nutzbar in jeder modernen Kalender-App, mit Erinnerungen und ausführlichen historischen Notizen zu jedem Termin. Die Inhalte werden fortlaufend erweitert.
 
 ---
 
