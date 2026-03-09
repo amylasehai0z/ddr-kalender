@@ -408,7 +408,7 @@ for year in YEARS:
 
     add_event(lines, date(year, 8, 18),
         "Ermordung Ernst Thälmanns (1944) 🕯️",
-        "Jahrestag der Ermordung Ernst Thälmanns im KZ Buchenwald am 18. August 1944 auf Befehl Hitlers. Zentrales Märtyrerdatum der DDR-Gedenkkultur. Mit Gedenkfeiern\\, Kranzniederlegungen und Appellen der Pionierorganisation begangen.")
+        "Ernst Thälmann ist am 18. August 1944 im KZ Buchenwald ermordet worden. Er wurde 57 Jahre alt. Auf Befehl Hitlers erschossen. Zentrales Märtyrerdatum der DDR-Gedenkkultur. Mit Gedenkfeiern\\, Kranzniederlegungen und Appellen der Pionierorganisation begangen.")
 
     add_event(lines, date(year, 11, 28),
         "Geburtstag Friedrich Engels (1820) 🕯️",
