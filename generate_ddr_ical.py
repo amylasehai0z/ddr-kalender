@@ -254,7 +254,7 @@ for year in YEARS:
 
     add_event(lines, date(year, 10, 7),
         "Tag der Republik 🇩🇪",
-        "Nationalfeiertag der DDR – Jahrestag der Gründung der Deutschen Demokratischen Republik am 7. Oktober 1949. Bedeutendster Staatsfeiertag. Militärparaden\\, Fackelzüge der FDJ\\, Staatsakt in Berlin. Zu runden Jahrestagen besonders große Feierlichkeiten.")
+        "Am 21. April 1950 wurde der Nationalfeiertag der Deutschen Demokratischen Republik am 7. Oktober zum bedeutendsten Staatsfeiertag der DDR erklärt. Seitdem wurde er jährlich in Berlin festlich mit einem Staatsakt und einer Militärparade begangen. In der ganzen Republik feierte das Volk mit staatlich organisierten Demonstrationen\\, Festveranstaltungen und Fackelzügen der FDJ den Tag der Republik. An diesem Tag wurden auch die Nationalpreise der DDR an verdiente Künstler\\, Wissenschaftler\\, Techniker und Aktivisten verliehen. Zu runden Jahrestagen gab besonders große Feierlichkeiten. Außerdem wurden alle fünf Jahre Sonderbriefmarken zum Staatsgeburtstag der DDR herausgegeben.")
 
     # ── NOVEMBER ────────────────────────────────────────────────────────────
     add_event(lines, date(year, 11, 7),
