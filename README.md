@@ -83,7 +83,7 @@ Es erfolgt ein **automatischer Hinweis zwischen 6 und 7 Uhr morgens**.
 |-------|-------------|
 | `ddr-feiertage.ics` | Fertige Kalenderdatei zum Abonnieren |
 | `generate_ddr_ical.py` | Python-Skript zur Generierung der Datei |
-| `DDR-Feiertage.pdf` |  Reklame für den DDR-Kalender |
+| `DDR-Feiertage.pdf` |  Reklame für diesen DDR-Kalender |
 
 ---
 
