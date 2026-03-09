@@ -32,7 +32,7 @@ Es erfolgt ein **automatischer Hinweis zwischen 6 und 7 Uhr morgens**.
 - Tag der Republik (7. Oktober) — Nationalfeiertag der DDR
 
 ### Politische Gedenk- und Kampftage
-- Liebknecht & Luxemburg Gedenktag (Sonntag nearest 15. Januar)
+- Liebknecht & Luxemburg Gedenktag ( der dem 15. Januar nächste Sonntag)
 - Jahrestag der Pariser Kommune (19. März)
 - Gründungstag der SED (21. April)
 - Geburtstag W. I. Lenin (22. April)
@@ -53,12 +53,6 @@ Es erfolgt ein **automatischer Hinweis zwischen 6 und 7 Uhr morgens**.
 - Tag des Lehrers (12. Juni)
 - Pioniergeburtstag (13. Dezember)
 
-### Militärische und Sicherheitsorgane
-- Tag der NVA (1. März)
-- Tag des MfS (8. Februar)
-- Tag der Deutschen Volkspolizei (1. Juli)
-- Tag der Grenztruppen der DDR (1. Dezember)
-
 ### Berufliche Ehrentage
 - Tag der Werktätigen des Post- und Fernmeldewesens (2. Sonntag im Februar)
 - Tag der Mitarbeiter des Handels (3. Sonntag im Februar)
@@ -70,6 +64,12 @@ Es erfolgt ein **automatischer Hinweis zwischen 6 und 7 Uhr morgens**.
 - Tag des Chemiearbeiters (2. Sonntag im November)
 - Tag des Metallurgen (3. Sonntag im November)
 - Tag des Gesundheitswesens (11. Dezember)
+
+### Militärische und Sicherheitsorgane
+- Tag der NVA (1. März)
+- Tag des MfS (8. Februar)
+- Tag der Deutschen Volkspolizei (1. Juli)
+- Tag der Grenztruppen der DDR (1. Dezember)
 
 ### Historische Gedenktage
 - Befreiung KZ Buchenwald (11. April)
