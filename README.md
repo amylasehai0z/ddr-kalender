@@ -1,6 +1,7 @@
 # 📅 DDR Kalender
 
-> Jubiläen, Feiertage, Gedenk- und Kampftage in der DDR (Deutsche Demokratische Republik, 1949–1990)  
+> Jubiläen, Feiertage, Gedenk- und Kampftage in der DDR (Deutsche Demokratische Republik, 1949–1990)
+> fast 100 wiederkehrende Einträge pro Kalenderjahr  
 > als fortlaufendes iCalendar-Abonnement
 
 ---
