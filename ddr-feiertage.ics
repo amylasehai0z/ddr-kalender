@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//DDR Feiertage und Gedenktage//DE
+PRODID:-//DDR Gedenk- und Feiertage//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:DDR Feiertage & Gedenktage
+X-WR-CALNAME:DDR Gedenk- und Feiertage
 X-WR-CALDESC:Offizielle Feiertage\, Gedenk- und Kampftage der Deutschen Demokratischen Republik (DDR)
 X-WR-TIMEZONE:Europe/Berlin
 REFRESH-INTERVAL;VALUE=DURATION:P1W
@@ -9889,3 +9889,4 @@ CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
+
