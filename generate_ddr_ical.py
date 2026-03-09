@@ -304,7 +304,7 @@ for year in YEARS:
 
     add_event(lines, date(year, 12, 30),
         "Gründung der UdSSR (1922) ☭",
-        "Jahrestag der Gründung der Union der Sozialistischen Sowjetrepubliken (UdSSR) am 30. Dezember 1922. In der DDR als Jubiläum des ersten sozialistischen Staates gewürdigt.")
+        "Jahrestag der Gründung der Union der Sozialistischen Sowjetrepubliken (UdSSR) am 30. Dezember 1922. In der DDR als Jubiläum des ersten sozialistischen Staates gewürdigt. Die Sowjetunion war ein von der KPdSU zentralistisch regierter\\, föderativer Vielvölkerstaat\\, dessen Territorium sich über Osteuropa\\, den Kaukasus\\, Zentral- und über das gesamte Nordasien erstreckte. Zu den 15 Unionsrepubliken der UdSSR gehörten die Russische SFSR\\, die Ukrainische SSR\\, die Weißrussische SSR\\, die Usbekische SSR\\, die Kasachische SSR\\, die Georgische SSR\\, die Aserbaidschanische SSR\\, die Litauische SSR\\, die Moldauische SSR\\, die Lettische SSR\\, die Kirgisische SSR\\, die Tadschikische SSR\\, die Armenische SSR\\, die Turkmenische SSR und die Estnische SSR.")
 
     # ── NEUE EHRENTAGE ───────────────────────────────────────────────────────
 
