@@ -337,7 +337,7 @@ for year in YEARS:
         "Internationaler Tag der Jugend und Studenten gegen Kolonialismus und für friedliche Koexistenz – 24. April. In der DDR als antikolonialer Solidaritätstag begangen.")
 
     add_event(lines, date(year, 5, 8),
-        "Weltrotkreuztag 🔴",
+        "Weltrotkreuztag 🏥 🔴",
         "Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.")
 
     add_event(lines, date(year, 5, 10),

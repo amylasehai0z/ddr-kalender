@@ -864,17 +864,17 @@ TRIGGER;VALUE=DATE-TIME:20240424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2024@ddr-kalender
+UID:ddr-weltrotkreuztag---2024@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20240508
 DTEND;VALUE=DATE:20240509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20240508T060000
 END:VALARM
 END:VEVENT
@@ -2154,17 +2154,17 @@ TRIGGER;VALUE=DATE-TIME:20250424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2025@ddr-kalender
+UID:ddr-weltrotkreuztag---2025@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20250508
 DTEND;VALUE=DATE:20250509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20250508T060000
 END:VALARM
 END:VEVENT
@@ -3444,17 +3444,17 @@ TRIGGER;VALUE=DATE-TIME:20260424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2026@ddr-kalender
+UID:ddr-weltrotkreuztag---2026@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20260508T060000
 END:VALARM
 END:VEVENT
@@ -4734,17 +4734,17 @@ TRIGGER;VALUE=DATE-TIME:20270424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2027@ddr-kalender
+UID:ddr-weltrotkreuztag---2027@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20270508T060000
 END:VALARM
 END:VEVENT
@@ -6024,17 +6024,17 @@ TRIGGER;VALUE=DATE-TIME:20280424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2028@ddr-kalender
+UID:ddr-weltrotkreuztag---2028@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20280508
 DTEND;VALUE=DATE:20280509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20280508T060000
 END:VALARM
 END:VEVENT
@@ -7314,17 +7314,17 @@ TRIGGER;VALUE=DATE-TIME:20290424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2029@ddr-kalender
+UID:ddr-weltrotkreuztag---2029@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20290508
 DTEND;VALUE=DATE:20290509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20290508T060000
 END:VALARM
 END:VEVENT
@@ -8604,17 +8604,17 @@ TRIGGER;VALUE=DATE-TIME:20300424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2030@ddr-kalender
+UID:ddr-weltrotkreuztag---2030@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20300508
 DTEND;VALUE=DATE:20300509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20300508T060000
 END:VALARM
 END:VEVENT
@@ -9894,17 +9894,17 @@ TRIGGER;VALUE=DATE-TIME:20310424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2031@ddr-kalender
+UID:ddr-weltrotkreuztag---2031@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20310508
 DTEND;VALUE=DATE:20310509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20310508T060000
 END:VALARM
 END:VEVENT
@@ -11184,17 +11184,17 @@ TRIGGER;VALUE=DATE-TIME:20320424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2032@ddr-kalender
+UID:ddr-weltrotkreuztag---2032@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20320508
 DTEND;VALUE=DATE:20320509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20320508T060000
 END:VALARM
 END:VEVENT
@@ -12474,17 +12474,17 @@ TRIGGER;VALUE=DATE-TIME:20330424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2033@ddr-kalender
+UID:ddr-weltrotkreuztag---2033@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20330508
 DTEND;VALUE=DATE:20330509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20330508T060000
 END:VALARM
 END:VEVENT
@@ -13764,17 +13764,17 @@ TRIGGER;VALUE=DATE-TIME:20340424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2034@ddr-kalender
+UID:ddr-weltrotkreuztag---2034@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20340508
 DTEND;VALUE=DATE:20340509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20340508T060000
 END:VALARM
 END:VEVENT
@@ -15054,17 +15054,17 @@ TRIGGER;VALUE=DATE-TIME:20350424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2035@ddr-kalender
+UID:ddr-weltrotkreuztag---2035@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20350508
 DTEND;VALUE=DATE:20350509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20350508T060000
 END:VALARM
 END:VEVENT
@@ -16344,17 +16344,17 @@ TRIGGER;VALUE=DATE-TIME:20360424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2036@ddr-kalender
+UID:ddr-weltrotkreuztag---2036@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20360508
 DTEND;VALUE=DATE:20360509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20360508T060000
 END:VALARM
 END:VEVENT
@@ -17634,17 +17634,17 @@ TRIGGER;VALUE=DATE-TIME:20370424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2037@ddr-kalender
+UID:ddr-weltrotkreuztag---2037@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20370508
 DTEND;VALUE=DATE:20370509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20370508T060000
 END:VALARM
 END:VEVENT
@@ -18924,17 +18924,17 @@ TRIGGER;VALUE=DATE-TIME:20380424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2038@ddr-kalender
+UID:ddr-weltrotkreuztag---2038@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20380508
 DTEND;VALUE=DATE:20380509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20380508T060000
 END:VALARM
 END:VEVENT
@@ -20214,17 +20214,17 @@ TRIGGER;VALUE=DATE-TIME:20390424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2039@ddr-kalender
+UID:ddr-weltrotkreuztag---2039@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20390508
 DTEND;VALUE=DATE:20390509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20390508T060000
 END:VALARM
 END:VEVENT
@@ -21504,17 +21504,17 @@ TRIGGER;VALUE=DATE-TIME:20400424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2040@ddr-kalender
+UID:ddr-weltrotkreuztag---2040@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20400508
 DTEND;VALUE=DATE:20400509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20400508T060000
 END:VALARM
 END:VEVENT
@@ -22794,17 +22794,17 @@ TRIGGER;VALUE=DATE-TIME:20410424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2041@ddr-kalender
+UID:ddr-weltrotkreuztag---2041@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20410508
 DTEND;VALUE=DATE:20410509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20410508T060000
 END:VALARM
 END:VEVENT
@@ -24084,17 +24084,17 @@ TRIGGER;VALUE=DATE-TIME:20420424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2042@ddr-kalender
+UID:ddr-weltrotkreuztag---2042@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20420508
 DTEND;VALUE=DATE:20420509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20420508T060000
 END:VALARM
 END:VEVENT
@@ -25374,17 +25374,17 @@ TRIGGER;VALUE=DATE-TIME:20430424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2043@ddr-kalender
+UID:ddr-weltrotkreuztag---2043@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20430508
 DTEND;VALUE=DATE:20430509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20430508T060000
 END:VALARM
 END:VEVENT
@@ -26664,17 +26664,17 @@ TRIGGER;VALUE=DATE-TIME:20440424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2044@ddr-kalender
+UID:ddr-weltrotkreuztag---2044@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20440508
 DTEND;VALUE=DATE:20440509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20440508T060000
 END:VALARM
 END:VEVENT
@@ -27954,17 +27954,17 @@ TRIGGER;VALUE=DATE-TIME:20450424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2045@ddr-kalender
+UID:ddr-weltrotkreuztag---2045@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20450508
 DTEND;VALUE=DATE:20450509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20450508T060000
 END:VALARM
 END:VEVENT
@@ -29244,17 +29244,17 @@ TRIGGER;VALUE=DATE-TIME:20460424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2046@ddr-kalender
+UID:ddr-weltrotkreuztag---2046@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20460508
 DTEND;VALUE=DATE:20460509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20460508T060000
 END:VALARM
 END:VEVENT
@@ -30534,17 +30534,17 @@ TRIGGER;VALUE=DATE-TIME:20470424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2047@ddr-kalender
+UID:ddr-weltrotkreuztag---2047@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20470508
 DTEND;VALUE=DATE:20470509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20470508T060000
 END:VALARM
 END:VEVENT
@@ -31824,17 +31824,17 @@ TRIGGER;VALUE=DATE-TIME:20480424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2048@ddr-kalender
+UID:ddr-weltrotkreuztag---2048@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20480508
 DTEND;VALUE=DATE:20480509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20480508T060000
 END:VALARM
 END:VEVENT
@@ -33114,17 +33114,17 @@ TRIGGER;VALUE=DATE-TIME:20490424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2049@ddr-kalender
+UID:ddr-weltrotkreuztag---2049@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20490508
 DTEND;VALUE=DATE:20490509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20490508T060000
 END:VALARM
 END:VEVENT
@@ -34404,17 +34404,17 @@ TRIGGER;VALUE=DATE-TIME:20500424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2050@ddr-kalender
+UID:ddr-weltrotkreuztag---2050@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20500508
 DTEND;VALUE=DATE:20500509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20500508T060000
 END:VALARM
 END:VEVENT
@@ -35694,17 +35694,17 @@ TRIGGER;VALUE=DATE-TIME:20510424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2051@ddr-kalender
+UID:ddr-weltrotkreuztag---2051@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20510508
 DTEND;VALUE=DATE:20510509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20510508T060000
 END:VALARM
 END:VEVENT
@@ -36984,17 +36984,17 @@ TRIGGER;VALUE=DATE-TIME:20520424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2052@ddr-kalender
+UID:ddr-weltrotkreuztag---2052@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20520508
 DTEND;VALUE=DATE:20520509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20520508T060000
 END:VALARM
 END:VEVENT
@@ -38274,17 +38274,17 @@ TRIGGER;VALUE=DATE-TIME:20530424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2053@ddr-kalender
+UID:ddr-weltrotkreuztag---2053@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20530508
 DTEND;VALUE=DATE:20530509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20530508T060000
 END:VALARM
 END:VEVENT
@@ -39564,17 +39564,17 @@ TRIGGER;VALUE=DATE-TIME:20540424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2054@ddr-kalender
+UID:ddr-weltrotkreuztag---2054@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20540508
 DTEND;VALUE=DATE:20540509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20540508T060000
 END:VALARM
 END:VEVENT
@@ -40854,17 +40854,17 @@ TRIGGER;VALUE=DATE-TIME:20550424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2055@ddr-kalender
+UID:ddr-weltrotkreuztag---2055@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20550508
 DTEND;VALUE=DATE:20550509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20550508T060000
 END:VALARM
 END:VEVENT
@@ -42144,17 +42144,17 @@ TRIGGER;VALUE=DATE-TIME:20560424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2056@ddr-kalender
+UID:ddr-weltrotkreuztag---2056@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20560508
 DTEND;VALUE=DATE:20560509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20560508T060000
 END:VALARM
 END:VEVENT
@@ -43434,17 +43434,17 @@ TRIGGER;VALUE=DATE-TIME:20570424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2057@ddr-kalender
+UID:ddr-weltrotkreuztag---2057@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20570508
 DTEND;VALUE=DATE:20570509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20570508T060000
 END:VALARM
 END:VEVENT
@@ -44724,17 +44724,17 @@ TRIGGER;VALUE=DATE-TIME:20580424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2058@ddr-kalender
+UID:ddr-weltrotkreuztag---2058@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20580508
 DTEND;VALUE=DATE:20580509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20580508T060000
 END:VALARM
 END:VEVENT
@@ -46014,17 +46014,17 @@ TRIGGER;VALUE=DATE-TIME:20590424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2059@ddr-kalender
+UID:ddr-weltrotkreuztag---2059@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20590508
 DTEND;VALUE=DATE:20590509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20590508T060000
 END:VALARM
 END:VEVENT
@@ -47304,17 +47304,17 @@ TRIGGER;VALUE=DATE-TIME:20600424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2060@ddr-kalender
+UID:ddr-weltrotkreuztag---2060@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20600508
 DTEND;VALUE=DATE:20600509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20600508T060000
 END:VALARM
 END:VEVENT
@@ -48594,17 +48594,17 @@ TRIGGER;VALUE=DATE-TIME:20610424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2061@ddr-kalender
+UID:ddr-weltrotkreuztag---2061@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20610508
 DTEND;VALUE=DATE:20610509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20610508T060000
 END:VALARM
 END:VEVENT
@@ -49884,17 +49884,17 @@ TRIGGER;VALUE=DATE-TIME:20620424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2062@ddr-kalender
+UID:ddr-weltrotkreuztag---2062@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20620508
 DTEND;VALUE=DATE:20620509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20620508T060000
 END:VALARM
 END:VEVENT
@@ -51174,17 +51174,17 @@ TRIGGER;VALUE=DATE-TIME:20630424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2063@ddr-kalender
+UID:ddr-weltrotkreuztag---2063@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20630508
 DTEND;VALUE=DATE:20630509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20630508T060000
 END:VALARM
 END:VEVENT
@@ -52464,17 +52464,17 @@ TRIGGER;VALUE=DATE-TIME:20640424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2064@ddr-kalender
+UID:ddr-weltrotkreuztag---2064@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20640508
 DTEND;VALUE=DATE:20640509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20640508T060000
 END:VALARM
 END:VEVENT
@@ -53754,17 +53754,17 @@ TRIGGER;VALUE=DATE-TIME:20650424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2065@ddr-kalender
+UID:ddr-weltrotkreuztag---2065@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20650508
 DTEND;VALUE=DATE:20650509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20650508T060000
 END:VALARM
 END:VEVENT
@@ -55044,17 +55044,17 @@ TRIGGER;VALUE=DATE-TIME:20660424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2066@ddr-kalender
+UID:ddr-weltrotkreuztag---2066@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20660508
 DTEND;VALUE=DATE:20660509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20660508T060000
 END:VALARM
 END:VEVENT
@@ -56334,17 +56334,17 @@ TRIGGER;VALUE=DATE-TIME:20670424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2067@ddr-kalender
+UID:ddr-weltrotkreuztag---2067@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20670508
 DTEND;VALUE=DATE:20670509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20670508T060000
 END:VALARM
 END:VEVENT
@@ -57624,17 +57624,17 @@ TRIGGER;VALUE=DATE-TIME:20680424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2068@ddr-kalender
+UID:ddr-weltrotkreuztag---2068@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20680508
 DTEND;VALUE=DATE:20680509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20680508T060000
 END:VALARM
 END:VEVENT
@@ -58914,17 +58914,17 @@ TRIGGER;VALUE=DATE-TIME:20690424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2069@ddr-kalender
+UID:ddr-weltrotkreuztag---2069@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20690508
 DTEND;VALUE=DATE:20690509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20690508T060000
 END:VALARM
 END:VEVENT
@@ -60204,17 +60204,17 @@ TRIGGER;VALUE=DATE-TIME:20700424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2070@ddr-kalender
+UID:ddr-weltrotkreuztag---2070@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20700508
 DTEND;VALUE=DATE:20700509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20700508T060000
 END:VALARM
 END:VEVENT
@@ -61494,17 +61494,17 @@ TRIGGER;VALUE=DATE-TIME:20710424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2071@ddr-kalender
+UID:ddr-weltrotkreuztag---2071@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20710508
 DTEND;VALUE=DATE:20710509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20710508T060000
 END:VALARM
 END:VEVENT
@@ -62784,17 +62784,17 @@ TRIGGER;VALUE=DATE-TIME:20720424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2072@ddr-kalender
+UID:ddr-weltrotkreuztag---2072@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20720508
 DTEND;VALUE=DATE:20720509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20720508T060000
 END:VALARM
 END:VEVENT
@@ -64074,17 +64074,17 @@ TRIGGER;VALUE=DATE-TIME:20730424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2073@ddr-kalender
+UID:ddr-weltrotkreuztag---2073@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20730508
 DTEND;VALUE=DATE:20730509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20730508T060000
 END:VALARM
 END:VEVENT
@@ -65364,17 +65364,17 @@ TRIGGER;VALUE=DATE-TIME:20740424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2074@ddr-kalender
+UID:ddr-weltrotkreuztag---2074@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20740508
 DTEND;VALUE=DATE:20740509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20740508T060000
 END:VALARM
 END:VEVENT
@@ -66654,17 +66654,17 @@ TRIGGER;VALUE=DATE-TIME:20750424T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ddr-weltrotkreuztag--2075@ddr-kalender
+UID:ddr-weltrotkreuztag---2075@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20750508
 DTEND;VALUE=DATE:20750509
-SUMMARY:Weltrotkreuztag 🔴
+SUMMARY:Weltrotkreuztag 🏥 🔴
 DESCRIPTION:Weltrotkreuztag – 8. Mai. Geburtstag von Henri Dunant\, dem Gründer des Roten Kreuzes (1828). In der DDR durch das Deutsche Rote Kreuz (DRK) mit Veranstaltungen und Spendenaktionen begangen.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Weltrotkreuztag 🔴
+DESCRIPTION:Weltrotkreuztag 🏥 🔴
 TRIGGER;VALUE=DATE-TIME:20750508T060000
 END:VALARM
 END:VEVENT
