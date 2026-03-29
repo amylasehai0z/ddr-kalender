@@ -1,5 +1,5 @@
 // DDR Kalender – Service Worker
-const CACHE = 'ddr-kalender-v1';
+const CACHE = 'ddr-kalender-v2';
 const ASSETS = [
   './',
   './index.html',
