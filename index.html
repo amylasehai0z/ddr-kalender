@@ -3,39 +3,48 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#9B0000">
+<meta name="theme-color" content="#C89520">
 <meta name="description" content="Gedenk- und Feiertage der Deutschen Demokratischen Republik">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="DDR Kalender">
 <link rel="manifest" href="manifest.json">
 <title>DDR Kalender</title>
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Special+Elite&family=PT+Serif:ital@0;1&display=swap" rel="stylesheet">
 <style>
+/* ── RAL FARBPALETTE ──────────────────────────────────────────────────────────
+   RAL 1003 Signalgelb    #F9A800  Haupthintergrund
+   RAL 1005 Honiggelb     #C89520  Karten / mittlere Ebene
+   RAL 1019 Graubeige     #9B896B  tiefe Ebene / Holzpapier mittel
+   RAL 8008 Olivbraun     #6F4F28  dunkelste Ebene / Holzpapier dunkel
+   RAL 3002 Karminrot     #A52019  Schrift / Akzent
+   RAL 3004 Purpurrot     #701F29  gedämmte Schrift
+   RAL 1001 Beige         #C7B446  Kontrastelement
+   RAL 9005 Tiefschwarz   #0A0A0A  Borders
+────────────────────────────────────────────────────────────────────────────── */
 :root {
-  --bg:        #7a0000;
-  --bg-dark:   #5c0000;
-  --bg-deeper: #3e0000;
-  --bg-card:   #8e0000;
-  --bg-card2:  #6a0000;
-  --rot:       #CC0000;
-  --gold:      #D4A017;
-  --gold-hell: #e8c020;
-  --schwarz:   #1a0000;
-  --creme:     #F5EDD8;
-  --text:      #f0e0c8;
-  --text-dim:  #c89878;
-  --border:    rgba(0,0,0,0.35);
-  --border-light: rgba(255,255,255,0.08);
+  --bg:        #F9A800;   /* RAL 1003 Signalgelb   */
+  --bg-mid:    #C89520;   /* RAL 1005 Honiggelb    */
+  --bg-deep:   #9B896B;   /* RAL 1019 Graubeige / Holzpapier mittel */
+  --bg-deeper: #6F4F28;   /* RAL 8008 Olivbraun / Holzpapier dunkel */
+  --rot:       #A52019;   /* RAL 3002 Karminrot    */
+  --rot-dim:   #701F29;   /* RAL 3004 Purpurrot    */
+  --gold:      #C7B446;   /* RAL 1001 Beige/Gold   */
+  --schwarz:   #0A0A0A;   /* RAL 9005 Tiefschwarz  */
+  --text:      #3a1008;   /* Sehr dunkles Rotbraun */
+  --text-dim:  #6b2a10;   /* Mittleres Rotbraun    */
+  --creme:     #FFF3D0;   /* Warmes Cremeweiß      */
+  --border:    rgba(0,0,0,0.2);
+  --border-l:  rgba(255,255,255,0.15);
 
-  --cat-staat:         #FFD700;
-  --cat-staat-bg:      rgba(255,215,0,0.12);
-  --cat-person:        #f0b060;
-  --cat-person-bg:     rgba(240,176,96,0.12);
-  --cat-intl:          #88ccee;
-  --cat-intl-bg:       rgba(136,204,238,0.12);
-  --cat-beruf:         #88ddaa;
-  --cat-beruf-bg:      rgba(136,221,170,0.12);
+  --cat-staat:     #A52019;
+  --cat-staat-bg:  rgba(165,32,25,0.1);
+  --cat-person:    #701F29;
+  --cat-person-bg: rgba(112,31,41,0.1);
+  --cat-intl:      #1a4a6a;
+  --cat-intl-bg:   rgba(26,74,106,0.1);
+  --cat-beruf:     #1a4a20;
+  --cat-beruf-bg:  rgba(26,74,32,0.1);
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body {
@@ -49,11 +58,9 @@ body {
 /* ── HEADER ── */
 header {
   background: var(--bg-deeper);
-  border-bottom: 2px solid rgba(0,0,0,0.5);
-  position: sticky;
-  top: 0;
-  z-index: 100;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.4);
+  border-bottom: 3px solid var(--rot);
+  position: sticky; top: 0; z-index: 100;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.25);
 }
 .header-top {
   display: flex;
@@ -66,131 +73,84 @@ header {
 .logo-emblem { width: 40px; height: 40px; flex-shrink: 0; }
 .logo-title {
   font-family: 'Oswald', sans-serif;
-  font-size: 1.3rem;
-  font-weight: 700;
+  font-size: 1.3rem; font-weight: 700;
   color: var(--creme);
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  line-height: 1;
+  letter-spacing: 0.12em; text-transform: uppercase; line-height: 1;
 }
 .logo-sub {
   font-family: 'Special Elite', monospace;
-  font-size: 0.58rem;
-  color: var(--gold);
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  margin-top: 2px;
+  font-size: 0.58rem; color: var(--gold);
+  letter-spacing: 0.18em; text-transform: uppercase; margin-top: 2px;
 }
 .header-right { display: flex; align-items: center; gap: 0.5rem; }
 
 .install-btn {
   display: none;
-  align-items: center;
-  gap: 0.35rem;
+  align-items: center; gap: 0.35rem;
   padding: 0.3rem 0.65rem;
-  background: none;
-  border: 1px solid var(--gold);
-  color: var(--gold);
-  font-family: 'Oswald', sans-serif;
-  font-size: 0.68rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  border-radius: 2px;
-  cursor: pointer;
-  transition: all 0.15s;
-  white-space: nowrap;
+  background: none; border: 1px solid var(--gold); color: var(--gold);
+  font-family: 'Oswald', sans-serif; font-size: 0.68rem;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  border-radius: 2px; cursor: pointer; transition: all 0.15s;
 }
 .install-btn.visible { display: flex; }
 .install-btn:hover { background: var(--gold); color: var(--schwarz); }
 
 .year-nav { display: flex; align-items: center; gap: 0.4rem; }
 .year-btn {
-  background: rgba(0,0,0,0.3);
-  border: 1px solid rgba(0,0,0,0.4);
-  color: var(--creme);
-  width: 30px; height: 30px;
-  border-radius: 2px;
-  cursor: pointer;
-  font-size: 1rem;
-  display: flex; align-items: center; justify-content: center;
+  background: rgba(0,0,0,0.25); border: 1px solid rgba(0,0,0,0.3);
+  color: var(--creme); width: 30px; height: 30px; border-radius: 2px;
+  cursor: pointer; font-size: 1rem; display: flex; align-items: center; justify-content: center;
   transition: background 0.15s;
 }
-.year-btn:hover { background: rgba(0,0,0,0.55); }
+.year-btn:hover { background: var(--rot); border-color: var(--rot); }
 .year-btn:disabled { opacity: 0.3; cursor: default; }
 .year-display {
-  font-family: 'Oswald', sans-serif;
-  font-size: 1.6rem;
-  font-weight: 700;
-  color: var(--gold);
-  min-width: 72px;
-  text-align: center;
+  font-family: 'Oswald', sans-serif; font-size: 1.6rem; font-weight: 700;
+  color: var(--creme); min-width: 72px; text-align: center;
 }
 
 /* ── NAV TABS ── */
-.nav-tabs {
-  display: flex;
-  border-top: 1px solid rgba(0,0,0,0.3);
-}
+.nav-tabs { display: flex; border-top: 1px solid rgba(0,0,0,0.2); }
 .tab {
-  flex: 1;
-  padding: 0.45rem 0.5rem;
-  text-align: center;
-  font-family: 'Oswald', sans-serif;
-  font-size: 0.72rem;
-  font-weight: 400;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: rgba(240,224,200,0.45);
-  cursor: pointer;
-  border-bottom: 2px solid transparent;
-  transition: all 0.15s;
+  flex: 1; padding: 0.45rem 0.5rem; text-align: center;
+  font-family: 'Oswald', sans-serif; font-size: 0.72rem;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  color: rgba(255,243,208,0.4); cursor: pointer;
+  border-bottom: 2px solid transparent; transition: all 0.15s;
 }
-.tab.active { color: var(--creme); border-bottom-color: var(--gold); background: rgba(0,0,0,0.2); }
-.tab:hover:not(.active) { color: rgba(240,224,200,0.75); }
+.tab.active { color: var(--creme); border-bottom-color: var(--gold); background: rgba(0,0,0,0.15); }
+.tab:hover:not(.active) { color: rgba(255,243,208,0.7); }
 
 /* ── FILTER BAR ── */
 .filter-bar {
-  display: flex;
-  align-items: center;
-  gap: 0.35rem;
+  display: flex; align-items: center; gap: 0.35rem;
   padding: 0.4rem 1.2rem;
-  border-top: 1px solid rgba(0,0,0,0.25);
-  overflow-x: auto;
-  scrollbar-width: none;
-  flex-wrap: wrap;
-  background: rgba(0,0,0,0.15);
+  border-top: 1px solid rgba(0,0,0,0.15);
+  overflow-x: auto; scrollbar-width: none; flex-wrap: wrap;
+  background: rgba(0,0,0,0.12);
 }
 .filter-bar::-webkit-scrollbar { display: none; }
 .filter-label {
-  font-family: 'Special Elite', monospace;
-  font-size: 0.58rem;
-  color: rgba(240,200,160,0.4);
-  letter-spacing: 0.15em;
-  white-space: nowrap;
+  font-family: 'Special Elite', monospace; font-size: 0.58rem;
+  color: rgba(255,243,208,0.4); letter-spacing: 0.15em; white-space: nowrap;
 }
 .chip {
-  padding: 0.18rem 0.55rem;
-  border-radius: 2px;
-  border: 1px solid transparent;
-  cursor: pointer;
-  font-family: 'Oswald', sans-serif;
-  font-size: 0.68rem;
-  letter-spacing: 0.07em;
-  text-transform: uppercase;
-  white-space: nowrap;
-  transition: all 0.15s;
-  display: inline-flex; align-items: center; gap: 0.25rem;
+  padding: 0.18rem 0.55rem; border-radius: 2px; border: 1px solid transparent;
+  cursor: pointer; font-family: 'Oswald', sans-serif; font-size: 0.68rem;
+  letter-spacing: 0.07em; text-transform: uppercase; white-space: nowrap;
+  transition: all 0.15s; display: inline-flex; align-items: center; gap: 0.25rem;
 }
 .chip-dot { width: 6px; height: 6px; border-radius: 50%; }
-.chip[data-cat="all"] { color: var(--creme); border-color: rgba(255,255,255,0.2); }
-.chip[data-cat="all"].active { background: rgba(0,0,0,0.35); border-color: rgba(255,255,255,0.35); }
-.chip[data-cat="staat"] { color: var(--cat-staat); border-color: rgba(255,215,0,0.25); }
+.chip[data-cat="all"] { color: var(--creme); border-color: rgba(255,255,255,0.25); }
+.chip[data-cat="all"].active { background: rgba(0,0,0,0.3); border-color: rgba(255,255,255,0.4); }
+.chip[data-cat="staat"] { color: #ffb8b0; border-color: rgba(165,32,25,0.4); }
 .chip[data-cat="staat"].active { background: var(--cat-staat-bg); border-color: var(--cat-staat); }
-.chip[data-cat="person"] { color: var(--cat-person); border-color: rgba(240,176,96,0.25); }
+.chip[data-cat="person"] { color: #ffccd0; border-color: rgba(112,31,41,0.4); }
 .chip[data-cat="person"].active { background: var(--cat-person-bg); border-color: var(--cat-person); }
-.chip[data-cat="international"] { color: var(--cat-intl); border-color: rgba(136,204,238,0.25); }
+.chip[data-cat="international"] { color: #aaccee; border-color: rgba(26,74,106,0.4); }
 .chip[data-cat="international"].active { background: var(--cat-intl-bg); border-color: var(--cat-intl); }
-.chip[data-cat="beruf"] { color: var(--cat-beruf); border-color: rgba(136,221,170,0.25); }
+.chip[data-cat="beruf"] { color: #aaddaa; border-color: rgba(26,74,32,0.4); }
 .chip[data-cat="beruf"].active { background: var(--cat-beruf-bg); border-color: var(--cat-beruf); }
 
 /* ── VIEWS ── */
@@ -199,316 +159,217 @@ header {
 #view-kalender { display: none; }
 #view-kalender.active { display: block; }
 
-.heute-wrapper {
-  padding: 1.2rem 1.2rem 2rem;
-  max-width: 680px;
-  margin: 0 auto;
-}
+.heute-wrapper { padding: 1.2rem 1.2rem 2rem; max-width: 680px; margin: 0 auto; }
 
 /* ── HERO ── */
 .heute-hero {
-  border: 1px solid rgba(0,0,0,0.4);
-  border-top: 3px solid var(--gold);
+  border: 1px solid rgba(0,0,0,0.2);
+  border-top: 3px solid var(--rot);
   background: var(--bg-deeper);
-  padding: 1.2rem 1.4rem;
-  margin-bottom: 1.2rem;
-  border-radius: 0 0 2px 2px;
-  position: relative;
-  overflow: hidden;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+  padding: 1.2rem 1.4rem; margin-bottom: 1.2rem;
+  border-radius: 0 0 3px 3px; position: relative; overflow: hidden;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
 }
 .heute-hero::before {
-  content: '';
-  position: absolute;
-  top: 0; right: 0;
+  content: ''; position: absolute; top: 0; right: 0;
   width: 120px; height: 100px;
-  background: radial-gradient(circle at top right, rgba(212,160,23,0.08), transparent 70%);
+  background: radial-gradient(circle at top right, rgba(199,180,70,0.12), transparent 70%);
 }
 .heute-label {
-  font-family: 'Special Elite', monospace;
-  font-size: 0.6rem;
-  letter-spacing: 0.25em;
-  color: var(--gold);
-  text-transform: uppercase;
-  margin-bottom: 0.3rem;
+  font-family: 'Special Elite', monospace; font-size: 0.6rem;
+  letter-spacing: 0.25em; color: var(--gold); text-transform: uppercase; margin-bottom: 0.3rem;
 }
 .heute-datum {
-  font-family: 'Oswald', sans-serif;
-  font-size: 1.8rem;
-  font-weight: 700;
-  color: var(--creme);
-  letter-spacing: 0.05em;
-  line-height: 1.1;
+  font-family: 'Oswald', sans-serif; font-size: 1.8rem; font-weight: 700;
+  color: var(--creme); letter-spacing: 0.05em; line-height: 1.1;
 }
 .heute-wochentag {
-  font-family: 'Special Elite', monospace;
-  font-size: 0.7rem;
-  color: var(--gold);
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  margin-top: 0.2rem;
+  font-family: 'Special Elite', monospace; font-size: 0.7rem;
+  color: var(--gold); letter-spacing: 0.2em; text-transform: uppercase; margin-top: 0.2rem;
 }
 .heute-day-count {
-  margin-top: 0.8rem;
-  padding-top: 0.7rem;
-  border-top: 1px solid rgba(0,0,0,0.3);
-  font-family: 'Special Elite', monospace;
-  font-size: 0.62rem;
-  color: var(--text-dim);
-  letter-spacing: 0.1em;
+  margin-top: 0.8rem; padding-top: 0.7rem; border-top: 1px solid rgba(0,0,0,0.2);
+  font-family: 'Special Elite', monospace; font-size: 0.62rem;
+  color: rgba(255,243,208,0.5); letter-spacing: 0.1em;
 }
 .heute-day-count span { color: var(--gold); }
 
 .section-title {
-  font-family: 'Oswald', sans-serif;
-  font-size: 0.7rem;
-  font-weight: 600;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-  color: rgba(240,200,160,0.4);
-  margin-bottom: 0.6rem;
+  font-family: 'Oswald', sans-serif; font-size: 0.7rem; font-weight: 600;
+  letter-spacing: 0.22em; text-transform: uppercase;
+  color: rgba(60,16,8,0.45); margin-bottom: 0.6rem;
   display: flex; align-items: center; gap: 0.5rem;
 }
-.section-title::after { content: ''; flex: 1; height: 1px; background: rgba(0,0,0,0.3); }
+.section-title::after { content: ''; flex: 1; height: 1px; background: rgba(0,0,0,0.15); }
 
 .heute-events { display: flex; flex-direction: column; gap: 0.6rem; margin-bottom: 1.2rem; }
 .heute-leer {
-  padding: 1.5rem;
-  text-align: center;
-  color: rgba(240,200,160,0.3);
-  font-family: 'Special Elite', monospace;
-  font-size: 0.75rem;
-  letter-spacing: 0.12em;
-  border: 1px dashed rgba(0,0,0,0.3);
-  border-radius: 2px;
+  padding: 1.5rem; text-align: center;
+  color: rgba(60,16,8,0.3);
+  font-family: 'Special Elite', monospace; font-size: 0.75rem;
+  letter-spacing: 0.12em; border: 1px dashed rgba(0,0,0,0.15); border-radius: 2px;
 }
 
+/* Event cards */
 .h-card {
-  border-left: 3px solid var(--cat-staat);
-  padding: 0.6rem 0.8rem;
-  background: var(--bg-deeper);
-  border-radius: 0 2px 2px 0;
-  cursor: pointer;
-  transition: background 0.15s;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  border-left: 3px solid var(--rot); padding: 0.6rem 0.8rem;
+  background: var(--bg-mid); border-radius: 0 3px 3px 0;
+  cursor: pointer; transition: background 0.15s;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
-.h-card:hover { background: var(--bg-card2); }
-.h-card.person { border-color: var(--cat-person); }
-.h-card.international { border-color: var(--cat-intl); }
-.h-card.beruf { border-color: var(--cat-beruf); }
+.h-card:hover { background: var(--bg-deep); }
+.h-card.person { border-color: var(--rot-dim); }
+.h-card.international { border-color: #1a4a6a; }
+.h-card.beruf { border-color: #1a4a20; }
 .h-card-cat {
-  font-family: 'Oswald', sans-serif;
-  font-size: 0.55rem;
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
-  margin-bottom: 0.15rem;
-  opacity: 0.7;
+  font-family: 'Oswald', sans-serif; font-size: 0.55rem;
+  letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 0.15rem; opacity: 0.75;
 }
-.h-card.staat .h-card-cat { color: var(--cat-staat); }
-.h-card.person .h-card-cat { color: var(--cat-person); }
-.h-card.international .h-card-cat { color: var(--cat-intl); }
-.h-card.beruf .h-card-cat { color: var(--cat-beruf); }
+.h-card.staat .h-card-cat { color: var(--rot); }
+.h-card.person .h-card-cat { color: var(--rot-dim); }
+.h-card.international .h-card-cat { color: #1a4a6a; }
+.h-card.beruf .h-card-cat { color: #1a4a20; }
 .h-card-title {
-  font-family: 'Oswald', sans-serif;
-  font-size: 1rem;
-  font-weight: 600;
-  color: var(--creme);
-  line-height: 1.25;
-  margin-bottom: 0.25rem;
+  font-family: 'Oswald', sans-serif; font-size: 1rem; font-weight: 600;
+  color: var(--text); line-height: 1.25; margin-bottom: 0.25rem;
 }
 .h-card-desc {
-  font-size: 0.76rem;
-  color: var(--text-dim);
-  line-height: 1.55;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+  font-size: 0.76rem; color: var(--text-dim); line-height: 1.55;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
 }
 
-/* ── NÄCHSTE TERMINE ── */
-.naechste-list { display: flex; flex-direction: column; gap: 0; }
+/* Nächste Termine */
+.naechste-list { display: flex; flex-direction: column; }
 .naechste-item {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.8rem;
-  padding: 0.55rem 0;
-  border-bottom: 1px solid rgba(0,0,0,0.25);
-  cursor: pointer;
-  transition: all 0.12s;
-  border-radius: 2px;
+  display: flex; align-items: flex-start; gap: 0.8rem;
+  padding: 0.55rem 0; border-bottom: 1px solid rgba(0,0,0,0.1);
+  cursor: pointer; transition: all 0.12s; border-radius: 2px;
 }
-.naechste-item:hover { background: rgba(0,0,0,0.2); padding-left: 0.4rem; }
+.naechste-item:hover { background: rgba(0,0,0,0.08); padding-left: 0.4rem; }
 .naechste-item:last-child { border-bottom: none; }
 .naechste-date-block {
-  flex-shrink: 0;
-  width: 44px;
-  text-align: center;
-  background: var(--bg-deeper);
-  border-radius: 2px;
-  padding: 0.2rem 0;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+  flex-shrink: 0; width: 44px; text-align: center;
+  background: var(--bg-deeper); border-radius: 2px; padding: 0.2rem 0;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
 }
 .naechste-day { font-family: 'Oswald', sans-serif; font-size: 1.1rem; font-weight: 700; color: var(--creme); line-height: 1; }
 .naechste-mon { font-family: 'Special Elite', monospace; font-size: 0.5rem; color: var(--gold); letter-spacing: 0.1em; text-transform: uppercase; }
-.naechste-in { font-family: 'Special Elite', monospace; font-size: 0.45rem; color: var(--text-dim); opacity: 0.6; margin-top: 1px; }
+.naechste-in { font-family: 'Special Elite', monospace; font-size: 0.45rem; color: rgba(255,243,208,0.4); margin-top: 1px; }
 .naechste-info { flex: 1; }
-.naechste-title { font-family: 'Oswald', sans-serif; font-size: 0.85rem; font-weight: 600; color: var(--creme); line-height: 1.25; }
+.naechste-title { font-family: 'Oswald', sans-serif; font-size: 0.85rem; font-weight: 600; color: var(--text); line-height: 1.25; }
 .naechste-dots { display: flex; gap: 2px; margin-top: 3px; }
 .naechste-dot { width: 5px; height: 5px; border-radius: 50%; }
-.naechste-dot.staat { background: var(--cat-staat); }
-.naechste-dot.person { background: var(--cat-person); }
-.naechste-dot.international { background: var(--cat-intl); }
-.naechste-dot.beruf { background: var(--cat-beruf); }
+.naechste-dot.staat { background: var(--rot); }
+.naechste-dot.person { background: var(--rot-dim); }
+.naechste-dot.international { background: #1a4a6a; }
+.naechste-dot.beruf { background: #1a4a20; }
 
-/* ── ICS BANNER ── */
+/* ICS Banner */
 .ics-banner {
-  margin-top: 1.5rem;
-  padding: 0.8rem 1rem;
-  border: 1px solid rgba(0,0,0,0.35);
-  border-left: 3px solid var(--gold);
-  background: var(--bg-deeper);
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 0.8rem;
-  flex-wrap: wrap;
-  border-radius: 0 2px 2px 0;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  margin-top: 1.5rem; padding: 0.8rem 1rem;
+  border: 1px solid rgba(0,0,0,0.15); border-left: 3px solid var(--rot);
+  background: var(--bg-mid); display: flex; align-items: center;
+  justify-content: space-between; gap: 0.8rem; flex-wrap: wrap;
+  border-radius: 0 3px 3px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.12);
 }
 .ics-text { font-family: 'Special Elite', monospace; font-size: 0.65rem; color: var(--text-dim); letter-spacing: 0.08em; line-height: 1.5; }
-.ics-text strong { color: var(--gold); }
+.ics-text strong { color: var(--rot); }
 .ics-link {
-  font-family: 'Oswald', sans-serif;
-  font-size: 0.7rem;
-  font-weight: 600;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--schwarz);
-  background: var(--gold);
-  padding: 0.3rem 0.8rem;
-  border-radius: 2px;
-  text-decoration: none;
-  white-space: nowrap;
-  transition: background 0.15s;
+  font-family: 'Oswald', sans-serif; font-size: 0.7rem; font-weight: 600;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--creme); background: var(--rot);
+  padding: 0.3rem 0.8rem; border-radius: 2px; text-decoration: none;
+  white-space: nowrap; transition: background 0.15s;
 }
-.ics-link:hover { background: var(--gold-hell); }
+.ics-link:hover { background: var(--rot-dim); }
 
 /* ── KALENDER ── */
-.kalender {
-  padding: 0.8rem 0.8rem 3rem;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 0.7rem;
-}
+.kalender { padding: 0.8rem 0.8rem 3rem; display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.7rem; }
 @media (max-width: 900px) { .kalender { grid-template-columns: repeat(3, 1fr); } }
 @media (max-width: 620px) { .kalender { grid-template-columns: repeat(2, 1fr); } }
 
 .monat {
-  background: var(--bg-card);
-  border: 1px solid rgba(0,0,0,0.35);
-  border-radius: 2px;
-  overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+  background: var(--bg-mid); border: 1px solid rgba(0,0,0,0.2);
+  border-radius: 2px; overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
 .monat-header {
-  background: var(--bg-deeper);
-  padding: 0.35rem 0.55rem;
-  border-bottom: 2px solid var(--gold);
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
+  background: var(--bg-deeper); padding: 0.35rem 0.55rem;
+  border-bottom: 2px solid var(--rot);
+  display: flex; align-items: baseline; justify-content: space-between;
 }
 .monat-name { font-family: 'Oswald', sans-serif; font-size: 0.85rem; font-weight: 600; color: var(--creme); letter-spacing: 0.1em; text-transform: uppercase; }
-.monat-count { font-family: 'Special Elite', monospace; font-size: 0.58rem; color: rgba(240,200,160,0.3); }
+.monat-count { font-family: 'Special Elite', monospace; font-size: 0.58rem; color: rgba(255,243,208,0.35); }
 .monat-count.has-events { color: var(--gold); }
 .wochen-kopf { display: grid; grid-template-columns: repeat(7, 1fr); padding: 0.2rem 0.35rem 0.05rem; }
-.wt { text-align: center; font-family: 'Oswald', sans-serif; font-size: 0.5rem; color: rgba(240,200,160,0.3); text-transform: uppercase; }
-.wt.we { color: rgba(240,200,160,0.18); }
+.wt { text-align: center; font-family: 'Oswald', sans-serif; font-size: 0.5rem; color: rgba(60,16,8,0.35); text-transform: uppercase; }
+.wt.we { color: rgba(60,16,8,0.2); }
 .tage-grid { display: grid; grid-template-columns: repeat(7, 1fr); padding: 0 0.35rem 0.35rem; gap: 1px; }
 .tag {
-  aspect-ratio: 1;
-  display: flex; flex-direction: column;
+  aspect-ratio: 1; display: flex; flex-direction: column;
   align-items: center; justify-content: center;
-  border-radius: 2px;
-  cursor: default;
-  min-height: 1.1rem;
-  transition: background 0.1s;
+  border-radius: 2px; cursor: default; min-height: 1.1rem; transition: background 0.1s;
 }
-.tag-num { font-family: 'Oswald', sans-serif; font-size: 0.6rem; color: rgba(240,200,160,0.35); line-height: 1; }
-.tag.wochenende .tag-num { color: rgba(240,200,160,0.2); }
+.tag-num { font-family: 'Oswald', sans-serif; font-size: 0.6rem; color: rgba(60,16,8,0.3); line-height: 1; }
+.tag.wochenende .tag-num { color: rgba(60,16,8,0.18); }
 .tag.hat-events { cursor: pointer; }
-.tag.hat-events:hover { background: rgba(0,0,0,0.25); }
-.tag.hat-events .tag-num { color: var(--creme); font-weight: 600; }
-.tag.heute-mark { outline: 1px solid var(--gold); background: rgba(212,160,23,0.12); }
-.tag.heute-mark .tag-num { color: var(--gold); }
+.tag.hat-events:hover { background: rgba(0,0,0,0.12); }
+.tag.hat-events .tag-num { color: var(--text); font-weight: 600; }
+.tag.heute-mark { outline: 1px solid var(--rot); background: rgba(165,32,25,0.1); }
+.tag.heute-mark .tag-num { color: var(--rot); }
 .event-dots { display: flex; gap: 1px; margin-top: 1px; flex-wrap: wrap; justify-content: center; max-width: 14px; }
 .dot { width: 3px; height: 3px; border-radius: 50%; }
-.dot.staat { background: var(--cat-staat); }
-.dot.person { background: var(--cat-person); }
-.dot.international { background: var(--cat-intl); }
-.dot.beruf { background: var(--cat-beruf); }
+.dot.staat { background: var(--rot); }
+.dot.person { background: var(--rot-dim); }
+.dot.international { background: #1a4a6a; }
+.dot.beruf { background: #1a4a20; }
 
 /* ── MODAL ── */
 .overlay {
-  position: fixed; inset: 0;
-  background: rgba(0,0,0,0.65);
-  z-index: 200;
-  display: none;
-  align-items: flex-end;
-  justify-content: center;
+  position: fixed; inset: 0; background: rgba(0,0,0,0.5);
+  z-index: 200; display: none; align-items: flex-end; justify-content: center;
 }
 .overlay.open { display: flex; }
 @media (min-width: 600px) { .overlay { align-items: center; } }
 .modal {
-  background: var(--bg-deeper);
-  border: 1px solid rgba(0,0,0,0.5);
-  border-top: 3px solid var(--gold);
+  background: var(--bg-deeper); border: 1px solid rgba(0,0,0,0.25);
+  border-top: 3px solid var(--rot);
   width: 100%; max-width: 540px; max-height: 85vh;
   display: flex; flex-direction: column;
-  border-radius: 2px 2px 0 0;
-  animation: slide-up 0.2s ease;
-  box-shadow: 0 -4px 24px rgba(0,0,0,0.4);
+  border-radius: 2px 2px 0 0; animation: slide-up 0.2s ease;
+  box-shadow: 0 -4px 24px rgba(0,0,0,0.25);
 }
 @media (min-width: 600px) { .modal { border-radius: 2px; max-height: 78vh; } }
-@keyframes slide-up {
-  from { transform: translateY(30px); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
-}
+@keyframes slide-up { from { transform: translateY(30px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
 .modal-header {
-  padding: 0.75rem 1rem;
-  border-bottom: 1px solid rgba(0,0,0,0.35);
-  display: flex; align-items: center; justify-content: space-between;
-  flex-shrink: 0;
+  padding: 0.75rem 1rem; border-bottom: 1px solid rgba(0,0,0,0.2);
+  display: flex; align-items: center; justify-content: space-between; flex-shrink: 0;
 }
-.modal-date { font-family: 'Oswald', sans-serif; font-size: 1rem; font-weight: 600; color: var(--gold); letter-spacing: 0.07em; }
-.modal-close { background: none; border: none; color: var(--text-dim); font-size: 1.3rem; cursor: pointer; padding: 0 0.2rem; transition: color 0.15s; }
+.modal-date { font-family: 'Oswald', sans-serif; font-size: 1rem; font-weight: 600; color: var(--creme); letter-spacing: 0.07em; }
+.modal-close { background: none; border: none; color: rgba(255,243,208,0.5); font-size: 1.3rem; cursor: pointer; padding: 0 0.2rem; transition: color 0.15s; }
 .modal-close:hover { color: var(--creme); }
 .modal-body {
-  overflow-y: auto; padding: 0.8rem 1rem;
-  display: flex; flex-direction: column; gap: 0.8rem;
-  scrollbar-width: thin; scrollbar-color: rgba(0,0,0,0.4) transparent;
+  overflow-y: auto; padding: 0.8rem 1rem; display: flex; flex-direction: column; gap: 0.8rem;
+  scrollbar-width: thin; scrollbar-color: rgba(0,0,0,0.2) transparent;
 }
 .m-card {
-  border-left: 3px solid var(--cat-staat);
-  padding: 0.5rem 0.7rem;
-  background: var(--bg-card2);
-  border-radius: 0 2px 2px 0;
+  border-left: 3px solid var(--rot); padding: 0.5rem 0.7rem;
+  background: var(--bg-mid); border-radius: 0 2px 2px 0;
 }
-.m-card.person { border-color: var(--cat-person); }
-.m-card.international { border-color: var(--cat-intl); }
-.m-card.beruf { border-color: var(--cat-beruf); }
-.m-cat { font-family: 'Oswald', sans-serif; font-size: 0.53rem; letter-spacing: 0.15em; text-transform: uppercase; opacity: 0.65; margin-bottom: 0.15rem; }
-.m-card.staat .m-cat { color: var(--cat-staat); }
-.m-card.person .m-cat { color: var(--cat-person); }
-.m-card.international .m-cat { color: var(--cat-intl); }
-.m-card.beruf .m-cat { color: var(--cat-beruf); }
-.m-title { font-family: 'Oswald', sans-serif; font-size: 0.95rem; font-weight: 600; color: var(--creme); line-height: 1.3; margin-bottom: 0.3rem; }
+.m-card.person { border-color: var(--rot-dim); }
+.m-card.international { border-color: #1a4a6a; }
+.m-card.beruf { border-color: #1a4a20; }
+.m-cat { font-family: 'Oswald', sans-serif; font-size: 0.53rem; letter-spacing: 0.15em; text-transform: uppercase; opacity: 0.7; margin-bottom: 0.15rem; }
+.m-card.staat .m-cat { color: var(--rot); }
+.m-card.person .m-cat { color: var(--rot-dim); }
+.m-card.international .m-cat { color: #1a4a6a; }
+.m-card.beruf .m-cat { color: #1a4a20; }
+.m-title { font-family: 'Oswald', sans-serif; font-size: 0.95rem; font-weight: 600; color: var(--text); line-height: 1.3; margin-bottom: 0.3rem; }
 .m-desc { font-size: 0.76rem; color: var(--text-dim); line-height: 1.6; }
 
 ::-webkit-scrollbar { width: 5px; }
 ::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.4); border-radius: 3px; }
+::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.2); border-radius: 3px; }
 </style>
 </head>
 <body>
@@ -517,24 +378,24 @@ header {
     <div class="logo">
       <div class="logo-emblem">
         <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:100%">
-          <circle cx="50" cy="50" r="48" fill="#5c0000" stroke="#D4A017" stroke-width="3"/>
-          <circle cx="50" cy="50" r="40" fill="#3e0000"/>
-          <g stroke="#D4A017" stroke-width="1.5" fill="none">
+          <circle cx="50" cy="50" r="48" fill="#701F29" stroke="#C7B446" stroke-width="3"/>
+          <circle cx="50" cy="50" r="40" fill="#6F4F28"/>
+          <g stroke="#C7B446" stroke-width="1.5" fill="none">
             <path d="M28 75 Q22 60 25 45"/><path d="M25 45 Q18 38 20 30"/>
             <path d="M25 45 Q20 40 16 38"/><path d="M25 45 Q22 38 22 33"/>
             <path d="M25 45 Q28 40 30 36"/><path d="M25 45 Q29 42 32 40"/>
           </g>
-          <g stroke="#D4A017" stroke-width="1.5" fill="none">
+          <g stroke="#C7B446" stroke-width="1.5" fill="none">
             <path d="M72 75 Q78 60 75 45"/><path d="M75 45 Q82 38 80 30"/>
             <path d="M75 45 Q80 40 84 38"/><path d="M75 45 Q78 38 78 33"/>
             <path d="M75 45 Q72 40 70 36"/><path d="M75 45 Q71 42 68 40"/>
           </g>
-          <rect x="42" y="50" width="16" height="5" rx="1" fill="#D4A017" transform="rotate(-30 50 52)"/>
-          <rect x="48" y="40" width="4" height="18" rx="1" fill="#D4A017" transform="rotate(-30 50 52)"/>
-          <line x1="55" y1="38" x2="62" y2="62" stroke="#D4A017" stroke-width="2" stroke-linecap="round"/>
-          <line x1="55" y1="38" x2="48" y2="62" stroke="#D4A017" stroke-width="2" stroke-linecap="round"/>
-          <line x1="50" y1="52" x2="60" y2="52" stroke="#D4A017" stroke-width="1.5"/>
-          <path d="M28 75 Q50 85 72 75" stroke="#D4A017" stroke-width="2" fill="none"/>
+          <rect x="42" y="50" width="16" height="5" rx="1" fill="#C7B446" transform="rotate(-30 50 52)"/>
+          <rect x="48" y="40" width="4" height="18" rx="1" fill="#C7B446" transform="rotate(-30 50 52)"/>
+          <line x1="55" y1="38" x2="62" y2="62" stroke="#C7B446" stroke-width="2" stroke-linecap="round"/>
+          <line x1="55" y1="38" x2="48" y2="62" stroke="#C7B446" stroke-width="2" stroke-linecap="round"/>
+          <line x1="50" y1="52" x2="60" y2="52" stroke="#C7B446" stroke-width="1.5"/>
+          <path d="M28 75 Q50 85 72 75" stroke="#C7B446" stroke-width="2" fill="none"/>
         </svg>
       </div>
       <div>
@@ -558,10 +419,10 @@ header {
   <div class="filter-bar" id="filterBar" style="display:none">
     <span class="filter-label">Filter:</span>
     <div class="chip active" data-cat="all">Alle</div>
-    <div class="chip" data-cat="staat"><span class="chip-dot" style="background:var(--cat-staat)"></span>Staatsfeiertage</div>
-    <div class="chip" data-cat="person"><span class="chip-dot" style="background:var(--cat-person)"></span>Personen</div>
-    <div class="chip" data-cat="international"><span class="chip-dot" style="background:var(--cat-intl)"></span>International</div>
-    <div class="chip" data-cat="beruf"><span class="chip-dot" style="background:var(--cat-beruf)"></span>Berufstage</div>
+    <div class="chip" data-cat="staat"><span class="chip-dot" style="background:var(--rot)"></span>Staatsfeiertage</div>
+    <div class="chip" data-cat="person"><span class="chip-dot" style="background:var(--rot-dim)"></span>Personen</div>
+    <div class="chip" data-cat="international"><span class="chip-dot" style="background:#1a4a6a"></span>International</div>
+    <div class="chip" data-cat="beruf"><span class="chip-dot" style="background:#1a4a20"></span>Berufstage</div>
   </div>
 </header>
 
@@ -579,7 +440,7 @@ header {
       <div class="section-title">Nächste Termine</div>
       <div class="naechste-list" id="naechsteList"></div>
       <div class="ics-banner">
-        <div class="ics-text"><strong>Kalender abonnieren</strong><br>Alle Termine direkt in deiner Kalender-App</div>
+        <div class="ics-text"><strong>Kalender abonnieren</strong><br>Alle Termine in deiner Kalender-App</div>
         <a class="ics-link" href="https://amylasehai0z.github.io/ddr-kalender/ddr-feiertage.ics">&#x1F4C5; iCal-Abo</a>
       </div>
     </div>
@@ -621,9 +482,8 @@ function renderHeute() {
   const start = new Date(today.getFullYear(), 0, 1);
   const dayOfYear = Math.ceil((today - start) / 86400000) + 1;
   const daysLeft = Math.round((new Date(today.getFullYear(), 11, 31) - today) / 86400000);
-  const isLeap = today.getFullYear() % 4 === 0;
   document.getElementById('heuteDayCount').innerHTML =
-    'Tag <span>' + dayOfYear + '</span> von <span>' + (isLeap?366:365) + '</span> — noch <span>' + daysLeft + '</span> Tage bis Jahresende';
+    'Tag <span>' + dayOfYear + '</span> von <span>' + (today.getFullYear()%4===0?366:365) + '</span> — noch <span>' + daysLeft + '</span> Tage bis Jahresende';
 
   const yearEvents = ALL_EVENTS[String(today.getFullYear())] || [];
   const todayEvents = yearEvents.filter(e => e.date === todayKey);
@@ -649,13 +509,12 @@ function renderHeute() {
   for (let i = 0; i < 366 && upcoming.length < 8; i++) {
     const key = String(check.getMonth()+1).padStart(2,'0') + '-' + String(check.getDate()).padStart(2,'0');
     const evs = (ALL_EVENTS[String(check.getFullYear())] || []).filter(e => e.date === key);
-    if (evs.length) upcoming.push({ date: new Date(check), key, events: evs });
+    if (evs.length) upcoming.push({ date: new Date(check), events: evs });
     check.setDate(check.getDate()+1);
   }
   upcoming.forEach(item => {
     const days = Math.round((item.date - today) / 86400000);
-    const row = document.createElement('div');
-    row.className = 'naechste-item';
+    const row = document.createElement('div'); row.className = 'naechste-item';
     const cats = [...new Set(item.events.map(e => e.cat))];
     row.innerHTML =
       '<div class="naechste-date-block"><div class="naechste-day">' + item.date.getDate() + '</div>' +
@@ -709,8 +568,7 @@ function renderKalender() {
       }
       grid.appendChild(cell);
     }
-    monat.appendChild(grid);
-    kalender.appendChild(monat);
+    monat.appendChild(grid); kalender.appendChild(monat);
   }
 }
 
