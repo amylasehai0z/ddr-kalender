@@ -488,7 +488,89 @@ for year in YEARS:
 
 lines.append("END:VCALENDAR")
 
-with open("/mnt/user-data/outputs/ddr-feiertage.ics", "w", encoding="utf-8") as f:
+# ── ICS schreiben ─────────────────────────────────────────────────────────────
+with open("ddr-feiertage.ics", "w", encoding="utf-8") as f:
     f.write("\r\n".join(lines) + "\r\n")
 
-print(f"Fertig! {len([l for l in lines if l == 'BEGIN:VEVENT'])} Einträge generiert.")
+count = len([l for l in lines if l == "BEGIN:VEVENT"])
+print(f"✓ ddr-feiertage.ics  — {count} Einträge")
+
+# ── JSON für App generieren ───────────────────────────────────────────────────
+import json
+
+def categorize(title):
+    t = title.lower()
+    if any(x in t for x in ["geburtstag","todestag","ermordung rosa","ermordung karl","ermordung ernst"]):
+        return "person"
+    if any(x in t for x in ["tag der republik","tag der nva","tag der volkspolizei","tag der grenztruppen",
+        "tag des mfs","tag der fdj","tag der arbeit","tag des sieges","jahrestag der befreiung",
+        "jahrestag der oktoberrevolution","gründung der sed","gründung der kpd","gründung der udssr",
+        "potsdamer","tag der zivilverteidigung","befreiung kz","mauerbau","liebknecht & luxemburg",
+        "tag der jugendbrigaden","pariser kommune","jahrestag des mauerbaus","internationale brigaden",
+        "gst (1952)"]):
+        return "staat"
+    if any(x in t for x in ["tag des metallarbeiters","tag des eisenbahners","tag des chemiearbeiters",
+        "tag des metallurgen","tag des bergmanns","tag des bauarbeiters","tag des lehrers",
+        "tag des gesundheit","pioniergeburtstag","tag der werktätigen","tag der mitarbeiter",
+        "wasserwirtschaft","haus- und kommunal","seeverkehrs","post- und fernmelde",
+        "tag der jungen techniker","tag der luft","tag der genossenschaft","tag der leicht"]):
+        return "beruf"
+    return "international"
+
+# ICS-Zeilen zusammenführen (folded lines entfalten)
+unfolded = []
+for line in lines:
+    if line.startswith(" ") or line.startswith("	"):
+        if unfolded:
+            unfolded[-1] += line[1:]
+    else:
+        unfolded.append(line)
+
+# Events aus entfalteten ICS-Zeilen parsen
+all_events = {}
+current = {}
+in_valarm = False
+for line in unfolded:
+    if line == "BEGIN:VEVENT":
+        current = {}
+        in_valarm = False
+    elif line == "BEGIN:VALARM":
+        in_valarm = True
+    elif line == "END:VALARM":
+        in_valarm = False
+    elif line.startswith("DTSTART;VALUE=DATE:"):
+        val = line.split(":")[1].strip()
+        current["date"] = f"{val[4:6]}-{val[6:8]}"
+        current["year"] = val[0:4]
+    elif line.startswith("SUMMARY:"):
+        current["title"] = line[8:].strip()
+    elif line.startswith("DESCRIPTION:") and not in_valarm:
+        # Nur VEVENT DESCRIPTION, VALARM-Description ignorieren (in_valarm-Flag)
+        desc = line[12:].strip()
+        desc = desc.replace("\\,", ",")
+        current["desc"] = desc
+    elif line == "END:VEVENT":
+        if "date" in current and "title" in current and "desc" in current:
+            yr = current.get("year", "")
+            if yr not in all_events:
+                all_events[yr] = []
+            all_events[yr].append({
+                "date":  current["date"],
+                "title": current["title"],
+                "desc":  current["desc"],
+                "cat":   categorize(current.get("title", ""))
+            })
+        current = {}
+
+# Nur App-relevante Jahre (2024-2035)
+app_events = {yr: evs for yr, evs in all_events.items() if 2024 <= int(yr) <= 2035}
+
+json_str = json.dumps(app_events, ensure_ascii=False, separators=(",",":"))
+with open("ddr_events.json", "w", encoding="utf-8") as f:
+    f.write(json_str)
+
+total = sum(len(v) for v in app_events.values())
+print(f"✓ ddr_events.json    — {len(app_events)} Jahre, {total} Einträge gesamt")
+print(f"\nBeide Dateien bereit für GitHub:")
+print(f"  → ddr-feiertage.ics")
+print(f"  → ddr_events.json")
