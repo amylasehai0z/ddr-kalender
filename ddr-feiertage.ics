@@ -281,8 +281,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2024@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20240518
-DTEND;VALUE=DATE:20240519
+DTSTART;VALUE=DATE:20240517
+DTEND;VALUE=DATE:20240518
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -290,7 +290,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20240518T060000
+TRIGGER;VALUE=DATE-TIME:20240517T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -1691,8 +1691,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2025@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20250607
-DTEND;VALUE=DATE:20250608
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250607
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -1700,7 +1700,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20250607T060000
+TRIGGER;VALUE=DATE-TIME:20250606T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -3101,8 +3101,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2026@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -3110,7 +3110,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20260523T060000
+TRIGGER;VALUE=DATE-TIME:20260522T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -4511,8 +4511,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2027@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20270515
-DTEND;VALUE=DATE:20270516
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -4520,7 +4520,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20270515T060000
+TRIGGER;VALUE=DATE-TIME:20270514T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -5921,8 +5921,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2028@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20280603
-DTEND;VALUE=DATE:20280604
+DTSTART;VALUE=DATE:20280602
+DTEND;VALUE=DATE:20280603
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -5930,7 +5930,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20280603T060000
+TRIGGER;VALUE=DATE-TIME:20280602T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -7331,8 +7331,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2029@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20290519
-DTEND;VALUE=DATE:20290520
+DTSTART;VALUE=DATE:20290518
+DTEND;VALUE=DATE:20290519
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -7340,7 +7340,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20290519T060000
+TRIGGER;VALUE=DATE-TIME:20290518T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -8741,8 +8741,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2030@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20300608
-DTEND;VALUE=DATE:20300609
+DTSTART;VALUE=DATE:20300607
+DTEND;VALUE=DATE:20300608
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -8750,7 +8750,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20300608T060000
+TRIGGER;VALUE=DATE-TIME:20300607T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -10151,8 +10151,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2031@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20310531
-DTEND;VALUE=DATE:20310601
+DTSTART;VALUE=DATE:20310530
+DTEND;VALUE=DATE:20310531
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -10160,7 +10160,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20310531T060000
+TRIGGER;VALUE=DATE-TIME:20310530T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -11561,8 +11561,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2032@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20320515
-DTEND;VALUE=DATE:20320516
+DTSTART;VALUE=DATE:20320514
+DTEND;VALUE=DATE:20320515
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -11570,7 +11570,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20320515T060000
+TRIGGER;VALUE=DATE-TIME:20320514T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -12971,8 +12971,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2033@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20330604
-DTEND;VALUE=DATE:20330605
+DTSTART;VALUE=DATE:20330603
+DTEND;VALUE=DATE:20330604
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -12980,7 +12980,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20330604T060000
+TRIGGER;VALUE=DATE-TIME:20330603T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -14381,8 +14381,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2034@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20340527
-DTEND;VALUE=DATE:20340528
+DTSTART;VALUE=DATE:20340526
+DTEND;VALUE=DATE:20340527
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -14390,7 +14390,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20340527T060000
+TRIGGER;VALUE=DATE-TIME:20340526T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -15791,8 +15791,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2035@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20350512
-DTEND;VALUE=DATE:20350513
+DTSTART;VALUE=DATE:20350511
+DTEND;VALUE=DATE:20350512
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -15800,7 +15800,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20350512T060000
+TRIGGER;VALUE=DATE-TIME:20350511T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -17201,8 +17201,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2036@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20360531
-DTEND;VALUE=DATE:20360601
+DTSTART;VALUE=DATE:20360530
+DTEND;VALUE=DATE:20360531
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -17210,7 +17210,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20360531T060000
+TRIGGER;VALUE=DATE-TIME:20360530T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -18611,8 +18611,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2037@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20370523
-DTEND;VALUE=DATE:20370524
+DTSTART;VALUE=DATE:20370522
+DTEND;VALUE=DATE:20370523
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -18620,7 +18620,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20370523T060000
+TRIGGER;VALUE=DATE-TIME:20370522T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -20021,8 +20021,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2038@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20380612
-DTEND;VALUE=DATE:20380613
+DTSTART;VALUE=DATE:20380611
+DTEND;VALUE=DATE:20380612
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -20030,7 +20030,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20380612T060000
+TRIGGER;VALUE=DATE-TIME:20380611T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -21431,8 +21431,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2039@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20390528
-DTEND;VALUE=DATE:20390529
+DTSTART;VALUE=DATE:20390527
+DTEND;VALUE=DATE:20390528
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -21440,7 +21440,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20390528T060000
+TRIGGER;VALUE=DATE-TIME:20390527T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -22841,8 +22841,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2040@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20400519
-DTEND;VALUE=DATE:20400520
+DTSTART;VALUE=DATE:20400518
+DTEND;VALUE=DATE:20400519
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -22850,7 +22850,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20400519T060000
+TRIGGER;VALUE=DATE-TIME:20400518T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -24251,8 +24251,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2041@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20410608
-DTEND;VALUE=DATE:20410609
+DTSTART;VALUE=DATE:20410607
+DTEND;VALUE=DATE:20410608
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -24260,7 +24260,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20410608T060000
+TRIGGER;VALUE=DATE-TIME:20410607T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -25661,8 +25661,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2042@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20420524
-DTEND;VALUE=DATE:20420525
+DTSTART;VALUE=DATE:20420523
+DTEND;VALUE=DATE:20420524
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -25670,7 +25670,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20420524T060000
+TRIGGER;VALUE=DATE-TIME:20420523T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -27071,8 +27071,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2043@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20430516
-DTEND;VALUE=DATE:20430517
+DTSTART;VALUE=DATE:20430515
+DTEND;VALUE=DATE:20430516
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -27080,7 +27080,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20430516T060000
+TRIGGER;VALUE=DATE-TIME:20430515T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -28481,8 +28481,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2044@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20440604
-DTEND;VALUE=DATE:20440605
+DTSTART;VALUE=DATE:20440603
+DTEND;VALUE=DATE:20440604
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -28490,7 +28490,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20440604T060000
+TRIGGER;VALUE=DATE-TIME:20440603T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -29891,8 +29891,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2045@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20450527
-DTEND;VALUE=DATE:20450528
+DTSTART;VALUE=DATE:20450526
+DTEND;VALUE=DATE:20450527
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -29900,7 +29900,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20450527T060000
+TRIGGER;VALUE=DATE-TIME:20450526T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -31301,8 +31301,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2046@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20460512
-DTEND;VALUE=DATE:20460513
+DTSTART;VALUE=DATE:20460511
+DTEND;VALUE=DATE:20460512
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -31310,7 +31310,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20460512T060000
+TRIGGER;VALUE=DATE-TIME:20460511T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -32711,8 +32711,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2047@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20470601
-DTEND;VALUE=DATE:20470602
+DTSTART;VALUE=DATE:20470531
+DTEND;VALUE=DATE:20470601
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -32720,7 +32720,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20470601T060000
+TRIGGER;VALUE=DATE-TIME:20470531T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -34121,8 +34121,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2048@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20480523
-DTEND;VALUE=DATE:20480524
+DTSTART;VALUE=DATE:20480522
+DTEND;VALUE=DATE:20480523
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -34130,7 +34130,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20480523T060000
+TRIGGER;VALUE=DATE-TIME:20480522T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -35531,8 +35531,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2049@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20490605
-DTEND;VALUE=DATE:20490606
+DTSTART;VALUE=DATE:20490604
+DTEND;VALUE=DATE:20490605
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -35540,7 +35540,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20490605T060000
+TRIGGER;VALUE=DATE-TIME:20490604T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -36941,8 +36941,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2050@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20500528
-DTEND;VALUE=DATE:20500529
+DTSTART;VALUE=DATE:20500527
+DTEND;VALUE=DATE:20500528
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -36950,7 +36950,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20500528T060000
+TRIGGER;VALUE=DATE-TIME:20500527T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -38351,8 +38351,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2051@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20510520
-DTEND;VALUE=DATE:20510521
+DTSTART;VALUE=DATE:20510519
+DTEND;VALUE=DATE:20510520
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -38360,7 +38360,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20510520T060000
+TRIGGER;VALUE=DATE-TIME:20510519T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -39761,8 +39761,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2052@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20520608
-DTEND;VALUE=DATE:20520609
+DTSTART;VALUE=DATE:20520607
+DTEND;VALUE=DATE:20520608
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -39770,7 +39770,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20520608T060000
+TRIGGER;VALUE=DATE-TIME:20520607T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -41171,8 +41171,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2053@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20530524
-DTEND;VALUE=DATE:20530525
+DTSTART;VALUE=DATE:20530523
+DTEND;VALUE=DATE:20530524
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -41180,7 +41180,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20530524T060000
+TRIGGER;VALUE=DATE-TIME:20530523T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -42581,8 +42581,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2054@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20540516
-DTEND;VALUE=DATE:20540517
+DTSTART;VALUE=DATE:20540515
+DTEND;VALUE=DATE:20540516
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -42590,7 +42590,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20540516T060000
+TRIGGER;VALUE=DATE-TIME:20540515T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -43991,8 +43991,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2055@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20550605
-DTEND;VALUE=DATE:20550606
+DTSTART;VALUE=DATE:20550604
+DTEND;VALUE=DATE:20550605
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -44000,7 +44000,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20550605T060000
+TRIGGER;VALUE=DATE-TIME:20550604T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -45401,8 +45401,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2056@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20560520
-DTEND;VALUE=DATE:20560521
+DTSTART;VALUE=DATE:20560519
+DTEND;VALUE=DATE:20560520
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -45410,7 +45410,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20560520T060000
+TRIGGER;VALUE=DATE-TIME:20560519T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -46811,8 +46811,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2057@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20570609
-DTEND;VALUE=DATE:20570610
+DTSTART;VALUE=DATE:20570608
+DTEND;VALUE=DATE:20570609
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -46820,7 +46820,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20570609T060000
+TRIGGER;VALUE=DATE-TIME:20570608T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -48221,8 +48221,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2058@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20580601
-DTEND;VALUE=DATE:20580602
+DTSTART;VALUE=DATE:20580531
+DTEND;VALUE=DATE:20580601
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -48230,7 +48230,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20580601T060000
+TRIGGER;VALUE=DATE-TIME:20580531T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -49631,8 +49631,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2059@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20590517
-DTEND;VALUE=DATE:20590518
+DTSTART;VALUE=DATE:20590516
+DTEND;VALUE=DATE:20590517
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -49640,7 +49640,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20590517T060000
+TRIGGER;VALUE=DATE-TIME:20590516T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -51041,8 +51041,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2060@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20600605
-DTEND;VALUE=DATE:20600606
+DTSTART;VALUE=DATE:20600604
+DTEND;VALUE=DATE:20600605
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -51050,7 +51050,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20600605T060000
+TRIGGER;VALUE=DATE-TIME:20600604T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -52451,8 +52451,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2061@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20610528
-DTEND;VALUE=DATE:20610529
+DTSTART;VALUE=DATE:20610527
+DTEND;VALUE=DATE:20610528
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -52460,7 +52460,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20610528T060000
+TRIGGER;VALUE=DATE-TIME:20610527T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -53861,8 +53861,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2062@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20620513
-DTEND;VALUE=DATE:20620514
+DTSTART;VALUE=DATE:20620512
+DTEND;VALUE=DATE:20620513
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -53870,7 +53870,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20620513T060000
+TRIGGER;VALUE=DATE-TIME:20620512T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -55271,8 +55271,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2063@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20630602
-DTEND;VALUE=DATE:20630603
+DTSTART;VALUE=DATE:20630601
+DTEND;VALUE=DATE:20630602
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -55280,7 +55280,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20630602T060000
+TRIGGER;VALUE=DATE-TIME:20630601T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -56681,8 +56681,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2064@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20640524
-DTEND;VALUE=DATE:20640525
+DTSTART;VALUE=DATE:20640523
+DTEND;VALUE=DATE:20640524
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -56690,7 +56690,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20640524T060000
+TRIGGER;VALUE=DATE-TIME:20640523T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -58091,8 +58091,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2065@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20650516
-DTEND;VALUE=DATE:20650517
+DTSTART;VALUE=DATE:20650515
+DTEND;VALUE=DATE:20650516
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -58100,7 +58100,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20650516T060000
+TRIGGER;VALUE=DATE-TIME:20650515T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -59501,8 +59501,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2066@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20660529
-DTEND;VALUE=DATE:20660530
+DTSTART;VALUE=DATE:20660528
+DTEND;VALUE=DATE:20660529
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -59510,7 +59510,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20660529T060000
+TRIGGER;VALUE=DATE-TIME:20660528T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -60911,8 +60911,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2067@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20670521
-DTEND;VALUE=DATE:20670522
+DTSTART;VALUE=DATE:20670520
+DTEND;VALUE=DATE:20670521
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -60920,7 +60920,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20670521T060000
+TRIGGER;VALUE=DATE-TIME:20670520T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -62321,8 +62321,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2068@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20680609
-DTEND;VALUE=DATE:20680610
+DTSTART;VALUE=DATE:20680608
+DTEND;VALUE=DATE:20680609
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -62330,7 +62330,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20680609T060000
+TRIGGER;VALUE=DATE-TIME:20680608T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -63731,8 +63731,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2069@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20690601
-DTEND;VALUE=DATE:20690602
+DTSTART;VALUE=DATE:20690531
+DTEND;VALUE=DATE:20690601
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -63740,7 +63740,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20690601T060000
+TRIGGER;VALUE=DATE-TIME:20690531T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -65141,8 +65141,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2070@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20700517
-DTEND;VALUE=DATE:20700518
+DTSTART;VALUE=DATE:20700516
+DTEND;VALUE=DATE:20700517
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -65150,7 +65150,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20700517T060000
+TRIGGER;VALUE=DATE-TIME:20700516T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -66551,8 +66551,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2071@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20710606
-DTEND;VALUE=DATE:20710607
+DTSTART;VALUE=DATE:20710605
+DTEND;VALUE=DATE:20710606
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -66560,7 +66560,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20710606T060000
+TRIGGER;VALUE=DATE-TIME:20710605T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -67961,8 +67961,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2072@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20720528
-DTEND;VALUE=DATE:20720529
+DTSTART;VALUE=DATE:20720527
+DTEND;VALUE=DATE:20720528
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -67970,7 +67970,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20720528T060000
+TRIGGER;VALUE=DATE-TIME:20720527T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -69371,8 +69371,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2073@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20730513
-DTEND;VALUE=DATE:20730514
+DTSTART;VALUE=DATE:20730512
+DTEND;VALUE=DATE:20730513
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -69380,7 +69380,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20730513T060000
+TRIGGER;VALUE=DATE-TIME:20730512T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -70781,8 +70781,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2074@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20740602
-DTEND;VALUE=DATE:20740603
+DTSTART;VALUE=DATE:20740601
+DTEND;VALUE=DATE:20740602
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -70790,7 +70790,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20740602T060000
+TRIGGER;VALUE=DATE-TIME:20740601T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -72191,8 +72191,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-tag-der-jugendbrigaden--2075@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20750525
-DTEND;VALUE=DATE:20750526
+DTSTART;VALUE=DATE:20750524
+DTEND;VALUE=DATE:20750525
 SUMMARY:Tag der Jugendbrigaden 👷
 DESCRIPTION:Tag der Jugendbrigaden – Freitag vor Pfingsten (ab 1978). Ehrentag der sozialistischen Jugendbrigaden in Betrieben und Kombinaten der DDR. Auszeichnungen für herausragende Arbeitsleistungen junger Werktätiger.
 CATEGORIES:DDR Feiertage
@@ -72200,7 +72200,7 @@ TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Jugendbrigaden 👷
-TRIGGER;VALUE=DATE-TIME:20750525T060000
+TRIGGER;VALUE=DATE-TIME:20750524T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
