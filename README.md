@@ -83,26 +83,7 @@ Staatsführer, Kulturschaffende, Sportler und Künstler der DDR, darunter:
 | ----- | ------------ |
 | `ddr-feiertage.ics` | Fertige Kalenderdatei zum Abonnieren (2024–2075) |
 | `ddr_events.json` | JSON-Datei für die iOS-App (2024–2035) |
-| `generate_ddr_ical.py` | Python-Skript zur Generierung beider Dateien |
 | `index.html` | GitHub Pages Webseite |
-
----
-
-## ⚙️ Selbst generieren
-
-Voraussetzung: Python 3
-
-```bash
-git clone https://github.com/amylasehai0z/ddr-kalender
-cd ddr-kalender
-python3 generate_ddr_ical.py
-```
-
-Das Skript generiert automatisch beide Dateien:
-- `ddr-feiertage.ics` — für das Kalender-Abonnement
-- `ddr_events.json` — für die iOS-App
-
-Der Jahresbereich lässt sich im Skript unter `YEARS = range(2024, 2076)` anpassen.
 
 ---
 
