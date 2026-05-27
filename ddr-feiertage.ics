@@ -1419,6 +1419,36 @@ TRIGGER;VALUE=DATE-TIME:20240616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2024@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20240516
+DTEND;VALUE=DATE:20240517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 99 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20240516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2024@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20241108
+DTEND;VALUE=DATE:20241109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20241108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2025@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20250112
@@ -2826,6 +2856,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20250616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2025@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 100 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20250516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2025@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20251108
+DTEND;VALUE=DATE:20251109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20251108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -4239,6 +4299,36 @@ TRIGGER;VALUE=DATE-TIME:20260616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2026@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 101 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20260516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2026@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20261108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2027@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20270117
@@ -5646,6 +5736,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20270616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2027@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 102 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20270516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2027@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20271108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -7059,6 +7179,36 @@ TRIGGER;VALUE=DATE-TIME:20280616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2028@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20280516
+DTEND;VALUE=DATE:20280517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 103 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20280516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2028@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20281108
+DTEND;VALUE=DATE:20281109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20281108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2029@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20290114
@@ -8466,6 +8616,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20290616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2029@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20290516
+DTEND;VALUE=DATE:20290517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 104 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20290516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2029@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20291108
+DTEND;VALUE=DATE:20291109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20291108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -9879,6 +10059,36 @@ TRIGGER;VALUE=DATE-TIME:20300616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2030@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20300516
+DTEND;VALUE=DATE:20300517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 105 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20300516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2030@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20301108
+DTEND;VALUE=DATE:20301109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20301108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2031@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20310112
@@ -11286,6 +11496,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20310616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2031@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20310516
+DTEND;VALUE=DATE:20310517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 106 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20310516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2031@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20311108
+DTEND;VALUE=DATE:20311109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20311108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -12699,6 +12939,36 @@ TRIGGER;VALUE=DATE-TIME:20320616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2032@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20320516
+DTEND;VALUE=DATE:20320517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 107 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20320516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2032@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20321108
+DTEND;VALUE=DATE:20321109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20321108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2033@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20330116
@@ -14106,6 +14376,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20330616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2033@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20330516
+DTEND;VALUE=DATE:20330517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 108 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20330516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2033@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20331108
+DTEND;VALUE=DATE:20331109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20331108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -15519,6 +15819,36 @@ TRIGGER;VALUE=DATE-TIME:20340616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2034@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20340516
+DTEND;VALUE=DATE:20340517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 109 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20340516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2034@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20341108
+DTEND;VALUE=DATE:20341109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20341108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2035@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20350114
@@ -16926,6 +17256,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20350616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2035@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20350516
+DTEND;VALUE=DATE:20350517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 110 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20350516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2035@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20351108
+DTEND;VALUE=DATE:20351109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20351108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -18339,6 +18699,36 @@ TRIGGER;VALUE=DATE-TIME:20360616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2036@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20360516
+DTEND;VALUE=DATE:20360517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 111 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20360516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2036@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20361108
+DTEND;VALUE=DATE:20361109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20361108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2037@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20370118
@@ -19746,6 +20136,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20370616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2037@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20370516
+DTEND;VALUE=DATE:20370517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 112 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20370516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2037@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20371108
+DTEND;VALUE=DATE:20371109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20371108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -21159,6 +21579,36 @@ TRIGGER;VALUE=DATE-TIME:20380616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2038@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20380516
+DTEND;VALUE=DATE:20380517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 113 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20380516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2038@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20381108
+DTEND;VALUE=DATE:20381109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20381108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2039@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20390116
@@ -22566,6 +23016,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20390616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2039@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20390516
+DTEND;VALUE=DATE:20390517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 114 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20390516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2039@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20391108
+DTEND;VALUE=DATE:20391109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20391108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -23979,6 +24459,36 @@ TRIGGER;VALUE=DATE-TIME:20400616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2040@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20400516
+DTEND;VALUE=DATE:20400517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 115 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20400516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2040@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20401108
+DTEND;VALUE=DATE:20401109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20401108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2041@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20410113
@@ -25386,6 +25896,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20410616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2041@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20410516
+DTEND;VALUE=DATE:20410517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 116 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20410516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2041@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20411108
+DTEND;VALUE=DATE:20411109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20411108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -26799,6 +27339,36 @@ TRIGGER;VALUE=DATE-TIME:20420616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2042@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20420516
+DTEND;VALUE=DATE:20420517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 117 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20420516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2042@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20421108
+DTEND;VALUE=DATE:20421109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20421108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2043@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20430118
@@ -28206,6 +28776,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20430616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2043@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20430516
+DTEND;VALUE=DATE:20430517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 118 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20430516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2043@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20431108
+DTEND;VALUE=DATE:20431109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20431108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -29619,6 +30219,36 @@ TRIGGER;VALUE=DATE-TIME:20440616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2044@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20440516
+DTEND;VALUE=DATE:20440517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 119 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20440516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2044@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20441108
+DTEND;VALUE=DATE:20441109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20441108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2045@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20450115
@@ -31026,6 +31656,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20450616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2045@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20450516
+DTEND;VALUE=DATE:20450517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 120 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20450516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2045@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20451108
+DTEND;VALUE=DATE:20451109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20451108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -32439,6 +33099,36 @@ TRIGGER;VALUE=DATE-TIME:20460616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2046@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20460516
+DTEND;VALUE=DATE:20460517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 121 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20460516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2046@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20461108
+DTEND;VALUE=DATE:20461109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20461108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2047@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20470113
@@ -33846,6 +34536,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20470616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2047@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20470516
+DTEND;VALUE=DATE:20470517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 122 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20470516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2047@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20471108
+DTEND;VALUE=DATE:20471109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20471108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -35259,6 +35979,36 @@ TRIGGER;VALUE=DATE-TIME:20480616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2048@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20480516
+DTEND;VALUE=DATE:20480517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 123 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20480516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2048@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20481108
+DTEND;VALUE=DATE:20481109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20481108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2049@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20490117
@@ -36666,6 +37416,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20490616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2049@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20490516
+DTEND;VALUE=DATE:20490517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 124 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20490516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2049@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20491108
+DTEND;VALUE=DATE:20491109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20491108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -38079,6 +38859,36 @@ TRIGGER;VALUE=DATE-TIME:20500616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2050@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20500516
+DTEND;VALUE=DATE:20500517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 125 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20500516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2050@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20501108
+DTEND;VALUE=DATE:20501109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20501108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2051@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20510115
@@ -39486,6 +40296,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20510616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2051@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20510516
+DTEND;VALUE=DATE:20510517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 126 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20510516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2051@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20511108
+DTEND;VALUE=DATE:20511109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20511108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -40899,6 +41739,36 @@ TRIGGER;VALUE=DATE-TIME:20520616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2052@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20520516
+DTEND;VALUE=DATE:20520517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 127 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20520516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2052@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20521108
+DTEND;VALUE=DATE:20521109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20521108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2053@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20530112
@@ -42306,6 +43176,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20530616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2053@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20530516
+DTEND;VALUE=DATE:20530517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 128 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20530516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2053@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20531108
+DTEND;VALUE=DATE:20531109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20531108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -43719,6 +44619,36 @@ TRIGGER;VALUE=DATE-TIME:20540616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2054@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20540516
+DTEND;VALUE=DATE:20540517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 129 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20540516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2054@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20541108
+DTEND;VALUE=DATE:20541109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20541108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2055@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20550117
@@ -45126,6 +46056,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20550616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2055@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20550516
+DTEND;VALUE=DATE:20550517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 130 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20550516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2055@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20551108
+DTEND;VALUE=DATE:20551109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20551108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -46539,6 +47499,36 @@ TRIGGER;VALUE=DATE-TIME:20560616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2056@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20560516
+DTEND;VALUE=DATE:20560517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 131 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20560516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2056@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20561108
+DTEND;VALUE=DATE:20561109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20561108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2057@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20570114
@@ -47946,6 +48936,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20570616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2057@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20570516
+DTEND;VALUE=DATE:20570517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 132 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20570516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2057@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20571108
+DTEND;VALUE=DATE:20571109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20571108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -49359,6 +50379,36 @@ TRIGGER;VALUE=DATE-TIME:20580616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2058@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20580516
+DTEND;VALUE=DATE:20580517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 133 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20580516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2058@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20581108
+DTEND;VALUE=DATE:20581109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20581108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2059@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20590112
@@ -50766,6 +51816,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20590616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2059@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20590516
+DTEND;VALUE=DATE:20590517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 134 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20590516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2059@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20591108
+DTEND;VALUE=DATE:20591109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20591108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -52179,6 +53259,36 @@ TRIGGER;VALUE=DATE-TIME:20600616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2060@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20600516
+DTEND;VALUE=DATE:20600517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 135 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20600516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2060@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20601108
+DTEND;VALUE=DATE:20601109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20601108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2061@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20610116
@@ -53586,6 +54696,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20610616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2061@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20610516
+DTEND;VALUE=DATE:20610517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 136 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20610516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2061@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20611108
+DTEND;VALUE=DATE:20611109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20611108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -54999,6 +56139,36 @@ TRIGGER;VALUE=DATE-TIME:20620616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2062@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20620516
+DTEND;VALUE=DATE:20620517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 137 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20620516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2062@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20621108
+DTEND;VALUE=DATE:20621109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20621108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2063@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20630114
@@ -56406,6 +57576,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20630616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2063@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20630516
+DTEND;VALUE=DATE:20630517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 138 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20630516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2063@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20631108
+DTEND;VALUE=DATE:20631109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20631108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -57819,6 +59019,36 @@ TRIGGER;VALUE=DATE-TIME:20640616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2064@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20640516
+DTEND;VALUE=DATE:20640517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 139 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20640516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2064@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20641108
+DTEND;VALUE=DATE:20641109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20641108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2065@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20650118
@@ -59226,6 +60456,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20650616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2065@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20650516
+DTEND;VALUE=DATE:20650517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 140 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20650516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2065@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20651108
+DTEND;VALUE=DATE:20651109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20651108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -60639,6 +61899,36 @@ TRIGGER;VALUE=DATE-TIME:20660616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2066@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20660516
+DTEND;VALUE=DATE:20660517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 141 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20660516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2066@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20661108
+DTEND;VALUE=DATE:20661109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20661108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2067@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20670116
@@ -62046,6 +63336,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20670616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2067@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20670516
+DTEND;VALUE=DATE:20670517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 142 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20670516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2067@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20671108
+DTEND;VALUE=DATE:20671109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20671108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -63459,6 +64779,36 @@ TRIGGER;VALUE=DATE-TIME:20680616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2068@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20680516
+DTEND;VALUE=DATE:20680517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 143 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20680516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2068@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20681108
+DTEND;VALUE=DATE:20681109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20681108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2069@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20690113
@@ -64866,6 +66216,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20690616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2069@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20690516
+DTEND;VALUE=DATE:20690517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 144 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20690516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2069@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20691108
+DTEND;VALUE=DATE:20691109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20691108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -66279,6 +67659,36 @@ TRIGGER;VALUE=DATE-TIME:20700616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2070@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20700516
+DTEND;VALUE=DATE:20700517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 145 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20700516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2070@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20701108
+DTEND;VALUE=DATE:20701109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20701108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2071@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20710118
@@ -67686,6 +69096,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20710616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2071@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20710516
+DTEND;VALUE=DATE:20710517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 146 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20710516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2071@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20711108
+DTEND;VALUE=DATE:20711109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20711108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -69099,6 +70539,36 @@ TRIGGER;VALUE=DATE-TIME:20720616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2072@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20720516
+DTEND;VALUE=DATE:20720517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 147 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20720516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2072@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20721108
+DTEND;VALUE=DATE:20721109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20721108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2073@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20730115
@@ -70506,6 +71976,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20730616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2073@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20730516
+DTEND;VALUE=DATE:20730517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 148 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20730516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2073@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20731108
+DTEND;VALUE=DATE:20731109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20731108T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -71919,6 +73419,36 @@ TRIGGER;VALUE=DATE-TIME:20740616T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2074@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20740516
+DTEND;VALUE=DATE:20740517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 149 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20740516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2074@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20741108
+DTEND;VALUE=DATE:20741109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20741108T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2075@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20750113
@@ -73326,6 +74856,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tag der Solidarität mit Südafrika ✊
 TRIGGER;VALUE=DATE-TIME:20750616T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-hannes-hegen--2075@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20750516
+DTEND;VALUE=DATE:20750517
+SUMMARY:Geburtstag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth) wurde am 16. Mai 1925 in Böhmisch Kamnitz (heute Česká Kamenice\, Tschechien) geboren und starb 2014 mit 89 Jahren. Er wäre heute 150 Jahre alt. Grafiker und Comiczeichner\, Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975). Das Mosaik erschien im Verlag Junge Welt und war die meistgelesene Kinderzeitschrift der DDR. Sein Grab in Berlin-Karlshorst ist Ehrengrab des Landes Berlin.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20750516T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-hannes-hegen--2075@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20751108
+DTEND;VALUE=DATE:20751109
+SUMMARY:Todestag Hannes Hegen 📖
+DESCRIPTION:Hannes Hegen (eigentl. Johannes Eduard Hegenbarth)\, geboren im Jahre 1925\, verstarb am 8. November 2014 in Berlin. Er wurde 89 Jahre alt. Schöpfer der DDR-Comicreihe Mosaik mit den Digedags (1955–1975) und bedeutendster Comiczeichner der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Hannes Hegen 📖
+TRIGGER;VALUE=DATE-TIME:20751108T060000
 END:VALARM
 END:VEVENT
 END:VCALENDAR
