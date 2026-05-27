@@ -97,8 +97,7 @@ Dieser Kalender dokumentiert diesen Festkalender als lebendiges iCal-Abonnement 
 
 ## 📬 Kontakt & Impressum
 
-**Timo König** · Steinbecker Softwaredienste
-Auf dem Glockenberg 4 · 38707 Clausthal-Zellerfeld
+**Timo König** · Steinbecker Softwaredienste · Auf dem Glockenberg 4 · 38707 Clausthal-Zellerfeld
 ✉️ steinbeckersoftware@proton.me
 
 ---
