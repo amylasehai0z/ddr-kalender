@@ -3009,6 +3009,36 @@ TRIGGER;VALUE=DATE-TIME:20240312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2024@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20250101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 97 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20241231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2024@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20240206
+DTEND;VALUE=DATE:20240207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20240206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2025@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20250112
@@ -6006,6 +6036,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20250312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2025@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 98 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20251231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2025@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20250206
+DTEND;VALUE=DATE:20250207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20250206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -9009,6 +9069,36 @@ TRIGGER;VALUE=DATE-TIME:20260312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2026@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 99 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20261231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2026@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20260206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2027@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20270117
@@ -12006,6 +12096,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20270312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2027@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 100 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20271231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2027@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20270206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -15009,6 +15129,36 @@ TRIGGER;VALUE=DATE-TIME:20280312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2028@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 101 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20281231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2028@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20280206
+DTEND;VALUE=DATE:20280207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20280206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2029@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20290114
@@ -18006,6 +18156,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20290312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2029@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 102 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20291231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2029@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20290206
+DTEND;VALUE=DATE:20290207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20290206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -21009,6 +21189,36 @@ TRIGGER;VALUE=DATE-TIME:20300312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2030@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20301231
+DTEND;VALUE=DATE:20310101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 103 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20301231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2030@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20300206
+DTEND;VALUE=DATE:20300207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20300206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2031@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20310112
@@ -24006,6 +24216,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20310312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2031@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20311231
+DTEND;VALUE=DATE:20320101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 104 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20311231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2031@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20310206
+DTEND;VALUE=DATE:20310207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20310206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -27009,6 +27249,36 @@ TRIGGER;VALUE=DATE-TIME:20320312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2032@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20321231
+DTEND;VALUE=DATE:20330101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 105 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20321231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2032@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20320206
+DTEND;VALUE=DATE:20320207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20320206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2033@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20330116
@@ -30006,6 +30276,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20330312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2033@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20331231
+DTEND;VALUE=DATE:20340101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 106 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20331231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2033@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20330206
+DTEND;VALUE=DATE:20330207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20330206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -33009,6 +33309,36 @@ TRIGGER;VALUE=DATE-TIME:20340312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2034@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20341231
+DTEND;VALUE=DATE:20350101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 107 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20341231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2034@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20340206
+DTEND;VALUE=DATE:20340207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20340206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2035@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20350114
@@ -36006,6 +36336,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20350312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2035@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20351231
+DTEND;VALUE=DATE:20360101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 108 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20351231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2035@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20350206
+DTEND;VALUE=DATE:20350207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20350206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -39009,6 +39369,36 @@ TRIGGER;VALUE=DATE-TIME:20360312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2036@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20361231
+DTEND;VALUE=DATE:20370101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 109 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20361231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2036@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20360206
+DTEND;VALUE=DATE:20360207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20360206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2037@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20370118
@@ -42006,6 +42396,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20370312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2037@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20371231
+DTEND;VALUE=DATE:20380101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 110 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20371231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2037@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20370206
+DTEND;VALUE=DATE:20370207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20370206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -45009,6 +45429,36 @@ TRIGGER;VALUE=DATE-TIME:20380312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2038@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20381231
+DTEND;VALUE=DATE:20390101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 111 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20381231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2038@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20380206
+DTEND;VALUE=DATE:20380207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20380206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2039@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20390116
@@ -48006,6 +48456,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20390312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2039@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20391231
+DTEND;VALUE=DATE:20400101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 112 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20391231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2039@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20390206
+DTEND;VALUE=DATE:20390207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20390206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -51009,6 +51489,36 @@ TRIGGER;VALUE=DATE-TIME:20400312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2040@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20401231
+DTEND;VALUE=DATE:20410101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 113 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20401231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2040@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20400206
+DTEND;VALUE=DATE:20400207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20400206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2041@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20410113
@@ -54006,6 +54516,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20410312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2041@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20411231
+DTEND;VALUE=DATE:20420101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 114 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20411231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2041@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20410206
+DTEND;VALUE=DATE:20410207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20410206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -57009,6 +57549,36 @@ TRIGGER;VALUE=DATE-TIME:20420312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2042@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20421231
+DTEND;VALUE=DATE:20430101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 115 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20421231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2042@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20420206
+DTEND;VALUE=DATE:20420207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20420206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2043@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20430118
@@ -60006,6 +60576,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20430312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2043@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20431231
+DTEND;VALUE=DATE:20440101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 116 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20431231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2043@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20430206
+DTEND;VALUE=DATE:20430207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20430206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -63009,6 +63609,36 @@ TRIGGER;VALUE=DATE-TIME:20440312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2044@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20441231
+DTEND;VALUE=DATE:20450101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 117 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20441231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2044@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20440206
+DTEND;VALUE=DATE:20440207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20440206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2045@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20450115
@@ -66006,6 +66636,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20450312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2045@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20451231
+DTEND;VALUE=DATE:20460101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 118 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20451231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2045@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20450206
+DTEND;VALUE=DATE:20450207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20450206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -69009,6 +69669,36 @@ TRIGGER;VALUE=DATE-TIME:20460312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2046@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20461231
+DTEND;VALUE=DATE:20470101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 119 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20461231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2046@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20460206
+DTEND;VALUE=DATE:20460207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20460206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2047@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20470113
@@ -72006,6 +72696,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20470312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2047@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20471231
+DTEND;VALUE=DATE:20480101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 120 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20471231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2047@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20470206
+DTEND;VALUE=DATE:20470207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20470206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -75009,6 +75729,36 @@ TRIGGER;VALUE=DATE-TIME:20480312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2048@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20481231
+DTEND;VALUE=DATE:20490101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 121 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20481231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2048@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20480206
+DTEND;VALUE=DATE:20480207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20480206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2049@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20490117
@@ -78006,6 +78756,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20490312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2049@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20491231
+DTEND;VALUE=DATE:20500101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 122 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20491231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2049@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20490206
+DTEND;VALUE=DATE:20490207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20490206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -81009,6 +81789,36 @@ TRIGGER;VALUE=DATE-TIME:20500312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2050@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20501231
+DTEND;VALUE=DATE:20510101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 123 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20501231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2050@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20500206
+DTEND;VALUE=DATE:20500207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20500206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2051@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20510115
@@ -84006,6 +84816,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20510312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2051@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20511231
+DTEND;VALUE=DATE:20520101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 124 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20511231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2051@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20510206
+DTEND;VALUE=DATE:20510207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20510206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -87009,6 +87849,36 @@ TRIGGER;VALUE=DATE-TIME:20520312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2052@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20521231
+DTEND;VALUE=DATE:20530101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 125 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20521231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2052@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20520206
+DTEND;VALUE=DATE:20520207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20520206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2053@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20530112
@@ -90006,6 +90876,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20530312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2053@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20531231
+DTEND;VALUE=DATE:20540101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 126 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20531231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2053@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20530206
+DTEND;VALUE=DATE:20530207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20530206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -93009,6 +93909,36 @@ TRIGGER;VALUE=DATE-TIME:20540312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2054@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20541231
+DTEND;VALUE=DATE:20550101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 127 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20541231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2054@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20540206
+DTEND;VALUE=DATE:20540207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20540206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2055@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20550117
@@ -96006,6 +96936,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20550312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2055@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20551231
+DTEND;VALUE=DATE:20560101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 128 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20551231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2055@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20550206
+DTEND;VALUE=DATE:20550207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20550206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -99009,6 +99969,36 @@ TRIGGER;VALUE=DATE-TIME:20560312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2056@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20561231
+DTEND;VALUE=DATE:20570101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 129 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20561231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2056@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20560206
+DTEND;VALUE=DATE:20560207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20560206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2057@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20570114
@@ -102006,6 +102996,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20570312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2057@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20571231
+DTEND;VALUE=DATE:20580101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 130 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20571231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2057@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20570206
+DTEND;VALUE=DATE:20570207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20570206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -105009,6 +106029,36 @@ TRIGGER;VALUE=DATE-TIME:20580312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2058@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20581231
+DTEND;VALUE=DATE:20590101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 131 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20581231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2058@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20580206
+DTEND;VALUE=DATE:20580207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20580206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2059@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20590112
@@ -108006,6 +109056,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20590312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2059@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20591231
+DTEND;VALUE=DATE:20600101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 132 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20591231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2059@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20590206
+DTEND;VALUE=DATE:20590207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20590206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -111009,6 +112089,36 @@ TRIGGER;VALUE=DATE-TIME:20600312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2060@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20601231
+DTEND;VALUE=DATE:20610101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 133 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20601231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2060@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20600206
+DTEND;VALUE=DATE:20600207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20600206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2061@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20610116
@@ -114006,6 +115116,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20610312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2061@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20611231
+DTEND;VALUE=DATE:20620101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 134 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20611231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2061@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20610206
+DTEND;VALUE=DATE:20610207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20610206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -117009,6 +118149,36 @@ TRIGGER;VALUE=DATE-TIME:20620312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2062@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20621231
+DTEND;VALUE=DATE:20630101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 135 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20621231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2062@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20620206
+DTEND;VALUE=DATE:20620207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20620206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2063@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20630114
@@ -120006,6 +121176,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20630312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2063@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20631231
+DTEND;VALUE=DATE:20640101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 136 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20631231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2063@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20630206
+DTEND;VALUE=DATE:20630207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20630206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -123009,6 +124209,36 @@ TRIGGER;VALUE=DATE-TIME:20640312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2064@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20641231
+DTEND;VALUE=DATE:20650101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 137 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20641231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2064@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20640206
+DTEND;VALUE=DATE:20640207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20640206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2065@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20650118
@@ -126006,6 +127236,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20650312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2065@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20651231
+DTEND;VALUE=DATE:20660101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 138 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20651231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2065@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20650206
+DTEND;VALUE=DATE:20650207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20650206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -129009,6 +130269,36 @@ TRIGGER;VALUE=DATE-TIME:20660312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2066@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20661231
+DTEND;VALUE=DATE:20670101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 139 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20661231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2066@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20660206
+DTEND;VALUE=DATE:20660207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20660206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2067@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20670116
@@ -132006,6 +133296,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20670312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2067@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20671231
+DTEND;VALUE=DATE:20680101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 140 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20671231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2067@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20670206
+DTEND;VALUE=DATE:20670207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20670206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -135009,6 +136329,36 @@ TRIGGER;VALUE=DATE-TIME:20680312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2068@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20681231
+DTEND;VALUE=DATE:20690101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 141 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20681231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2068@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20680206
+DTEND;VALUE=DATE:20680207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20680206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2069@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20690113
@@ -138006,6 +139356,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20690312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2069@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20691231
+DTEND;VALUE=DATE:20700101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 142 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20691231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2069@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20690206
+DTEND;VALUE=DATE:20690207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20690206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -141009,6 +142389,36 @@ TRIGGER;VALUE=DATE-TIME:20700312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2070@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20701231
+DTEND;VALUE=DATE:20710101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 143 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20701231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2070@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20700206
+DTEND;VALUE=DATE:20700207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20700206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2071@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20710118
@@ -144006,6 +145416,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20710312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2071@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20711231
+DTEND;VALUE=DATE:20720101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 144 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20711231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2071@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20710206
+DTEND;VALUE=DATE:20710207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20710206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -147009,6 +148449,36 @@ TRIGGER;VALUE=DATE-TIME:20720312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2072@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20721231
+DTEND;VALUE=DATE:20730101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 145 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20721231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2072@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20720206
+DTEND;VALUE=DATE:20720207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20720206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2073@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20730115
@@ -150006,6 +151476,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20730312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2073@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20731231
+DTEND;VALUE=DATE:20740101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 146 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20731231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2073@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20730206
+DTEND;VALUE=DATE:20730207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20730206T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -153009,6 +154509,36 @@ TRIGGER;VALUE=DATE-TIME:20740312T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2074@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20741231
+DTEND;VALUE=DATE:20750101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 147 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20741231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2074@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20740206
+DTEND;VALUE=DATE:20740207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20740206T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:ddr-liebknecht--luxemburg-gedenktag--2075@ddr-kalender
 DTSTAMP:20240101T000000Z
 DTSTART;VALUE=DATE:20750113
@@ -156006,6 +157536,36 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Jurij Brězan ✍️
 TRIGGER;VALUE=DATE-TIME:20750312T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-geburtstag-dieter-noll--2075@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20751231
+DTEND;VALUE=DATE:20760101
+SUMMARY:Geburtstag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll wurde am 31. Dezember 1927 in Riesa (Sachsen) geboren. Er wäre heute 148 Jahre alt. Der DDR-Schriftsteller ist vor allem bekannt durch seinen zweibändigen Roman 'Die Abenteuer des Werner Holt' (Band 1: 1960\, Band 2: 1963): Band 1 schildert die Entwicklung des Abiturienten Werner Holt vom Flakhelfer zum Kriegsgefangenen und seine wachsenden Zweifel am Nationalsozialismus\, Band 2 zeigt seinen schwierigen Weg zum Sozialismus. Das Werk war Pflichtlektüre in DDR-Schulen und wurde über zwei Millionen Mal verkauft. 1964 verfilmte Joachim Kunert den ersten Band. Noll erhielt zweimal den Nationalpreis der DDR.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Geburtstag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20751231T060000
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddr-todestag-dieter-noll--2075@ddr-kalender
+DTSTAMP:20240101T000000Z
+DTSTART;VALUE=DATE:20750206
+DTEND;VALUE=DATE:20750207
+SUMMARY:Todestag Dieter Noll ✍️
+DESCRIPTION:Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.
+CATEGORIES:DDR Feiertage
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Todestag Dieter Noll ✍️
+TRIGGER;VALUE=DATE-TIME:20750206T060000
 END:VALARM
 END:VEVENT
 END:VCALENDAR
