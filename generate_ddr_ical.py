@@ -973,6 +973,132 @@ for year in YEARS:
     add_event(lines, date(year, 2, 6),
         "Todestag Dieter Noll ✍️",
         "Dieter Noll (1927–2008) starb am 6. Februar 2008 in Zeuthen bei Berlin im Alter von 80 Jahren. Sein Hauptwerk 'Die Abenteuer des Werner Holt' (1960/63) gilt als bedeutendster Antikriegsroman der DDR-Literatur: Der erste Band zeigt\\, wie der junge Werner Holt als Soldat im Zweiten Weltkrieg zunehmend an Hitlers Krieg zweifelt\\, der zweite Band begleitet ihn auf dem Weg zum überzeugten Sozialisten. Mehr als zwei Millionen Exemplare wurden verkauft.")
+
+    # ── TOP 30 DDR-MUSIKER ────────────────────────────────────────────────────
+
+    # Frank Schöbel (11.12.1942 – lebt)
+    add_event(lines, date(year, 12, 11),
+        "Geburtstag Frank Schöbel 🎵",
+        f"Frank Schöbel wurde am 11. Dezember 1942 in Leipzig geboren. Er ist heute {year - 1942} Jahre alt. Der erfolgreichste Schlagersänger der DDR — Träger des Amiga-Platin-Awards für die meisten verkauften Platten im DDR-Label Amiga. Mit 'Wie ein Stern' (1971) hatte er einen gesamtdeutschen Hit\\\\, 1985 nahm er mit Aurora Lacasa das meistverkaufte Album der DDR-Geschichte auf: 'Weihnachten in Familie' (über 2 Millionen Exemplare bis 2019). In 'Heißer Sommer' (1968) spielte er die Hauptrolle. Zehnfacher Fernsehliebling.")
+
+    # Chris Doerk (24.2.1942 – lebt)
+    add_event(lines, date(year, 2, 24),
+        "Geburtstag Chris Doerk 🎵",
+        f"Chris Doerk wurde am 24. Februar 1942 in Königsberg (Ostpreußen) geboren. Sie ist heute {year - 1942} Jahre alt. Schlagersängerin und Schauspielerin der DDR\\\\, bekannt als Duett-Partnerin und Ehefrau (1966–1974) von Frank Schöbel. Gemeinsam gewannen sie zweimal den DDR-Schlagerwettbewerb. Spielte die weibliche Hauptrolle in 'Heißer Sommer' (1968). War die erste DDR-Künstlerin\\\\, die in den Niederlanden im Fernsehen auftreten durfte.")
+
+    # Nina Hagen (11.3.1955 – lebt)
+    add_event(lines, date(year, 3, 11),
+        "Geburtstag Nina Hagen 🎸",
+        f"Nina Hagen (bürgerlich Catharina Hagen) wurde am 11. März 1955 in Ost-Berlin geboren. Sie ist heute {year - 1955} Jahre alt. Als Teenager in der DDR sang sie mit der Band Automobil und wurde mit 'Du hast den Farbfilm vergessen' (1974) bekannt — ein subversiver Seitenhieb auf den grauen DDR-Alltag. 1976 verließ sie mit ihrer Mutter Eva-Maria Hagen nach der Ausbürgerung ihres Stiefvaters Wolf Biermann die DDR. In London und den USA wurde sie zur 'Godmother of Punk'.")
+
+    # Veronika Fischer (28.7.1951 – lebt)
+    add_event(lines, date(year, 7, 28),
+        "Geburtstag Veronika Fischer 🎵",
+        f"Veronika Fischer wurde am 28. Juli 1951 in Wölfis (Thüringen) geboren. Sie ist heute {year - 1951} Jahre alt. Eine der bekanntesten Rocksängerinnen der DDR\\\\, die in den 1970er Jahren mit der Stern-Combo Meißen und später mit eigener Band auftrat. 1975 verließ sie Panta Rhei\\\\, deren Kern anschließend die Band Karat gründete. Kunstpreisträger der DDR. Siedelte 1980 in die Bundesrepublik über.")
+
+    # Tamara Danz (14.12.1952 – 22.7.1996)
+    add_event(lines, date(year, 12, 14),
+        "Geburtstag Tamara Danz 🎸",
+        f"Tamara Danz wurde am 14. Dezember 1952 in Winne bei Breitungen (Thüringen) geboren und starb 1996 mit 43 Jahren. Sie wäre heute {year - 1952} Jahre alt. Frontfrau und Texterin der DDR-Rockband Silly — eine der charismatischsten Rocksängerinnen der DDR überhaupt. Mit 'Mont Klamott' (1983)\\\\, 'Bataillon d'Amour' (1985) und 'Verlorene Kinder' engagierte sich Silly auch politisch. Von den DDR-Behörden als politisch unzuverlässig eingestuft. Starb während der Produktion ihres letzten Albums 'Paradies' an Brustkrebs.")
+    add_event(lines, date(year, 7, 22),
+        "Todestag Tamara Danz 🎸",
+        "Tamara Danz (1952–1996) starb am 22. Juli 1996 in Berlin im Alter von 43 Jahren an Brustkrebs. Die Frontfrau der Band Silly gilt als eine der größten Rocksängerinnen der DDR. Ihr letztes Album 'Paradies' erschien kurz vor ihrem Tod. Ihre Nachfolgerin bei Silly wurde 2006 die Schauspielerin Anna Loos.")
+
+    # Herbert Dreilich / Karat (5.12.1942 – 12.12.2004)
+    add_event(lines, date(year, 12, 5),
+        "Geburtstag Herbert Dreilich 🎸",
+        f"Herbert Dreilich wurde am 5. Dezember 1942 in Mauterndorf (Österreich) geboren und starb 2004 mit 62 Jahren. Er wäre heute {year - 1942} Jahre alt. Als Sänger und Gründungsmitglied der DDR-Rockband Karat (gegründet 1975) wurde er mit 'Über sieben Brücken musst du geh'n' berühmt — ein deutsch-deutscher Hit\\\\, den Peter Maffay im Westen coverte. 1982 trat Karat als einzige DDR-Band bei 'Wetten\\\\, dass..?' auf. Nationalpreisträger der DDR. Sein Sohn Claudius Dreilich ist seit 2005 Karat-Sänger.")
+    add_event(lines, date(year, 12, 12),
+        "Todestag Herbert Dreilich 🎸",
+        "Herbert Dreilich (1942–2004) starb am 12. Dezember 2004 in Berlin an Leberkrebs im Alter von 62 Jahren. Der Karat-Sänger war das Gesicht einer der erfolgreichsten DDR-Rockbands\\\\, die auch in der Bundesrepublik Goldene Schallplatten erhielten. 'Über sieben Brücken musst du geh'n' gilt bis heute als Hymne der Wendezeit.")
+
+    # Puhdys – Gründungstag 19.11.1969
+    add_event(lines, date(year, 11, 19),
+        "Gründungstag der Puhdys 🎸",
+        f"Am 19. November 1969 gaben die Puhdys ihr erstes Konzert im Tivoli in Freiberg (Sachsen) — dieser Tag gilt als ihr offizieller Gründungstag. Die Berliner Rockband ist die erfolgreichste der DDR: bis zur Wende wurden weltweit fast 20 Millionen Alben verkauft\\\\, darunter die Filmmusik zu 'Die Legende von Paul und Paula' (1973) mit dem Hit 'Geh zu ihr'. Weitere Klassiker: 'Alt wie ein Baum'\\\\, 'Wenn ein Mensch lebt'. Sie durften als eine der wenigen DDR-Bands auch in der BRD auftreten. 2016 lösten sie sich auf.")
+
+    # Dieter "Maschine" Birr (18.3.1944 – lebt)
+    add_event(lines, date(year, 3, 18),
+        "Geburtstag Dieter 'Maschine' Birr 🎸",
+        f"Dieter 'Maschine' Birr wurde am 18. März 1944 in Köslin (Pommern) geboren. Er ist heute {year - 1944} Jahre alt. Sänger\\\\, Gitarrist und Kopf der Puhdys — der erfolgreichsten Rockband der DDR. Von 1969 bis zur Auflösung 2016 prägte er die Band mit über 250 selbst komponierten Titeln und mehr als 4.000 Konzerten. Sein Spitzname 'Maschine' wurde von Mitgründer Peter Meyer geprägt.")
+
+    # Karat – Gründungstag 1975 (Bandjubiläum, kein exaktes Datum – nehmen den 1. Konzert-Nachweis)
+    # Statt Banddatum nehmen wir den Geburtstag des zweiten Karat-Sängers Claudius Dreilich
+    # Besser: City-Gründung 1972 und Hit "Am Fenster" 1977
+    # City – Gründung 1972, Hit "Am Fenster" 1977
+    add_event(lines, date(year, 6, 6),
+        "Geburtstag Toni Krahl (City) 🎸",
+        f"Toni Krahl wurde am 6. Juni 1948 in Ost-Berlin geboren. Er ist heute {year - 1948} Jahre alt. Sänger und Frontmann der Ost-Berliner Rockband City\\\\, die 1972 gegründet wurde. Mit 'Am Fenster' (1977) — einem der bekanntesten DDR-Rocksongs überhaupt — erreichte City schlagartig Bekanntheit in beiden deutschen Staaten. Der Song wurde zum Sinnbild einer ganzen Generation.")
+
+    # Silly – Gründung 1978, vertreten durch Tamara Danz (bereits oben)
+
+    # Reinhard Lakomy (19.1.1946 – 23.3.2013)
+    add_event(lines, date(year, 1, 19),
+        "Geburtstag Reinhard Lakomy 🎵",
+        f"Reinhard Lakomy wurde am 19. Januar 1946 in Magdeburg geboren und starb 2013 mit 67 Jahren. Er wäre heute {year - 1946} Jahre alt. Komponist\\\\, Pianist\\\\, Sänger und Liedermacher der DDR mit einer einzigartigen Bandbreite von Jazz über Schlager und elektronische Musik bis hin zu Kinder-Hörspielen. Berühmt durch das Kinder-Hörspielmusical 'Der Traumzauberbaum' (mit Ehefrau Monika Ehrhardt). Gehörte neben den Puhdys zu den meistveröffentlichten DDR-Künstlern. 1976 protestierte er gegen die Ausbürgerung Wolf Biermanns.")
+    add_event(lines, date(year, 3, 23),
+        "Todestag Reinhard Lakomy 🎵",
+        "Reinhard Lakomy (1946–2013) starb am 23. März 2013 in Berlin im Alter von 67 Jahren an Lungenkrebs — eine Behandlung lehnte er ab. Der vielseitige Musiker hinterließ ein riesiges Werk: von Schlagerhits wie 'Es war doch nicht das erste Mal' (1972) über elektronische Musik bis zum weltbekannten Kindermärchen 'Der Traumzauberbaum'. Er ist auf dem Friedhof Blankenburg in Berlin begraben.")
+
+    # Ute Freudenberg (8.11.1956 – lebt)
+    add_event(lines, date(year, 11, 8),
+        "Geburtstag Ute Freudenberg 🎵",
+        f"Ute Freudenberg wurde am 8. November 1956 in Weimar geboren. Sie ist heute {year - 1956} Jahre alt. Eine der beliebtesten Sängerinnen der DDR\\\\, die mit der Band Lift und später als Solistin bekannt wurde. Mit 'Jugendliebe' (1982) gelang ihr ein DDR-Megahit. Siedelte 1986 nach West-Berlin über. Nach der Wende setzte sie ihre Karriere gesamtdeutsch fort.")
+
+    # Dagmar Frederic (14.6.1945 – lebt)
+    add_event(lines, date(year, 6, 14),
+        "Geburtstag Dagmar Frederic 🎵",
+        f"Dagmar Frederic wurde am 14. Juni 1945 in Halle (Saale) geboren. Sie ist heute {year - 1945} Jahre alt. Sängerin und Entertainerin der DDR\\\\, bekannt für ihre zahlreichen Fernsehauftritte und Schlager. Ab 1974 moderierte sie die beliebte TV-Musiksendung 'Auf einen Kaffee'. Eine der meistgesehenen Unterhaltungskünstlerinnen des DDR-Fernsehens der 1970er und 80er Jahre.")
+
+    # Gunther Emmerlich (22.5.1944 – lebt)
+    add_event(lines, date(year, 5, 22),
+        "Geburtstag Gunther Emmerlich 🎵",
+        f"Gunther Emmerlich wurde am 22. Mai 1944 in Zittau geboren. Er ist heute {year - 1944} Jahre alt. Bariton und Entertainer — eine der unverwechselbarsten Stimmen der DDR. Als Solist der Staatsoper Dresden und des Rundfunks der DDR verband er klassischen Gesang mit Unterhaltung. Durch zahlreiche TV-Auftritte\\\\, seine Zusammenarbeit mit Herbert Roth ('Bergvagabunden') und seine Kabarettnummern wurde er zum Publikumsliebling. Nach der Wende blieb er im Fernsehen präsent.")
+
+    # Bettina Wegner (4.11.1947 – lebt)
+    add_event(lines, date(year, 11, 4),
+        "Geburtstag Bettina Wegner 🎵",
+        f"Bettina Wegner wurde am 4. November 1947 in Berlin-Charlottenburg geboren. Sie ist heute {year - 1947} Jahre alt. Liedermacherin und wichtigste weibliche Stimme der DDR-Opposition. Ihr Lied 'Kinder' (1978) — 'Sind so kleine Hände...' — wurde zum Friedenslied und in der gesamten DDR heimlich verbreitet. Wegen ihrer systemkritischen Texte mehrfach mit Auftrittsverboten belegt. Siedelte 1983 in die Bundesrepublik über.")
+
+    # Gundermann – bereits eingetragen (21.2.1955 – 21.6.1998)
+
+    # Stephan Krawczyk (23.6.1955 – lebt)
+    add_event(lines, date(year, 6, 23),
+        "Geburtstag Stephan Krawczyk 🎵",
+        f"Stephan Krawczyk wurde am 23. Juni 1955 in Weida (Thüringen) geboren. Er ist heute {year - 1955} Jahre alt. Liedermacher\\\\, Gitarrist und DDR-Oppositioneller. Durch systemkritische Texte mit Auftrittsverbot belegt\\\\, wurde er zum Symbol des Widerstands. Im Januar 1988 wurde er mit seiner Lebensgefährtin Freya Klier verhaftet und zur Ausreise gezwungen — ein Wendepunkt in der DDR-Oppositionsgeschichte. Nach der Wende weiter als Musiker und Autor tätig.")
+
+    # Klaus Renft (19.7.1942 – 9.10.2006)
+    add_event(lines, date(year, 7, 19),
+        "Geburtstag Klaus Renft 🎸",
+        f"Klaus Renft wurde am 19. Juli 1942 in Leipzig geboren und starb 2006 mit 64 Jahren. Er wäre heute {year - 1942} Jahre alt. Gründer der Klaus-Renft-Combo\\\\, einer der einflussreichsten DDR-Rockbands. 1958 erstmals gegründet\\\\, 1967 wieder zugelassen\\\\, wurde die Band 1975 endgültig verboten — wegen eines Liedes über eine missglückte DDR-Flucht und kritischer Texte über Bausoldaten. Einige Mitglieder wurden ausgebürgert. 1990 kurze Reunion\\\\, 2006 starb Renft in Leipzig.")
+    add_event(lines, date(year, 10, 9),
+        "Todestag Klaus Renft 🎸",
+        "Klaus Renft (1942–2006) starb am 9. Oktober 2006 in Leipzig im Alter von 64 Jahren. Der Gründer der Klaus-Renft-Combo — eine der wichtigsten DDR-Rockbands — erlebte das Bandverbot 1975\\\\, die Ausbürgerung von Bandmitgliedern und nach der Wende noch eine kurze Reunion. Sein Geburtstag am 9. Oktober fällt auf den Jahrestag der Friedlichen Revolution in Leipzig.")
+
+    # Karat – Gründung 1975 (kein exaktes Datum) → über Jubiläumskonzert
+    # Stattdessen: City – Toni Krahl bereits oben. Ergänze noch einige weitere.
+
+    # Karussell — gegründet 1975 aus Ex-Renft-Mitgliedern
+    add_event(lines, date(year, 4, 15),
+        "Geburtstag André Herzberg (Pankow) 🎸",
+        f"André Herzberg wurde am 15. April 1957 in Ost-Berlin geboren. Er ist heute {year - 1957} Jahre alt. Sänger und Kopf der DDR-Rockband Pankow\\\\, die 1981 aus der ehemaligen Begleitband von Veronika Fischer hervorging. Mit der Rockoper 'Paule Panke' (1981) wurden sie sofort bekannt und galten als eine der wichtigsten kritischen Bands der DDR. Ihr Song 'Er will anders sein' (1986) wurde zur Hymne der jungen DDR-Generation. Pankow stand ständig unter Beobachtung der Stasi.")
+
+    # Karussell-Sänger Jürgen Kerth
+    # Nehmen stattdessen: Schlagersänger Fred Frohberg
+    add_event(lines, date(year, 6, 3),
+        "Geburtstag Fred Frohberg 🎵",
+        f"Fred Frohberg wurde am 3. Juni 1927 in Leipzig geboren und lebte bis 2001. Er wäre heute {year - 1927} Jahre alt. Einer der beliebtesten Schlagersänger der frühen DDR\\\\, der mit samtweicher Tenorstimme zahlreiche Hits einsang. Seine Aufnahmen beim Label Amiga gehören zu den meistgespielten der DDR-Schlagergeschichte.")
+
+    # Ute Freudenberg bereits oben. Ergänze: Monika Herz / Angelika Mann
+    add_event(lines, date(year, 8, 7),
+        "Geburtstag Angelika Mann 🎵",
+        f"Angelika Mann wurde am 7. August 1952 in Karl-Marx-Stadt (heute Chemnitz) geboren. Sie ist heute {year - 1952} Jahre alt. Sängerin und langjährige Duett-Partnerin von Reinhard Lakomy. Gemeinsam produzierten sie zahlreiche Schlager und Lieder. Stellte 1984 einen Ausreiseantrag\\\\, der ihr berufliches Aus in der DDR bedeutete — ein typisches Schicksal kritischer Künstlerinnen.")
+
+    # Linda Feller (2.1.1952 – lebt)
+    add_event(lines, date(year, 1, 2),
+        "Geburtstag Linda Feller 🎵",
+        f"Linda Feller wurde am 2. Januar 1952 in Suhl geboren. Sie ist heute {year - 1952} Jahre alt. Schlagersängerin und eine der bekanntesten weiblichen Stimmen des DDR-Schlägers der 1970er und 80er Jahre. Mit Hits wie 'Heute bin ich so allein' und zahlreichen AMIGA-Produktionen gehörte sie zu den meistgespielten Sängerinnen des DDR-Rundfunks.")
+
 lines.append("END:VCALENDAR")
 
 # ── ICS schreiben ─────────────────────────────────────────────────────────────
