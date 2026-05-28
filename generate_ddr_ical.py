@@ -729,10 +729,13 @@ for year in YEARS:
         "Todestag Horst Drinda 🎬",
         "Horst Drinda (1927–2005) starb am 21. Februar 2005 in Berlin im Alter von 77 Jahren. Seit zwei Schlaganfällen im Mai 2003 war er gelähmt. Der Schauspieler und Regisseur gehörte jahrzehntelang zum Deutschen Theater Berlin und später zum Schauspielerensemble des DFF. Unvergessen als Kapitän Hans Karsten in 'Zur See' (1977) — der beliebtesten DDR-Fernsehserie. Sein Enkel ist die Schauspielerin Lea Drinda (* 2001).")
 
-    # Peter Sodann (DDR - lebt noch, geb. 7.12.1936)
-    add_event(lines, date(year, 12, 7),
+    # Peter Sodann (1.6.1936 – 5.4.2024)
+    add_event(lines, date(year, 6, 1),
         "Geburtstag Peter Sodann 🎬",
-        f"Peter Sodann wurde am 7. Dezember 1936 in Meißen (Sachsen) geboren. Er ist heute {year - 1936} Jahre alt. Schauspieler\\, Regisseur und Theaterleiter. Intendant des Stadttheaters Halle. Bundesweit bekannt durch die Rolle des Kommissars Bruno Ehrlicher im MDR-'Tatort' (1992–2008). Kandidierte 2009 für das Bundespräsidentenamt.")
+        f"Peter Sodann wurde am 1. Juni 1936 in Meißen (Sachsen) geboren und starb 2024 mit 87 Jahren. Er wäre heute {year - 1936} Jahre alt. Schauspieler, Regisseur und Theaterleiter. Intendant des neuen theaters Halle (nt), das er 1981 aus einem alten Kinosaal aufbaute. Bundesweit bekannt durch die Rolle des Kommissars Bruno Ehrlicher im MDR-'Tatort' (1992–2007). 1961 wurde er verhaftet und zu zwei Jahren Haft verurteilt, weil sein Studentenkabarett als 'konterrevolutionär' eingestuft worden war. Kandidierte 2009 für das Bundespräsidentenamt. Ehrenbürger der Stadt Halle.")
+    add_event(lines, date(year, 4, 5),
+        "Todestag Peter Sodann 🎬",
+        "Peter Sodann (1936–2024) starb am 5. April 2024 in Halle im Alter von 87 Jahren. Der Schauspieler und Theatermacher war als Kommissar Bruno Ehrlicher im MDR-'Tatort' (1992–2008) bundesweit bekannt. Als Intendant des Stadttheaters Halle prägte er das Kulturleben Sachsen-Anhalts. 2009 kandidierte er für das Bundespräsidentenamt.")
 
     # Helga Piur (24.5.1939 – lebt)
     add_event(lines, date(year, 5, 24),
@@ -1045,10 +1048,10 @@ for year in YEARS:
         "Geburtstag Ute Freudenberg 🎵",
         f"Ute Freudenberg wurde am 8. November 1956 in Weimar geboren. Sie ist heute {year - 1956} Jahre alt. Eine der beliebtesten Sängerinnen der DDR\\, die mit der Band Lift und später als Solistin bekannt wurde. Mit 'Jugendliebe' (1982) gelang ihr ein DDR-Megahit. Siedelte 1986 nach West-Berlin über. Nach der Wende setzte sie ihre Karriere gesamtdeutsch fort.")
 
-    # Dagmar Frederic (14.6.1945 – lebt)
-    add_event(lines, date(year, 6, 14),
+    # Dagmar Frederic (15.4.1945 – lebt)
+    add_event(lines, date(year, 4, 15),
         "Geburtstag Dagmar Frederic 🎵",
-        f"Dagmar Frederic wurde am 14. Juni 1945 in Halle (Saale) geboren. Sie ist heute {year - 1945} Jahre alt. Sängerin und Entertainerin der DDR\\, bekannt für ihre zahlreichen Fernsehauftritte und Schlager. Ab 1974 moderierte sie die beliebte TV-Musiksendung 'Auf einen Kaffee'. Eine der meistgesehenen Unterhaltungskünstlerinnen des DDR-Fernsehens der 1970er und 80er Jahre.")
+        f"Dagmar Frederic (bürgerlich Dagmar Elke Schulz) wurde am 15. April 1945 in Eberswalde geboren. Sie ist heute {year - 1945} Jahre alt. Sängerin\\, Tänzerin und Moderatorin — eine der populärsten Entertainerinnen der DDR. Durch Showmaster Heinz Quermann 1966 entdeckt\\, wurde sie mit Sendungen wie 'Ein Kessel Buntes' und 'Serenade bei Kerzenschein' zum TV-Star. Nationalpreisträger der DDR. Tritt auch mit 80 Jahren noch regelmäßig auf.")
 
     # Gunther Emmerlich (22.5.1944 – lebt)
     add_event(lines, date(year, 5, 22),
@@ -1093,11 +1096,6 @@ for year in YEARS:
     add_event(lines, date(year, 8, 7),
         "Geburtstag Angelika Mann 🎵",
         f"Angelika Mann wurde am 7. August 1952 in Karl-Marx-Stadt (heute Chemnitz) geboren. Sie ist heute {year - 1952} Jahre alt. Sängerin und langjährige Duett-Partnerin von Reinhard Lakomy. Gemeinsam produzierten sie zahlreiche Schlager und Lieder. Stellte 1984 einen Ausreiseantrag\\, der ihr berufliches Aus in der DDR bedeutete — ein typisches Schicksal kritischer Künstlerinnen.")
-
-    # Linda Feller (2.1.1952 – lebt)
-    add_event(lines, date(year, 1, 2),
-        "Geburtstag Linda Feller 🎵",
-        f"Linda Feller wurde am 2. Januar 1952 in Suhl geboren. Sie ist heute {year - 1952} Jahre alt. Schlagersängerin und eine der bekanntesten weiblichen Stimmen des DDR-Schlägers der 1970er und 80er Jahre. Mit Hits wie 'Heute bin ich so allein' und zahlreichen AMIGA-Produktionen gehörte sie zu den meistgespielten Sängerinnen des DDR-Rundfunks.")
 
 lines.append("END:VCALENDAR")
 
