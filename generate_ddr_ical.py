@@ -721,18 +721,52 @@ for year in YEARS:
         "Todestag Rolf Herricht 🎬",
         "Rolf Herricht\\, geboren 1927\\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.")
 
-    # Horst Drinda (23.5.1927 – 31.10.2002)
-    add_event(lines, date(year, 5, 23),
+    # Horst Drinda (1.5.1927 – 21.2.2005)
+    add_event(lines, date(year, 5, 1),
         "Geburtstag Horst Drinda 🎬",
-        f"Horst Drinda wurde am 23. Mai 1927 in Schönebeck (Elbe) geboren und starb 2002 mit 75 Jahren. Er wäre heute {year - 1927} Jahre alt. Einer der markantesten DDR-Fernsehschauspieler\\, bekannt durch 'Krupp und Krause' und 'Zum Teufel mit Harbolla'. Über Jahrzehnte festes Gesicht im DDR-Fernsehen.")
-    add_event(lines, date(year, 10, 31),
+        f"Horst Drinda wurde am 1. Mai 1927 in Berlin geboren — ausgerechnet am Tag der Arbeit — und starb 2005 mit 77 Jahren. Er wäre heute {year - 1927} Jahre alt. Schauspieler und Regisseur\\\\, einer der meistbeschäftigten Darsteller des Deutschen Theaters Berlin in den 1950er Jahren. Beim DDR-Fernsehen wurde er vor allem bekannt als Kapitän Hans Karsten in der Kultserie 'Zur See' (1977). Daneben spielte er in der propagandistischen Serie 'Ich – Axel Cäsar Springer' (1967–1970) die Titelrolle. Mehrfacher Nationalpreisträger der DDR\\\\, zuletzt 1987 mit dem Nationalpreis I. Klasse für Kunst und Literatur.")
+    add_event(lines, date(year, 2, 21),
         "Todestag Horst Drinda 🎬",
-        "Horst Drinda\\, geboren 1927\\, verstarb am 31. Oktober 2002. Er wurde 75 Jahre alt. DDR-Fernsehschauspieler.")
+        "Horst Drinda (1927–2005) starb am 21. Februar 2005 in Berlin im Alter von 77 Jahren. Seit zwei Schlaganfällen im Mai 2003 war er gelähmt. Der Schauspieler und Regisseur gehörte jahrzehntelang zum Deutschen Theater Berlin und später zum Schauspielerensemble des DFF. Unvergessen als Kapitän Hans Karsten in 'Zur See' (1977) — der beliebtesten DDR-Fernsehserie. Sein Enkel ist die Schauspielerin Lea Drinda (* 2001).")
 
     # Peter Sodann (DDR - lebt noch, geb. 7.12.1936)
     add_event(lines, date(year, 12, 7),
         "Geburtstag Peter Sodann 🎬",
         f"Peter Sodann wurde am 7. Dezember 1936 in Meißen (Sachsen) geboren. Er ist heute {year - 1936} Jahre alt. Schauspieler\\, Regisseur und Theaterleiter. Intendant des Stadttheaters Halle. Bundesweit bekannt durch die Rolle des Kommissars Bruno Ehrlicher im MDR-'Tatort' (1992–2008). Kandidierte 2009 für das Bundespräsidentenamt.")
+
+    # Helga Piur (24.5.1939 – lebt)
+    add_event(lines, date(year, 5, 24),
+        "Geburtstag Helga Piur 🎬",
+        f"Helga Piur wurde am 24. Mai 1939 in Berlin geboren. Sie ist heute {year - 1939} Jahre alt. DDR-Schauspielerin\\\\, die durch ihre Rolle als Sprechstundenhilfe Victoria Happmeyer\\\\, genannt 'Häppchen'\\\\, in der Comedyserie 'Zahn um Zahn' (1985–1988\\\\, 21 Folgen) an der Seite von Alfred Struwe zur Publikumsliebsten wurde — 1986 und 1987 von den Zuschauern zum Fernsehliebling gewählt. In 678 Folgen der Hörspielserie 'Neumann\\\\, zweimal klingeln' (1967–1982) war sie als Brigitte Neumann zu hören. Als Synchronsprecherin lieh sie Brigitte Bardot ihre Stimme. Von 1999 bis 2019 spielte sie die Frau Holle in der MDR-Weihnachtssendung mit Frank Schöbel.")
+
+    # Alfred Struwe (22.4.1927 – 12.2.1998)
+    add_event(lines, date(year, 4, 22),
+        "Geburtstag Alfred Struwe 🎬",
+        f"Alfred Struwe wurde am 22. April 1927 in Marienburg (Westpreußen) geboren und starb 1998 mit 70 Jahren. Er wäre heute {year - 1927} Jahre alt. DDR-Schauspieler mit über 120 Film- und Fernsehproduktionen. Zum Publikumsliebling wurde er ab 1985 als kauziger Zahnarzt Dr. Alexander Wittkugel in der Comedyserie 'Zahn um Zahn' (1985–1988\\\\, 21 Folgen in drei Staffeln) — ursprünglich auf sieben Folgen geplant\\\\, wegen des Zuschauererfolgs deutlich verlängert. Mehrfach verkörperte er den Hitler-Attentäter Claus Schenk Graf von Stauffenberg. Als Synchronsprecher lieh er Philippe Noiret und Michel Serrault seine Stimme.")
+    add_event(lines, date(year, 2, 12),
+        "Todestag Alfred Struwe 🎬",
+        "Alfred Struwe (1927–1998) starb am 12. Februar 1998 in Potsdam im Alter von 70 Jahren an einer Herzerkrankung. Er ist auf dem Südwestkirchhof Stahnsdorf begraben. DDR-weit unvergessen als Zahnarzt Dr. Wittkugel in 'Zahn um Zahn' (1985–1988) — einer der beliebtesten Comedyserien der DDR mit 21 Folgen. Seine Tochter Catharina Struwe ist ebenfalls Schauspielerin.")
+
+    # Jürgen Zartmann (28.1.1941 – lebt)
+    add_event(lines, date(year, 1, 28),
+        "Geburtstag Jürgen Zartmann 🎬",
+        f"Jürgen Zartmann wurde am 28. Januar 1941 in Darmstadt geboren und wuchs in Leipzig auf. Er ist heute {year - 1941} Jahre alt. DDR-Schauspieler und Synchronsprecher\\\\, der Ende der 1960er-Jahre beim Fernsehen der DDR entdeckt wurde. Bekannt durch die Krimiserie 'Polizeiruf 110' (1981–1991) als Oberleutnant Manfred Bergmann\\\\, die Abenteuerserie 'Archiv des Todes' (1980) und 'Front ohne Gnade' (1984). In der DDR-Lieblingsserie 'Zur See' (1977) spielte er den Bootsmann Reinhardt. Als Synchronsprecher lieh er Timothy Dalton und Jon Voight seine Stimme. Nach der Wende spielte er bis 2000 den Christoph von Anstetten in 'Verbotene Liebe'.")
+
+    # Fred Delmare (24.4.1922 – 1.5.2009)
+    add_event(lines, date(year, 4, 24),
+        "Geburtstag Fred Delmare 🎬",
+        f"Fred Delmare (bürgerlich Werner Vorndran) wurde am 24. April 1922 in Hüttensteinach (Thüringen) geboren und starb 2009 mit 87 Jahren. Er wäre heute {year - 1922} Jahre alt. Einer der beliebtesten DDR-Charakterdarsteller mit über 200 Film- und Fernsehproduktionen. Bekannt als Reifenhändler Saft in 'Die Legende von Paul und Paula' (1973)\\\\, als KZ-Häftling Rudi Pippig in 'Nackt unter Wölfen' (1963) und als Opa Friedrich Steinbach in 'In aller Freundschaft' (1999–2006\\\\, 240 Folgen). Träger des Vaterländischen Verdienstordens in Gold und des Kunstpreises der DDR.")
+    add_event(lines, date(year, 5, 1),
+        "Todestag Fred Delmare 🎬",
+        "Fred Delmare (1922–2009) starb am 1. Mai 2009 in Leipzig — dem Tag der Arbeit — im Alter von 87 Jahren. Der Volksschauspieler der DDR wurde vor allem durch seine Nebenrollen geliebt: als Reifenhändler Saft in 'Die Legende von Paul und Paula' (1973)\\\\, in 'Nackt unter Wölfen' (1963) und zuletzt als Opa Friedrich Steinbach in 'In aller Freundschaft'. In fünf Jahrzehnten wirkte er in über 200 Produktionen mit.")
+
+    # Günter Naumann (17.11.1925 – 6.11.2009)
+    add_event(lines, date(year, 11, 17),
+        "Geburtstag Günter Naumann 🎬",
+        f"Günter Naumann wurde am 17. November 1925 in Chemnitz geboren und starb 2009 mit 83 Jahren. Er wäre heute {year - 1925} Jahre alt. DDR-Schauspieler und Charakterdarsteller\\\\, der am Berliner Ensemble begann und ab 1970 zum Fernsehen der DDR wechselte. Bekannt als Chief in der Kult-Serie 'Zur See' (1977) und als Kommissar Beck im 'Polizeiruf 110' (1988–1997). Spielte außerdem Robert Koch in 'Berühmte Ärzte der Charité' (1981) und wirkte in Frank Beyers Antikriegsfilm 'Fünf Patronenhülsen' (1960) mit. Nationalpreisträger der DDR 1982.")
+    add_event(lines, date(year, 11, 6),
+        "Todestag Günter Naumann 🎬",
+        "Günter Naumann (1925–2009) starb am 6. November 2009 in Berlin-Köpenick im Alter von 83 Jahren an Nierenversagen. Der DDR-Charakterdarsteller war einer der meistbeschäftigten Schauspieler des Fernsehens der DDR. Als Kommissar Beck im 'Polizeiruf 110' ermittelte er von 1988 bis 1997 und verkörperte damit eine der bekanntesten Figuren der DDR-Krimireihe. Unvergessen auch als Chief in der Lieblingsserie 'Zur See' (1977).")
 
     # Hilmar Baumann (28.4.1931 – 7.7.2019)
     add_event(lines, date(year, 4, 28),
