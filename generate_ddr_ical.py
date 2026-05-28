@@ -724,7 +724,7 @@ for year in YEARS:
     # Horst Drinda (1.5.1927 – 21.2.2005)
     add_event(lines, date(year, 5, 1),
         "Geburtstag Horst Drinda 🎬",
-        f"Horst Drinda wurde am 1. Mai 1927 in Berlin geboren — ausgerechnet am Tag der Arbeit — und starb 2005 mit 77 Jahren. Er wäre heute {year - 1927} Jahre alt. Schauspieler und Regisseur\\\\, einer der meistbeschäftigten Darsteller des Deutschen Theaters Berlin in den 1950er Jahren. Beim DDR-Fernsehen wurde er vor allem bekannt als Kapitän Hans Karsten in der Kultserie 'Zur See' (1977). Daneben spielte er in der propagandistischen Serie 'Ich – Axel Cäsar Springer' (1967–1970) die Titelrolle. Mehrfacher Nationalpreisträger der DDR\\\\, zuletzt 1987 mit dem Nationalpreis I. Klasse für Kunst und Literatur.")
+        f"Horst Drinda wurde am 1. Mai 1927 in Berlin geboren — ausgerechnet am Tag der Arbeit — und starb 2005 mit 77 Jahren. Er wäre heute {year - 1927} Jahre alt. Schauspieler und Regisseur\\, einer der meistbeschäftigten Darsteller des Deutschen Theaters Berlin in den 1950er Jahren. Beim DDR-Fernsehen wurde er vor allem bekannt als Kapitän Hans Karsten in der Kultserie 'Zur See' (1977). Daneben spielte er in der propagandistischen Serie 'Ich – Axel Cäsar Springer' (1967–1970) die Titelrolle. Mehrfacher Nationalpreisträger der DDR\\, zuletzt 1987 mit dem Nationalpreis I. Klasse für Kunst und Literatur.")
     add_event(lines, date(year, 2, 21),
         "Todestag Horst Drinda 🎬",
         "Horst Drinda (1927–2005) starb am 21. Februar 2005 in Berlin im Alter von 77 Jahren. Seit zwei Schlaganfällen im Mai 2003 war er gelähmt. Der Schauspieler und Regisseur gehörte jahrzehntelang zum Deutschen Theater Berlin und später zum Schauspielerensemble des DFF. Unvergessen als Kapitän Hans Karsten in 'Zur See' (1977) — der beliebtesten DDR-Fernsehserie. Sein Enkel ist die Schauspielerin Lea Drinda (* 2001).")
@@ -737,12 +737,12 @@ for year in YEARS:
     # Helga Piur (24.5.1939 – lebt)
     add_event(lines, date(year, 5, 24),
         "Geburtstag Helga Piur 🎬",
-        f"Helga Piur wurde am 24. Mai 1939 in Berlin geboren. Sie ist heute {year - 1939} Jahre alt. DDR-Schauspielerin\\\\, die durch ihre Rolle als Sprechstundenhilfe Victoria Happmeyer\\\\, genannt 'Häppchen'\\\\, in der Comedyserie 'Zahn um Zahn' (1985–1988\\\\, 21 Folgen) an der Seite von Alfred Struwe zur Publikumsliebsten wurde — 1986 und 1987 von den Zuschauern zum Fernsehliebling gewählt. In 678 Folgen der Hörspielserie 'Neumann\\\\, zweimal klingeln' (1967–1982) war sie als Brigitte Neumann zu hören. Als Synchronsprecherin lieh sie Brigitte Bardot ihre Stimme. Von 1999 bis 2019 spielte sie die Frau Holle in der MDR-Weihnachtssendung mit Frank Schöbel.")
+        f"Helga Piur wurde am 24. Mai 1939 in Berlin geboren. Sie ist heute {year - 1939} Jahre alt. DDR-Schauspielerin\\, die durch ihre Rolle als Sprechstundenhilfe Victoria Happmeyer\\, genannt 'Häppchen'\\, in der Comedyserie 'Zahn um Zahn' (1985–1988\\, 21 Folgen) an der Seite von Alfred Struwe zur Publikumsliebsten wurde — 1986 und 1987 von den Zuschauern zum Fernsehliebling gewählt. In 678 Folgen der Hörspielserie 'Neumann\\, zweimal klingeln' (1967–1982) war sie als Brigitte Neumann zu hören. Als Synchronsprecherin lieh sie Brigitte Bardot ihre Stimme. Von 1999 bis 2019 spielte sie die Frau Holle in der MDR-Weihnachtssendung mit Frank Schöbel.")
 
     # Alfred Struwe (22.4.1927 – 12.2.1998)
     add_event(lines, date(year, 4, 22),
         "Geburtstag Alfred Struwe 🎬",
-        f"Alfred Struwe wurde am 22. April 1927 in Marienburg (Westpreußen) geboren und starb 1998 mit 70 Jahren. Er wäre heute {year - 1927} Jahre alt. DDR-Schauspieler mit über 120 Film- und Fernsehproduktionen. Zum Publikumsliebling wurde er ab 1985 als kauziger Zahnarzt Dr. Alexander Wittkugel in der Comedyserie 'Zahn um Zahn' (1985–1988\\\\, 21 Folgen in drei Staffeln) — ursprünglich auf sieben Folgen geplant\\\\, wegen des Zuschauererfolgs deutlich verlängert. Mehrfach verkörperte er den Hitler-Attentäter Claus Schenk Graf von Stauffenberg. Als Synchronsprecher lieh er Philippe Noiret und Michel Serrault seine Stimme.")
+        f"Alfred Struwe wurde am 22. April 1927 in Marienburg (Westpreußen) geboren und starb 1998 mit 70 Jahren. Er wäre heute {year - 1927} Jahre alt. DDR-Schauspieler mit über 120 Film- und Fernsehproduktionen. Zum Publikumsliebling wurde er ab 1985 als kauziger Zahnarzt Dr. Alexander Wittkugel in der Comedyserie 'Zahn um Zahn' (1985–1988\\, 21 Folgen in drei Staffeln) — ursprünglich auf sieben Folgen geplant\\, wegen des Zuschauererfolgs deutlich verlängert. Mehrfach verkörperte er den Hitler-Attentäter Claus Schenk Graf von Stauffenberg. Als Synchronsprecher lieh er Philippe Noiret und Michel Serrault seine Stimme.")
     add_event(lines, date(year, 2, 12),
         "Todestag Alfred Struwe 🎬",
         "Alfred Struwe (1927–1998) starb am 12. Februar 1998 in Potsdam im Alter von 70 Jahren an einer Herzerkrankung. Er ist auf dem Südwestkirchhof Stahnsdorf begraben. DDR-weit unvergessen als Zahnarzt Dr. Wittkugel in 'Zahn um Zahn' (1985–1988) — einer der beliebtesten Comedyserien der DDR mit 21 Folgen. Seine Tochter Catharina Struwe ist ebenfalls Schauspielerin.")
@@ -750,20 +750,20 @@ for year in YEARS:
     # Jürgen Zartmann (28.1.1941 – lebt)
     add_event(lines, date(year, 1, 28),
         "Geburtstag Jürgen Zartmann 🎬",
-        f"Jürgen Zartmann wurde am 28. Januar 1941 in Darmstadt geboren und wuchs in Leipzig auf. Er ist heute {year - 1941} Jahre alt. DDR-Schauspieler und Synchronsprecher\\\\, der Ende der 1960er-Jahre beim Fernsehen der DDR entdeckt wurde. Bekannt durch die Krimiserie 'Polizeiruf 110' (1981–1991) als Oberleutnant Manfred Bergmann\\\\, die Abenteuerserie 'Archiv des Todes' (1980) und 'Front ohne Gnade' (1984). In der DDR-Lieblingsserie 'Zur See' (1977) spielte er den Bootsmann Reinhardt. Als Synchronsprecher lieh er Timothy Dalton und Jon Voight seine Stimme. Nach der Wende spielte er bis 2000 den Christoph von Anstetten in 'Verbotene Liebe'.")
+        f"Jürgen Zartmann wurde am 28. Januar 1941 in Darmstadt geboren und wuchs in Leipzig auf. Er ist heute {year - 1941} Jahre alt. DDR-Schauspieler und Synchronsprecher\\, der Ende der 1960er-Jahre beim Fernsehen der DDR entdeckt wurde. Bekannt durch die Krimiserie 'Polizeiruf 110' (1981–1991) als Oberleutnant Manfred Bergmann\\, die Abenteuerserie 'Archiv des Todes' (1980) und 'Front ohne Gnade' (1984). In der DDR-Lieblingsserie 'Zur See' (1977) spielte er den Bootsmann Reinhardt. Als Synchronsprecher lieh er Timothy Dalton und Jon Voight seine Stimme. Nach der Wende spielte er bis 2000 den Christoph von Anstetten in 'Verbotene Liebe'.")
 
     # Fred Delmare (24.4.1922 – 1.5.2009)
     add_event(lines, date(year, 4, 24),
         "Geburtstag Fred Delmare 🎬",
-        f"Fred Delmare (bürgerlich Werner Vorndran) wurde am 24. April 1922 in Hüttensteinach (Thüringen) geboren und starb 2009 mit 87 Jahren. Er wäre heute {year - 1922} Jahre alt. Einer der beliebtesten DDR-Charakterdarsteller mit über 200 Film- und Fernsehproduktionen. Bekannt als Reifenhändler Saft in 'Die Legende von Paul und Paula' (1973)\\\\, als KZ-Häftling Rudi Pippig in 'Nackt unter Wölfen' (1963) und als Opa Friedrich Steinbach in 'In aller Freundschaft' (1999–2006\\\\, 240 Folgen). Träger des Vaterländischen Verdienstordens in Gold und des Kunstpreises der DDR.")
+        f"Fred Delmare (bürgerlich Werner Vorndran) wurde am 24. April 1922 in Hüttensteinach (Thüringen) geboren und starb 2009 mit 87 Jahren. Er wäre heute {year - 1922} Jahre alt. Einer der beliebtesten DDR-Charakterdarsteller mit über 200 Film- und Fernsehproduktionen. Bekannt als Reifenhändler Saft in 'Die Legende von Paul und Paula' (1973)\\, als KZ-Häftling Rudi Pippig in 'Nackt unter Wölfen' (1963) und als Opa Friedrich Steinbach in 'In aller Freundschaft' (1999–2006\\, 240 Folgen). Träger des Vaterländischen Verdienstordens in Gold und des Kunstpreises der DDR.")
     add_event(lines, date(year, 5, 1),
         "Todestag Fred Delmare 🎬",
-        "Fred Delmare (1922–2009) starb am 1. Mai 2009 in Leipzig — dem Tag der Arbeit — im Alter von 87 Jahren. Der Volksschauspieler der DDR wurde vor allem durch seine Nebenrollen geliebt: als Reifenhändler Saft in 'Die Legende von Paul und Paula' (1973)\\\\, in 'Nackt unter Wölfen' (1963) und zuletzt als Opa Friedrich Steinbach in 'In aller Freundschaft'. In fünf Jahrzehnten wirkte er in über 200 Produktionen mit.")
+        "Fred Delmare (1922–2009) starb am 1. Mai 2009 in Leipzig — dem Tag der Arbeit — im Alter von 87 Jahren. Der Volksschauspieler der DDR wurde vor allem durch seine Nebenrollen geliebt: als Reifenhändler Saft in 'Die Legende von Paul und Paula' (1973)\\, in 'Nackt unter Wölfen' (1963) und zuletzt als Opa Friedrich Steinbach in 'In aller Freundschaft'. In fünf Jahrzehnten wirkte er in über 200 Produktionen mit.")
 
     # Günter Naumann (17.11.1925 – 6.11.2009)
     add_event(lines, date(year, 11, 17),
         "Geburtstag Günter Naumann 🎬",
-        f"Günter Naumann wurde am 17. November 1925 in Chemnitz geboren und starb 2009 mit 83 Jahren. Er wäre heute {year - 1925} Jahre alt. DDR-Schauspieler und Charakterdarsteller\\\\, der am Berliner Ensemble begann und ab 1970 zum Fernsehen der DDR wechselte. Bekannt als Chief in der Kult-Serie 'Zur See' (1977) und als Kommissar Beck im 'Polizeiruf 110' (1988–1997). Spielte außerdem Robert Koch in 'Berühmte Ärzte der Charité' (1981) und wirkte in Frank Beyers Antikriegsfilm 'Fünf Patronenhülsen' (1960) mit. Nationalpreisträger der DDR 1982.")
+        f"Günter Naumann wurde am 17. November 1925 in Chemnitz geboren und starb 2009 mit 83 Jahren. Er wäre heute {year - 1925} Jahre alt. DDR-Schauspieler und Charakterdarsteller\\, der am Berliner Ensemble begann und ab 1970 zum Fernsehen der DDR wechselte. Bekannt als Chief in der Kult-Serie 'Zur See' (1977) und als Kommissar Beck im 'Polizeiruf 110' (1988–1997). Spielte außerdem Robert Koch in 'Berühmte Ärzte der Charité' (1981) und wirkte in Frank Beyers Antikriegsfilm 'Fünf Patronenhülsen' (1960) mit. Nationalpreisträger der DDR 1982.")
     add_event(lines, date(year, 11, 6),
         "Todestag Günter Naumann 🎬",
         "Günter Naumann (1925–2009) starb am 6. November 2009 in Berlin-Köpenick im Alter von 83 Jahren an Nierenversagen. Der DDR-Charakterdarsteller war einer der meistbeschäftigten Schauspieler des Fernsehens der DDR. Als Kommissar Beck im 'Polizeiruf 110' ermittelte er von 1988 bis 1997 und verkörperte damit eine der bekanntesten Figuren der DDR-Krimireihe. Unvergessen auch als Chief in der Lieblingsserie 'Zur See' (1977).")
@@ -979,12 +979,12 @@ for year in YEARS:
     # Frank Schöbel (11.12.1942 – lebt)
     add_event(lines, date(year, 12, 11),
         "Geburtstag Frank Schöbel 🎵",
-        f"Frank Schöbel wurde am 11. Dezember 1942 in Leipzig geboren. Er ist heute {year - 1942} Jahre alt. Der erfolgreichste Schlagersänger der DDR — Träger des Amiga-Platin-Awards für die meisten verkauften Platten im DDR-Label Amiga. Mit 'Wie ein Stern' (1971) hatte er einen gesamtdeutschen Hit\\\\, 1985 nahm er mit Aurora Lacasa das meistverkaufte Album der DDR-Geschichte auf: 'Weihnachten in Familie' (über 2 Millionen Exemplare bis 2019). In 'Heißer Sommer' (1968) spielte er die Hauptrolle. Zehnfacher Fernsehliebling.")
+        f"Frank Schöbel wurde am 11. Dezember 1942 in Leipzig geboren. Er ist heute {year - 1942} Jahre alt. Der erfolgreichste Schlagersänger der DDR — Träger des Amiga-Platin-Awards für die meisten verkauften Platten im DDR-Label Amiga. Mit 'Wie ein Stern' (1971) hatte er einen gesamtdeutschen Hit\\, 1985 nahm er mit Aurora Lacasa das meistverkaufte Album der DDR-Geschichte auf: 'Weihnachten in Familie' (über 2 Millionen Exemplare bis 2019). In 'Heißer Sommer' (1968) spielte er die Hauptrolle. Zehnfacher Fernsehliebling.")
 
     # Chris Doerk (24.2.1942 – lebt)
     add_event(lines, date(year, 2, 24),
         "Geburtstag Chris Doerk 🎵",
-        f"Chris Doerk wurde am 24. Februar 1942 in Königsberg (Ostpreußen) geboren. Sie ist heute {year - 1942} Jahre alt. Schlagersängerin und Schauspielerin der DDR\\\\, bekannt als Duett-Partnerin und Ehefrau (1966–1974) von Frank Schöbel. Gemeinsam gewannen sie zweimal den DDR-Schlagerwettbewerb. Spielte die weibliche Hauptrolle in 'Heißer Sommer' (1968). War die erste DDR-Künstlerin\\\\, die in den Niederlanden im Fernsehen auftreten durfte.")
+        f"Chris Doerk wurde am 24. Februar 1942 in Königsberg (Ostpreußen) geboren. Sie ist heute {year - 1942} Jahre alt. Schlagersängerin und Schauspielerin der DDR\\, bekannt als Duett-Partnerin und Ehefrau (1966–1974) von Frank Schöbel. Gemeinsam gewannen sie zweimal den DDR-Schlagerwettbewerb. Spielte die weibliche Hauptrolle in 'Heißer Sommer' (1968). War die erste DDR-Künstlerin\\, die in den Niederlanden im Fernsehen auftreten durfte.")
 
     # Nina Hagen (11.3.1955 – lebt)
     add_event(lines, date(year, 3, 11),
@@ -994,12 +994,12 @@ for year in YEARS:
     # Veronika Fischer (28.7.1951 – lebt)
     add_event(lines, date(year, 7, 28),
         "Geburtstag Veronika Fischer 🎵",
-        f"Veronika Fischer wurde am 28. Juli 1951 in Wölfis (Thüringen) geboren. Sie ist heute {year - 1951} Jahre alt. Eine der bekanntesten Rocksängerinnen der DDR\\\\, die in den 1970er Jahren mit der Stern-Combo Meißen und später mit eigener Band auftrat. 1975 verließ sie Panta Rhei\\\\, deren Kern anschließend die Band Karat gründete. Kunstpreisträger der DDR. Siedelte 1980 in die Bundesrepublik über.")
+        f"Veronika Fischer wurde am 28. Juli 1951 in Wölfis (Thüringen) geboren. Sie ist heute {year - 1951} Jahre alt. Eine der bekanntesten Rocksängerinnen der DDR\\, die in den 1970er Jahren mit der Stern-Combo Meißen und später mit eigener Band auftrat. 1975 verließ sie Panta Rhei\\, deren Kern anschließend die Band Karat gründete. Kunstpreisträger der DDR. Siedelte 1980 in die Bundesrepublik über.")
 
     # Tamara Danz (14.12.1952 – 22.7.1996)
     add_event(lines, date(year, 12, 14),
         "Geburtstag Tamara Danz 🎸",
-        f"Tamara Danz wurde am 14. Dezember 1952 in Winne bei Breitungen (Thüringen) geboren und starb 1996 mit 43 Jahren. Sie wäre heute {year - 1952} Jahre alt. Frontfrau und Texterin der DDR-Rockband Silly — eine der charismatischsten Rocksängerinnen der DDR überhaupt. Mit 'Mont Klamott' (1983)\\\\, 'Bataillon d'Amour' (1985) und 'Verlorene Kinder' engagierte sich Silly auch politisch. Von den DDR-Behörden als politisch unzuverlässig eingestuft. Starb während der Produktion ihres letzten Albums 'Paradies' an Brustkrebs.")
+        f"Tamara Danz wurde am 14. Dezember 1952 in Winne bei Breitungen (Thüringen) geboren und starb 1996 mit 43 Jahren. Sie wäre heute {year - 1952} Jahre alt. Frontfrau und Texterin der DDR-Rockband Silly — eine der charismatischsten Rocksängerinnen der DDR überhaupt. Mit 'Mont Klamott' (1983)\\, 'Bataillon d'Amour' (1985) und 'Verlorene Kinder' engagierte sich Silly auch politisch. Von den DDR-Behörden als politisch unzuverlässig eingestuft. Starb während der Produktion ihres letzten Albums 'Paradies' an Brustkrebs.")
     add_event(lines, date(year, 7, 22),
         "Todestag Tamara Danz 🎸",
         "Tamara Danz (1952–1996) starb am 22. Juli 1996 in Berlin im Alter von 43 Jahren an Brustkrebs. Die Frontfrau der Band Silly gilt als eine der größten Rocksängerinnen der DDR. Ihr letztes Album 'Paradies' erschien kurz vor ihrem Tod. Ihre Nachfolgerin bei Silly wurde 2006 die Schauspielerin Anna Loos.")
@@ -1007,20 +1007,20 @@ for year in YEARS:
     # Herbert Dreilich / Karat (5.12.1942 – 12.12.2004)
     add_event(lines, date(year, 12, 5),
         "Geburtstag Herbert Dreilich 🎸",
-        f"Herbert Dreilich wurde am 5. Dezember 1942 in Mauterndorf (Österreich) geboren und starb 2004 mit 62 Jahren. Er wäre heute {year - 1942} Jahre alt. Als Sänger und Gründungsmitglied der DDR-Rockband Karat (gegründet 1975) wurde er mit 'Über sieben Brücken musst du geh'n' berühmt — ein deutsch-deutscher Hit\\\\, den Peter Maffay im Westen coverte. 1982 trat Karat als einzige DDR-Band bei 'Wetten\\\\, dass..?' auf. Nationalpreisträger der DDR. Sein Sohn Claudius Dreilich ist seit 2005 Karat-Sänger.")
+        f"Herbert Dreilich wurde am 5. Dezember 1942 in Mauterndorf (Österreich) geboren und starb 2004 mit 62 Jahren. Er wäre heute {year - 1942} Jahre alt. Als Sänger und Gründungsmitglied der DDR-Rockband Karat (gegründet 1975) wurde er mit 'Über sieben Brücken musst du geh'n' berühmt — ein deutsch-deutscher Hit\\, den Peter Maffay im Westen coverte. 1982 trat Karat als einzige DDR-Band bei 'Wetten\\, dass..?' auf. Nationalpreisträger der DDR. Sein Sohn Claudius Dreilich ist seit 2005 Karat-Sänger.")
     add_event(lines, date(year, 12, 12),
         "Todestag Herbert Dreilich 🎸",
-        "Herbert Dreilich (1942–2004) starb am 12. Dezember 2004 in Berlin an Leberkrebs im Alter von 62 Jahren. Der Karat-Sänger war das Gesicht einer der erfolgreichsten DDR-Rockbands\\\\, die auch in der Bundesrepublik Goldene Schallplatten erhielten. 'Über sieben Brücken musst du geh'n' gilt bis heute als Hymne der Wendezeit.")
+        "Herbert Dreilich (1942–2004) starb am 12. Dezember 2004 in Berlin an Leberkrebs im Alter von 62 Jahren. Der Karat-Sänger war das Gesicht einer der erfolgreichsten DDR-Rockbands\\, die auch in der Bundesrepublik Goldene Schallplatten erhielten. 'Über sieben Brücken musst du geh'n' gilt bis heute als Hymne der Wendezeit.")
 
     # Puhdys – Gründungstag 19.11.1969
     add_event(lines, date(year, 11, 19),
         "Gründungstag der Puhdys 🎸",
-        f"Am 19. November 1969 gaben die Puhdys ihr erstes Konzert im Tivoli in Freiberg (Sachsen) — dieser Tag gilt als ihr offizieller Gründungstag. Die Berliner Rockband ist die erfolgreichste der DDR: bis zur Wende wurden weltweit fast 20 Millionen Alben verkauft\\\\, darunter die Filmmusik zu 'Die Legende von Paul und Paula' (1973) mit dem Hit 'Geh zu ihr'. Weitere Klassiker: 'Alt wie ein Baum'\\\\, 'Wenn ein Mensch lebt'. Sie durften als eine der wenigen DDR-Bands auch in der BRD auftreten. 2016 lösten sie sich auf.")
+        f"Am 19. November 1969 gaben die Puhdys ihr erstes Konzert im Tivoli in Freiberg (Sachsen) — dieser Tag gilt als ihr offizieller Gründungstag. Die Berliner Rockband ist die erfolgreichste der DDR: bis zur Wende wurden weltweit fast 20 Millionen Alben verkauft\\, darunter die Filmmusik zu 'Die Legende von Paul und Paula' (1973) mit dem Hit 'Geh zu ihr'. Weitere Klassiker: 'Alt wie ein Baum'\\, 'Wenn ein Mensch lebt'. Sie durften als eine der wenigen DDR-Bands auch in der BRD auftreten. 2016 lösten sie sich auf.")
 
     # Dieter "Maschine" Birr (18.3.1944 – lebt)
     add_event(lines, date(year, 3, 18),
         "Geburtstag Dieter 'Maschine' Birr 🎸",
-        f"Dieter 'Maschine' Birr wurde am 18. März 1944 in Köslin (Pommern) geboren. Er ist heute {year - 1944} Jahre alt. Sänger\\\\, Gitarrist und Kopf der Puhdys — der erfolgreichsten Rockband der DDR. Von 1969 bis zur Auflösung 2016 prägte er die Band mit über 250 selbst komponierten Titeln und mehr als 4.000 Konzerten. Sein Spitzname 'Maschine' wurde von Mitgründer Peter Meyer geprägt.")
+        f"Dieter 'Maschine' Birr wurde am 18. März 1944 in Köslin (Pommern) geboren. Er ist heute {year - 1944} Jahre alt. Sänger\\, Gitarrist und Kopf der Puhdys — der erfolgreichsten Rockband der DDR. Von 1969 bis zur Auflösung 2016 prägte er die Band mit über 250 selbst komponierten Titeln und mehr als 4.000 Konzerten. Sein Spitzname 'Maschine' wurde von Mitgründer Peter Meyer geprägt.")
 
     # Karat – Gründungstag 1975 (Bandjubiläum, kein exaktes Datum – nehmen den 1. Konzert-Nachweis)
     # Statt Banddatum nehmen wir den Geburtstag des zweiten Karat-Sängers Claudius Dreilich
@@ -1028,14 +1028,14 @@ for year in YEARS:
     # City – Gründung 1972, Hit "Am Fenster" 1977
     add_event(lines, date(year, 6, 6),
         "Geburtstag Toni Krahl (City) 🎸",
-        f"Toni Krahl wurde am 6. Juni 1948 in Ost-Berlin geboren. Er ist heute {year - 1948} Jahre alt. Sänger und Frontmann der Ost-Berliner Rockband City\\\\, die 1972 gegründet wurde. Mit 'Am Fenster' (1977) — einem der bekanntesten DDR-Rocksongs überhaupt — erreichte City schlagartig Bekanntheit in beiden deutschen Staaten. Der Song wurde zum Sinnbild einer ganzen Generation.")
+        f"Toni Krahl wurde am 6. Juni 1948 in Ost-Berlin geboren. Er ist heute {year - 1948} Jahre alt. Sänger und Frontmann der Ost-Berliner Rockband City\\, die 1972 gegründet wurde. Mit 'Am Fenster' (1977) — einem der bekanntesten DDR-Rocksongs überhaupt — erreichte City schlagartig Bekanntheit in beiden deutschen Staaten. Der Song wurde zum Sinnbild einer ganzen Generation.")
 
     # Silly – Gründung 1978, vertreten durch Tamara Danz (bereits oben)
 
     # Reinhard Lakomy (19.1.1946 – 23.3.2013)
     add_event(lines, date(year, 1, 19),
         "Geburtstag Reinhard Lakomy 🎵",
-        f"Reinhard Lakomy wurde am 19. Januar 1946 in Magdeburg geboren und starb 2013 mit 67 Jahren. Er wäre heute {year - 1946} Jahre alt. Komponist\\\\, Pianist\\\\, Sänger und Liedermacher der DDR mit einer einzigartigen Bandbreite von Jazz über Schlager und elektronische Musik bis hin zu Kinder-Hörspielen. Berühmt durch das Kinder-Hörspielmusical 'Der Traumzauberbaum' (mit Ehefrau Monika Ehrhardt). Gehörte neben den Puhdys zu den meistveröffentlichten DDR-Künstlern. 1976 protestierte er gegen die Ausbürgerung Wolf Biermanns.")
+        f"Reinhard Lakomy wurde am 19. Januar 1946 in Magdeburg geboren und starb 2013 mit 67 Jahren. Er wäre heute {year - 1946} Jahre alt. Komponist\\, Pianist\\, Sänger und Liedermacher der DDR mit einer einzigartigen Bandbreite von Jazz über Schlager und elektronische Musik bis hin zu Kinder-Hörspielen. Berühmt durch das Kinder-Hörspielmusical 'Der Traumzauberbaum' (mit Ehefrau Monika Ehrhardt). Gehörte neben den Puhdys zu den meistveröffentlichten DDR-Künstlern. 1976 protestierte er gegen die Ausbürgerung Wolf Biermanns.")
     add_event(lines, date(year, 3, 23),
         "Todestag Reinhard Lakomy 🎵",
         "Reinhard Lakomy (1946–2013) starb am 23. März 2013 in Berlin im Alter von 67 Jahren an Lungenkrebs — eine Behandlung lehnte er ab. Der vielseitige Musiker hinterließ ein riesiges Werk: von Schlagerhits wie 'Es war doch nicht das erste Mal' (1972) über elektronische Musik bis zum weltbekannten Kindermärchen 'Der Traumzauberbaum'. Er ist auf dem Friedhof Blankenburg in Berlin begraben.")
@@ -1043,17 +1043,17 @@ for year in YEARS:
     # Ute Freudenberg (8.11.1956 – lebt)
     add_event(lines, date(year, 11, 8),
         "Geburtstag Ute Freudenberg 🎵",
-        f"Ute Freudenberg wurde am 8. November 1956 in Weimar geboren. Sie ist heute {year - 1956} Jahre alt. Eine der beliebtesten Sängerinnen der DDR\\\\, die mit der Band Lift und später als Solistin bekannt wurde. Mit 'Jugendliebe' (1982) gelang ihr ein DDR-Megahit. Siedelte 1986 nach West-Berlin über. Nach der Wende setzte sie ihre Karriere gesamtdeutsch fort.")
+        f"Ute Freudenberg wurde am 8. November 1956 in Weimar geboren. Sie ist heute {year - 1956} Jahre alt. Eine der beliebtesten Sängerinnen der DDR\\, die mit der Band Lift und später als Solistin bekannt wurde. Mit 'Jugendliebe' (1982) gelang ihr ein DDR-Megahit. Siedelte 1986 nach West-Berlin über. Nach der Wende setzte sie ihre Karriere gesamtdeutsch fort.")
 
     # Dagmar Frederic (14.6.1945 – lebt)
     add_event(lines, date(year, 6, 14),
         "Geburtstag Dagmar Frederic 🎵",
-        f"Dagmar Frederic wurde am 14. Juni 1945 in Halle (Saale) geboren. Sie ist heute {year - 1945} Jahre alt. Sängerin und Entertainerin der DDR\\\\, bekannt für ihre zahlreichen Fernsehauftritte und Schlager. Ab 1974 moderierte sie die beliebte TV-Musiksendung 'Auf einen Kaffee'. Eine der meistgesehenen Unterhaltungskünstlerinnen des DDR-Fernsehens der 1970er und 80er Jahre.")
+        f"Dagmar Frederic wurde am 14. Juni 1945 in Halle (Saale) geboren. Sie ist heute {year - 1945} Jahre alt. Sängerin und Entertainerin der DDR\\, bekannt für ihre zahlreichen Fernsehauftritte und Schlager. Ab 1974 moderierte sie die beliebte TV-Musiksendung 'Auf einen Kaffee'. Eine der meistgesehenen Unterhaltungskünstlerinnen des DDR-Fernsehens der 1970er und 80er Jahre.")
 
     # Gunther Emmerlich (22.5.1944 – lebt)
     add_event(lines, date(year, 5, 22),
         "Geburtstag Gunther Emmerlich 🎵",
-        f"Gunther Emmerlich wurde am 22. Mai 1944 in Zittau geboren. Er ist heute {year - 1944} Jahre alt. Bariton und Entertainer — eine der unverwechselbarsten Stimmen der DDR. Als Solist der Staatsoper Dresden und des Rundfunks der DDR verband er klassischen Gesang mit Unterhaltung. Durch zahlreiche TV-Auftritte\\\\, seine Zusammenarbeit mit Herbert Roth ('Bergvagabunden') und seine Kabarettnummern wurde er zum Publikumsliebling. Nach der Wende blieb er im Fernsehen präsent.")
+        f"Gunther Emmerlich wurde am 22. Mai 1944 in Zittau geboren. Er ist heute {year - 1944} Jahre alt. Bariton und Entertainer — eine der unverwechselbarsten Stimmen der DDR. Als Solist der Staatsoper Dresden und des Rundfunks der DDR verband er klassischen Gesang mit Unterhaltung. Durch zahlreiche TV-Auftritte\\, seine Zusammenarbeit mit Herbert Roth ('Bergvagabunden') und seine Kabarettnummern wurde er zum Publikumsliebling. Nach der Wende blieb er im Fernsehen präsent.")
 
     # Bettina Wegner (4.11.1947 – lebt)
     add_event(lines, date(year, 11, 4),
@@ -1065,15 +1065,15 @@ for year in YEARS:
     # Stephan Krawczyk (23.6.1955 – lebt)
     add_event(lines, date(year, 6, 23),
         "Geburtstag Stephan Krawczyk 🎵",
-        f"Stephan Krawczyk wurde am 23. Juni 1955 in Weida (Thüringen) geboren. Er ist heute {year - 1955} Jahre alt. Liedermacher\\\\, Gitarrist und DDR-Oppositioneller. Durch systemkritische Texte mit Auftrittsverbot belegt\\\\, wurde er zum Symbol des Widerstands. Im Januar 1988 wurde er mit seiner Lebensgefährtin Freya Klier verhaftet und zur Ausreise gezwungen — ein Wendepunkt in der DDR-Oppositionsgeschichte. Nach der Wende weiter als Musiker und Autor tätig.")
+        f"Stephan Krawczyk wurde am 23. Juni 1955 in Weida (Thüringen) geboren. Er ist heute {year - 1955} Jahre alt. Liedermacher\\, Gitarrist und DDR-Oppositioneller. Durch systemkritische Texte mit Auftrittsverbot belegt\\, wurde er zum Symbol des Widerstands. Im Januar 1988 wurde er mit seiner Lebensgefährtin Freya Klier verhaftet und zur Ausreise gezwungen — ein Wendepunkt in der DDR-Oppositionsgeschichte. Nach der Wende weiter als Musiker und Autor tätig.")
 
     # Klaus Renft (19.7.1942 – 9.10.2006)
     add_event(lines, date(year, 7, 19),
         "Geburtstag Klaus Renft 🎸",
-        f"Klaus Renft wurde am 19. Juli 1942 in Leipzig geboren und starb 2006 mit 64 Jahren. Er wäre heute {year - 1942} Jahre alt. Gründer der Klaus-Renft-Combo\\\\, einer der einflussreichsten DDR-Rockbands. 1958 erstmals gegründet\\\\, 1967 wieder zugelassen\\\\, wurde die Band 1975 endgültig verboten — wegen eines Liedes über eine missglückte DDR-Flucht und kritischer Texte über Bausoldaten. Einige Mitglieder wurden ausgebürgert. 1990 kurze Reunion\\\\, 2006 starb Renft in Leipzig.")
+        f"Klaus Renft wurde am 19. Juli 1942 in Leipzig geboren und starb 2006 mit 64 Jahren. Er wäre heute {year - 1942} Jahre alt. Gründer der Klaus-Renft-Combo\\, einer der einflussreichsten DDR-Rockbands. 1958 erstmals gegründet\\, 1967 wieder zugelassen\\, wurde die Band 1975 endgültig verboten — wegen eines Liedes über eine missglückte DDR-Flucht und kritischer Texte über Bausoldaten. Einige Mitglieder wurden ausgebürgert. 1990 kurze Reunion\\, 2006 starb Renft in Leipzig.")
     add_event(lines, date(year, 10, 9),
         "Todestag Klaus Renft 🎸",
-        "Klaus Renft (1942–2006) starb am 9. Oktober 2006 in Leipzig im Alter von 64 Jahren. Der Gründer der Klaus-Renft-Combo — eine der wichtigsten DDR-Rockbands — erlebte das Bandverbot 1975\\\\, die Ausbürgerung von Bandmitgliedern und nach der Wende noch eine kurze Reunion. Sein Geburtstag am 9. Oktober fällt auf den Jahrestag der Friedlichen Revolution in Leipzig.")
+        "Klaus Renft (1942–2006) starb am 9. Oktober 2006 in Leipzig im Alter von 64 Jahren. Der Gründer der Klaus-Renft-Combo — eine der wichtigsten DDR-Rockbands — erlebte das Bandverbot 1975\\, die Ausbürgerung von Bandmitgliedern und nach der Wende noch eine kurze Reunion. Sein Geburtstag am 9. Oktober fällt auf den Jahrestag der Friedlichen Revolution in Leipzig.")
 
     # Karat – Gründung 1975 (kein exaktes Datum) → über Jubiläumskonzert
     # Stattdessen: City – Toni Krahl bereits oben. Ergänze noch einige weitere.
@@ -1081,18 +1081,18 @@ for year in YEARS:
     # Karussell — gegründet 1975 aus Ex-Renft-Mitgliedern
     add_event(lines, date(year, 4, 15),
         "Geburtstag André Herzberg (Pankow) 🎸",
-        f"André Herzberg wurde am 15. April 1957 in Ost-Berlin geboren. Er ist heute {year - 1957} Jahre alt. Sänger und Kopf der DDR-Rockband Pankow\\\\, die 1981 aus der ehemaligen Begleitband von Veronika Fischer hervorging. Mit der Rockoper 'Paule Panke' (1981) wurden sie sofort bekannt und galten als eine der wichtigsten kritischen Bands der DDR. Ihr Song 'Er will anders sein' (1986) wurde zur Hymne der jungen DDR-Generation. Pankow stand ständig unter Beobachtung der Stasi.")
+        f"André Herzberg wurde am 15. April 1957 in Ost-Berlin geboren. Er ist heute {year - 1957} Jahre alt. Sänger und Kopf der DDR-Rockband Pankow\\, die 1981 aus der ehemaligen Begleitband von Veronika Fischer hervorging. Mit der Rockoper 'Paule Panke' (1981) wurden sie sofort bekannt und galten als eine der wichtigsten kritischen Bands der DDR. Ihr Song 'Er will anders sein' (1986) wurde zur Hymne der jungen DDR-Generation. Pankow stand ständig unter Beobachtung der Stasi.")
 
     # Karussell-Sänger Jürgen Kerth
     # Nehmen stattdessen: Schlagersänger Fred Frohberg
     add_event(lines, date(year, 6, 3),
         "Geburtstag Fred Frohberg 🎵",
-        f"Fred Frohberg wurde am 3. Juni 1927 in Leipzig geboren und lebte bis 2001. Er wäre heute {year - 1927} Jahre alt. Einer der beliebtesten Schlagersänger der frühen DDR\\\\, der mit samtweicher Tenorstimme zahlreiche Hits einsang. Seine Aufnahmen beim Label Amiga gehören zu den meistgespielten der DDR-Schlagergeschichte.")
+        f"Fred Frohberg wurde am 3. Juni 1927 in Leipzig geboren und lebte bis 2001. Er wäre heute {year - 1927} Jahre alt. Einer der beliebtesten Schlagersänger der frühen DDR\\, der mit samtweicher Tenorstimme zahlreiche Hits einsang. Seine Aufnahmen beim Label Amiga gehören zu den meistgespielten der DDR-Schlagergeschichte.")
 
     # Ute Freudenberg bereits oben. Ergänze: Monika Herz / Angelika Mann
     add_event(lines, date(year, 8, 7),
         "Geburtstag Angelika Mann 🎵",
-        f"Angelika Mann wurde am 7. August 1952 in Karl-Marx-Stadt (heute Chemnitz) geboren. Sie ist heute {year - 1952} Jahre alt. Sängerin und langjährige Duett-Partnerin von Reinhard Lakomy. Gemeinsam produzierten sie zahlreiche Schlager und Lieder. Stellte 1984 einen Ausreiseantrag\\\\, der ihr berufliches Aus in der DDR bedeutete — ein typisches Schicksal kritischer Künstlerinnen.")
+        f"Angelika Mann wurde am 7. August 1952 in Karl-Marx-Stadt (heute Chemnitz) geboren. Sie ist heute {year - 1952} Jahre alt. Sängerin und langjährige Duett-Partnerin von Reinhard Lakomy. Gemeinsam produzierten sie zahlreiche Schlager und Lieder. Stellte 1984 einen Ausreiseantrag\\, der ihr berufliches Aus in der DDR bedeutete — ein typisches Schicksal kritischer Künstlerinnen.")
 
     # Linda Feller (2.1.1952 – lebt)
     add_event(lines, date(year, 1, 2),
