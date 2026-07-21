@@ -2216,31 +2216,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2024@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20240727
-DTEND;VALUE=DATE:20240728
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 97 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 97 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20240727T060000
+TRIGGER;VALUE=DATE-TIME:20241005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2024@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20240301
-DTEND;VALUE=DATE:20240302
+DTSTART;VALUE=DATE:20240823
+DTEND;VALUE=DATE:20240824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20240301T060000
+TRIGGER;VALUE=DATE-TIME:20240823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -5726,31 +5726,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2025@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20250727
-DTEND;VALUE=DATE:20250728
+DTSTART;VALUE=DATE:20251005
+DTEND;VALUE=DATE:20251006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 98 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 98 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20250727T060000
+TRIGGER;VALUE=DATE-TIME:20251005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2025@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20250301
-DTEND;VALUE=DATE:20250302
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20250301T060000
+TRIGGER;VALUE=DATE-TIME:20250823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -9236,31 +9236,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2026@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20260727
-DTEND;VALUE=DATE:20260728
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 99 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 99 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20260727T060000
+TRIGGER;VALUE=DATE-TIME:20261005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2026@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20260301
-DTEND;VALUE=DATE:20260302
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20260301T060000
+TRIGGER;VALUE=DATE-TIME:20260823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -12746,31 +12746,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2027@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20270727
-DTEND;VALUE=DATE:20270728
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 100 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 100 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20270727T060000
+TRIGGER;VALUE=DATE-TIME:20271005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2027@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20270301
-DTEND;VALUE=DATE:20270302
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20270301T060000
+TRIGGER;VALUE=DATE-TIME:20270823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -16256,31 +16256,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2028@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20280727
-DTEND;VALUE=DATE:20280728
+DTSTART;VALUE=DATE:20281005
+DTEND;VALUE=DATE:20281006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 101 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 101 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20280727T060000
+TRIGGER;VALUE=DATE-TIME:20281005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2028@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20280301
-DTEND;VALUE=DATE:20280302
+DTSTART;VALUE=DATE:20280823
+DTEND;VALUE=DATE:20280824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20280301T060000
+TRIGGER;VALUE=DATE-TIME:20280823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -19766,31 +19766,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2029@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20290727
-DTEND;VALUE=DATE:20290728
+DTSTART;VALUE=DATE:20291005
+DTEND;VALUE=DATE:20291006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 102 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 102 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20290727T060000
+TRIGGER;VALUE=DATE-TIME:20291005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2029@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20290301
-DTEND;VALUE=DATE:20290302
+DTSTART;VALUE=DATE:20290823
+DTEND;VALUE=DATE:20290824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20290301T060000
+TRIGGER;VALUE=DATE-TIME:20290823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -23276,31 +23276,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2030@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20300727
-DTEND;VALUE=DATE:20300728
+DTSTART;VALUE=DATE:20301005
+DTEND;VALUE=DATE:20301006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 103 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 103 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20300727T060000
+TRIGGER;VALUE=DATE-TIME:20301005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2030@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20300301
-DTEND;VALUE=DATE:20300302
+DTSTART;VALUE=DATE:20300823
+DTEND;VALUE=DATE:20300824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20300301T060000
+TRIGGER;VALUE=DATE-TIME:20300823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -26786,31 +26786,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2031@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20310727
-DTEND;VALUE=DATE:20310728
+DTSTART;VALUE=DATE:20311005
+DTEND;VALUE=DATE:20311006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 104 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 104 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20310727T060000
+TRIGGER;VALUE=DATE-TIME:20311005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2031@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20310301
-DTEND;VALUE=DATE:20310302
+DTSTART;VALUE=DATE:20310823
+DTEND;VALUE=DATE:20310824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20310301T060000
+TRIGGER;VALUE=DATE-TIME:20310823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -30296,31 +30296,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2032@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20320727
-DTEND;VALUE=DATE:20320728
+DTSTART;VALUE=DATE:20321005
+DTEND;VALUE=DATE:20321006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 105 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 105 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20320727T060000
+TRIGGER;VALUE=DATE-TIME:20321005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2032@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20320301
-DTEND;VALUE=DATE:20320302
+DTSTART;VALUE=DATE:20320823
+DTEND;VALUE=DATE:20320824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20320301T060000
+TRIGGER;VALUE=DATE-TIME:20320823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -33806,31 +33806,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2033@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20330727
-DTEND;VALUE=DATE:20330728
+DTSTART;VALUE=DATE:20331005
+DTEND;VALUE=DATE:20331006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 106 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 106 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20330727T060000
+TRIGGER;VALUE=DATE-TIME:20331005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2033@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20330301
-DTEND;VALUE=DATE:20330302
+DTSTART;VALUE=DATE:20330823
+DTEND;VALUE=DATE:20330824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20330301T060000
+TRIGGER;VALUE=DATE-TIME:20330823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -37316,31 +37316,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2034@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20340727
-DTEND;VALUE=DATE:20340728
+DTSTART;VALUE=DATE:20341005
+DTEND;VALUE=DATE:20341006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 107 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 107 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20340727T060000
+TRIGGER;VALUE=DATE-TIME:20341005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2034@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20340301
-DTEND;VALUE=DATE:20340302
+DTSTART;VALUE=DATE:20340823
+DTEND;VALUE=DATE:20340824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20340301T060000
+TRIGGER;VALUE=DATE-TIME:20340823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -40826,31 +40826,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2035@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20350727
-DTEND;VALUE=DATE:20350728
+DTSTART;VALUE=DATE:20351005
+DTEND;VALUE=DATE:20351006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 108 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 108 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20350727T060000
+TRIGGER;VALUE=DATE-TIME:20351005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2035@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20350301
-DTEND;VALUE=DATE:20350302
+DTSTART;VALUE=DATE:20350823
+DTEND;VALUE=DATE:20350824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20350301T060000
+TRIGGER;VALUE=DATE-TIME:20350823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -44336,31 +44336,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2036@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20360727
-DTEND;VALUE=DATE:20360728
+DTSTART;VALUE=DATE:20361005
+DTEND;VALUE=DATE:20361006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 109 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 109 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20360727T060000
+TRIGGER;VALUE=DATE-TIME:20361005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2036@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20360301
-DTEND;VALUE=DATE:20360302
+DTSTART;VALUE=DATE:20360823
+DTEND;VALUE=DATE:20360824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20360301T060000
+TRIGGER;VALUE=DATE-TIME:20360823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -47846,31 +47846,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2037@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20370727
-DTEND;VALUE=DATE:20370728
+DTSTART;VALUE=DATE:20371005
+DTEND;VALUE=DATE:20371006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 110 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 110 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20370727T060000
+TRIGGER;VALUE=DATE-TIME:20371005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2037@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20370301
-DTEND;VALUE=DATE:20370302
+DTSTART;VALUE=DATE:20370823
+DTEND;VALUE=DATE:20370824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20370301T060000
+TRIGGER;VALUE=DATE-TIME:20370823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -51356,31 +51356,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2038@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20380727
-DTEND;VALUE=DATE:20380728
+DTSTART;VALUE=DATE:20381005
+DTEND;VALUE=DATE:20381006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 111 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 111 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20380727T060000
+TRIGGER;VALUE=DATE-TIME:20381005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2038@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20380301
-DTEND;VALUE=DATE:20380302
+DTSTART;VALUE=DATE:20380823
+DTEND;VALUE=DATE:20380824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20380301T060000
+TRIGGER;VALUE=DATE-TIME:20380823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -54866,31 +54866,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2039@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20390727
-DTEND;VALUE=DATE:20390728
+DTSTART;VALUE=DATE:20391005
+DTEND;VALUE=DATE:20391006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 112 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 112 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20390727T060000
+TRIGGER;VALUE=DATE-TIME:20391005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2039@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20390301
-DTEND;VALUE=DATE:20390302
+DTSTART;VALUE=DATE:20390823
+DTEND;VALUE=DATE:20390824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20390301T060000
+TRIGGER;VALUE=DATE-TIME:20390823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -58376,31 +58376,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2040@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20400727
-DTEND;VALUE=DATE:20400728
+DTSTART;VALUE=DATE:20401005
+DTEND;VALUE=DATE:20401006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 113 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 113 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20400727T060000
+TRIGGER;VALUE=DATE-TIME:20401005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2040@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20400301
-DTEND;VALUE=DATE:20400302
+DTSTART;VALUE=DATE:20400823
+DTEND;VALUE=DATE:20400824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20400301T060000
+TRIGGER;VALUE=DATE-TIME:20400823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -61886,31 +61886,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2041@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20410727
-DTEND;VALUE=DATE:20410728
+DTSTART;VALUE=DATE:20411005
+DTEND;VALUE=DATE:20411006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 114 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 114 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20410727T060000
+TRIGGER;VALUE=DATE-TIME:20411005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2041@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20410301
-DTEND;VALUE=DATE:20410302
+DTSTART;VALUE=DATE:20410823
+DTEND;VALUE=DATE:20410824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20410301T060000
+TRIGGER;VALUE=DATE-TIME:20410823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -65396,31 +65396,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2042@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20420727
-DTEND;VALUE=DATE:20420728
+DTSTART;VALUE=DATE:20421005
+DTEND;VALUE=DATE:20421006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 115 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 115 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20420727T060000
+TRIGGER;VALUE=DATE-TIME:20421005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2042@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20420301
-DTEND;VALUE=DATE:20420302
+DTSTART;VALUE=DATE:20420823
+DTEND;VALUE=DATE:20420824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20420301T060000
+TRIGGER;VALUE=DATE-TIME:20420823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -68906,31 +68906,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2043@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20430727
-DTEND;VALUE=DATE:20430728
+DTSTART;VALUE=DATE:20431005
+DTEND;VALUE=DATE:20431006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 116 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 116 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20430727T060000
+TRIGGER;VALUE=DATE-TIME:20431005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2043@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20430301
-DTEND;VALUE=DATE:20430302
+DTSTART;VALUE=DATE:20430823
+DTEND;VALUE=DATE:20430824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20430301T060000
+TRIGGER;VALUE=DATE-TIME:20430823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -72416,31 +72416,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2044@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20440727
-DTEND;VALUE=DATE:20440728
+DTSTART;VALUE=DATE:20441005
+DTEND;VALUE=DATE:20441006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 117 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 117 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20440727T060000
+TRIGGER;VALUE=DATE-TIME:20441005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2044@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20440301
-DTEND;VALUE=DATE:20440302
+DTSTART;VALUE=DATE:20440823
+DTEND;VALUE=DATE:20440824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20440301T060000
+TRIGGER;VALUE=DATE-TIME:20440823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -75926,31 +75926,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2045@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20450727
-DTEND;VALUE=DATE:20450728
+DTSTART;VALUE=DATE:20451005
+DTEND;VALUE=DATE:20451006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 118 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 118 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20450727T060000
+TRIGGER;VALUE=DATE-TIME:20451005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2045@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20450301
-DTEND;VALUE=DATE:20450302
+DTSTART;VALUE=DATE:20450823
+DTEND;VALUE=DATE:20450824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20450301T060000
+TRIGGER;VALUE=DATE-TIME:20450823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -79436,31 +79436,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2046@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20460727
-DTEND;VALUE=DATE:20460728
+DTSTART;VALUE=DATE:20461005
+DTEND;VALUE=DATE:20461006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 119 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 119 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20460727T060000
+TRIGGER;VALUE=DATE-TIME:20461005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2046@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20460301
-DTEND;VALUE=DATE:20460302
+DTSTART;VALUE=DATE:20460823
+DTEND;VALUE=DATE:20460824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20460301T060000
+TRIGGER;VALUE=DATE-TIME:20460823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -82946,31 +82946,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2047@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20470727
-DTEND;VALUE=DATE:20470728
+DTSTART;VALUE=DATE:20471005
+DTEND;VALUE=DATE:20471006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 120 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 120 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20470727T060000
+TRIGGER;VALUE=DATE-TIME:20471005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2047@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20470301
-DTEND;VALUE=DATE:20470302
+DTSTART;VALUE=DATE:20470823
+DTEND;VALUE=DATE:20470824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20470301T060000
+TRIGGER;VALUE=DATE-TIME:20470823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -86456,31 +86456,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2048@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20480727
-DTEND;VALUE=DATE:20480728
+DTSTART;VALUE=DATE:20481005
+DTEND;VALUE=DATE:20481006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 121 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 121 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20480727T060000
+TRIGGER;VALUE=DATE-TIME:20481005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2048@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20480301
-DTEND;VALUE=DATE:20480302
+DTSTART;VALUE=DATE:20480823
+DTEND;VALUE=DATE:20480824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20480301T060000
+TRIGGER;VALUE=DATE-TIME:20480823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -89966,31 +89966,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2049@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20490727
-DTEND;VALUE=DATE:20490728
+DTSTART;VALUE=DATE:20491005
+DTEND;VALUE=DATE:20491006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 122 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 122 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20490727T060000
+TRIGGER;VALUE=DATE-TIME:20491005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2049@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20490301
-DTEND;VALUE=DATE:20490302
+DTSTART;VALUE=DATE:20490823
+DTEND;VALUE=DATE:20490824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20490301T060000
+TRIGGER;VALUE=DATE-TIME:20490823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -93476,31 +93476,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2050@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20500727
-DTEND;VALUE=DATE:20500728
+DTSTART;VALUE=DATE:20501005
+DTEND;VALUE=DATE:20501006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 123 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 123 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20500727T060000
+TRIGGER;VALUE=DATE-TIME:20501005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2050@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20500301
-DTEND;VALUE=DATE:20500302
+DTSTART;VALUE=DATE:20500823
+DTEND;VALUE=DATE:20500824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20500301T060000
+TRIGGER;VALUE=DATE-TIME:20500823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -96986,31 +96986,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2051@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20510727
-DTEND;VALUE=DATE:20510728
+DTSTART;VALUE=DATE:20511005
+DTEND;VALUE=DATE:20511006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 124 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 124 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20510727T060000
+TRIGGER;VALUE=DATE-TIME:20511005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2051@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20510301
-DTEND;VALUE=DATE:20510302
+DTSTART;VALUE=DATE:20510823
+DTEND;VALUE=DATE:20510824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20510301T060000
+TRIGGER;VALUE=DATE-TIME:20510823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -100496,31 +100496,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2052@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20520727
-DTEND;VALUE=DATE:20520728
+DTSTART;VALUE=DATE:20521005
+DTEND;VALUE=DATE:20521006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 125 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 125 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20520727T060000
+TRIGGER;VALUE=DATE-TIME:20521005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2052@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20520301
-DTEND;VALUE=DATE:20520302
+DTSTART;VALUE=DATE:20520823
+DTEND;VALUE=DATE:20520824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20520301T060000
+TRIGGER;VALUE=DATE-TIME:20520823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -104006,31 +104006,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2053@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20530727
-DTEND;VALUE=DATE:20530728
+DTSTART;VALUE=DATE:20531005
+DTEND;VALUE=DATE:20531006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 126 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 126 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20530727T060000
+TRIGGER;VALUE=DATE-TIME:20531005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2053@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20530301
-DTEND;VALUE=DATE:20530302
+DTSTART;VALUE=DATE:20530823
+DTEND;VALUE=DATE:20530824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20530301T060000
+TRIGGER;VALUE=DATE-TIME:20530823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -107516,31 +107516,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2054@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20540727
-DTEND;VALUE=DATE:20540728
+DTSTART;VALUE=DATE:20541005
+DTEND;VALUE=DATE:20541006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 127 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 127 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20540727T060000
+TRIGGER;VALUE=DATE-TIME:20541005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2054@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20540301
-DTEND;VALUE=DATE:20540302
+DTSTART;VALUE=DATE:20540823
+DTEND;VALUE=DATE:20540824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20540301T060000
+TRIGGER;VALUE=DATE-TIME:20540823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -111026,31 +111026,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2055@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20550727
-DTEND;VALUE=DATE:20550728
+DTSTART;VALUE=DATE:20551005
+DTEND;VALUE=DATE:20551006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 128 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 128 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20550727T060000
+TRIGGER;VALUE=DATE-TIME:20551005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2055@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20550301
-DTEND;VALUE=DATE:20550302
+DTSTART;VALUE=DATE:20550823
+DTEND;VALUE=DATE:20550824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20550301T060000
+TRIGGER;VALUE=DATE-TIME:20550823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -114536,31 +114536,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2056@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20560727
-DTEND;VALUE=DATE:20560728
+DTSTART;VALUE=DATE:20561005
+DTEND;VALUE=DATE:20561006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 129 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 129 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20560727T060000
+TRIGGER;VALUE=DATE-TIME:20561005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2056@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20560301
-DTEND;VALUE=DATE:20560302
+DTSTART;VALUE=DATE:20560823
+DTEND;VALUE=DATE:20560824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20560301T060000
+TRIGGER;VALUE=DATE-TIME:20560823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -118046,31 +118046,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2057@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20570727
-DTEND;VALUE=DATE:20570728
+DTSTART;VALUE=DATE:20571005
+DTEND;VALUE=DATE:20571006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 130 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 130 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20570727T060000
+TRIGGER;VALUE=DATE-TIME:20571005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2057@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20570301
-DTEND;VALUE=DATE:20570302
+DTSTART;VALUE=DATE:20570823
+DTEND;VALUE=DATE:20570824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20570301T060000
+TRIGGER;VALUE=DATE-TIME:20570823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -121556,31 +121556,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2058@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20580727
-DTEND;VALUE=DATE:20580728
+DTSTART;VALUE=DATE:20581005
+DTEND;VALUE=DATE:20581006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 131 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 131 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20580727T060000
+TRIGGER;VALUE=DATE-TIME:20581005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2058@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20580301
-DTEND;VALUE=DATE:20580302
+DTSTART;VALUE=DATE:20580823
+DTEND;VALUE=DATE:20580824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20580301T060000
+TRIGGER;VALUE=DATE-TIME:20580823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -125066,31 +125066,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2059@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20590727
-DTEND;VALUE=DATE:20590728
+DTSTART;VALUE=DATE:20591005
+DTEND;VALUE=DATE:20591006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 132 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 132 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20590727T060000
+TRIGGER;VALUE=DATE-TIME:20591005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2059@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20590301
-DTEND;VALUE=DATE:20590302
+DTSTART;VALUE=DATE:20590823
+DTEND;VALUE=DATE:20590824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20590301T060000
+TRIGGER;VALUE=DATE-TIME:20590823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -128576,31 +128576,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2060@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20600727
-DTEND;VALUE=DATE:20600728
+DTSTART;VALUE=DATE:20601005
+DTEND;VALUE=DATE:20601006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 133 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 133 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20600727T060000
+TRIGGER;VALUE=DATE-TIME:20601005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2060@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20600301
-DTEND;VALUE=DATE:20600302
+DTSTART;VALUE=DATE:20600823
+DTEND;VALUE=DATE:20600824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20600301T060000
+TRIGGER;VALUE=DATE-TIME:20600823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -132086,31 +132086,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2061@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20610727
-DTEND;VALUE=DATE:20610728
+DTSTART;VALUE=DATE:20611005
+DTEND;VALUE=DATE:20611006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 134 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 134 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20610727T060000
+TRIGGER;VALUE=DATE-TIME:20611005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2061@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20610301
-DTEND;VALUE=DATE:20610302
+DTSTART;VALUE=DATE:20610823
+DTEND;VALUE=DATE:20610824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20610301T060000
+TRIGGER;VALUE=DATE-TIME:20610823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -135596,31 +135596,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2062@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20620727
-DTEND;VALUE=DATE:20620728
+DTSTART;VALUE=DATE:20621005
+DTEND;VALUE=DATE:20621006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 135 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 135 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20620727T060000
+TRIGGER;VALUE=DATE-TIME:20621005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2062@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20620301
-DTEND;VALUE=DATE:20620302
+DTSTART;VALUE=DATE:20620823
+DTEND;VALUE=DATE:20620824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20620301T060000
+TRIGGER;VALUE=DATE-TIME:20620823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -139106,31 +139106,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2063@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20630727
-DTEND;VALUE=DATE:20630728
+DTSTART;VALUE=DATE:20631005
+DTEND;VALUE=DATE:20631006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 136 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 136 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20630727T060000
+TRIGGER;VALUE=DATE-TIME:20631005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2063@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20630301
-DTEND;VALUE=DATE:20630302
+DTSTART;VALUE=DATE:20630823
+DTEND;VALUE=DATE:20630824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20630301T060000
+TRIGGER;VALUE=DATE-TIME:20630823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -142616,31 +142616,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2064@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20640727
-DTEND;VALUE=DATE:20640728
+DTSTART;VALUE=DATE:20641005
+DTEND;VALUE=DATE:20641006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 137 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 137 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20640727T060000
+TRIGGER;VALUE=DATE-TIME:20641005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2064@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20640301
-DTEND;VALUE=DATE:20640302
+DTSTART;VALUE=DATE:20640823
+DTEND;VALUE=DATE:20640824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20640301T060000
+TRIGGER;VALUE=DATE-TIME:20640823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -146126,31 +146126,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2065@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20650727
-DTEND;VALUE=DATE:20650728
+DTSTART;VALUE=DATE:20651005
+DTEND;VALUE=DATE:20651006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 138 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 138 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20650727T060000
+TRIGGER;VALUE=DATE-TIME:20651005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2065@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20650301
-DTEND;VALUE=DATE:20650302
+DTSTART;VALUE=DATE:20650823
+DTEND;VALUE=DATE:20650824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20650301T060000
+TRIGGER;VALUE=DATE-TIME:20650823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -149636,31 +149636,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2066@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20660727
-DTEND;VALUE=DATE:20660728
+DTSTART;VALUE=DATE:20661005
+DTEND;VALUE=DATE:20661006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 139 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 139 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20660727T060000
+TRIGGER;VALUE=DATE-TIME:20661005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2066@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20660301
-DTEND;VALUE=DATE:20660302
+DTSTART;VALUE=DATE:20660823
+DTEND;VALUE=DATE:20660824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20660301T060000
+TRIGGER;VALUE=DATE-TIME:20660823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -153146,31 +153146,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2067@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20670727
-DTEND;VALUE=DATE:20670728
+DTSTART;VALUE=DATE:20671005
+DTEND;VALUE=DATE:20671006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 140 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 140 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20670727T060000
+TRIGGER;VALUE=DATE-TIME:20671005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2067@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20670301
-DTEND;VALUE=DATE:20670302
+DTSTART;VALUE=DATE:20670823
+DTEND;VALUE=DATE:20670824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20670301T060000
+TRIGGER;VALUE=DATE-TIME:20670823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -156656,31 +156656,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2068@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20680727
-DTEND;VALUE=DATE:20680728
+DTSTART;VALUE=DATE:20681005
+DTEND;VALUE=DATE:20681006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 141 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 141 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20680727T060000
+TRIGGER;VALUE=DATE-TIME:20681005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2068@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20680301
-DTEND;VALUE=DATE:20680302
+DTSTART;VALUE=DATE:20680823
+DTEND;VALUE=DATE:20680824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20680301T060000
+TRIGGER;VALUE=DATE-TIME:20680823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -160166,31 +160166,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2069@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20690727
-DTEND;VALUE=DATE:20690728
+DTSTART;VALUE=DATE:20691005
+DTEND;VALUE=DATE:20691006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 142 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 142 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20690727T060000
+TRIGGER;VALUE=DATE-TIME:20691005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2069@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20690301
-DTEND;VALUE=DATE:20690302
+DTSTART;VALUE=DATE:20690823
+DTEND;VALUE=DATE:20690824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20690301T060000
+TRIGGER;VALUE=DATE-TIME:20690823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -163676,31 +163676,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2070@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20700727
-DTEND;VALUE=DATE:20700728
+DTSTART;VALUE=DATE:20701005
+DTEND;VALUE=DATE:20701006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 143 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 143 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20700727T060000
+TRIGGER;VALUE=DATE-TIME:20701005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2070@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20700301
-DTEND;VALUE=DATE:20700302
+DTSTART;VALUE=DATE:20700823
+DTEND;VALUE=DATE:20700824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20700301T060000
+TRIGGER;VALUE=DATE-TIME:20700823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -167186,31 +167186,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2071@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20710727
-DTEND;VALUE=DATE:20710728
+DTSTART;VALUE=DATE:20711005
+DTEND;VALUE=DATE:20711006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 144 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 144 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20710727T060000
+TRIGGER;VALUE=DATE-TIME:20711005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2071@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20710301
-DTEND;VALUE=DATE:20710302
+DTSTART;VALUE=DATE:20710823
+DTEND;VALUE=DATE:20710824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20710301T060000
+TRIGGER;VALUE=DATE-TIME:20710823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -170696,31 +170696,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2072@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20720727
-DTEND;VALUE=DATE:20720728
+DTSTART;VALUE=DATE:20721005
+DTEND;VALUE=DATE:20721006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 145 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 145 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20720727T060000
+TRIGGER;VALUE=DATE-TIME:20721005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2072@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20720301
-DTEND;VALUE=DATE:20720302
+DTSTART;VALUE=DATE:20720823
+DTEND;VALUE=DATE:20720824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20720301T060000
+TRIGGER;VALUE=DATE-TIME:20720823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -174206,31 +174206,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2073@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20730727
-DTEND;VALUE=DATE:20730728
+DTSTART;VALUE=DATE:20731005
+DTEND;VALUE=DATE:20731006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 146 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 146 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20730727T060000
+TRIGGER;VALUE=DATE-TIME:20731005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2073@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20730301
-DTEND;VALUE=DATE:20730302
+DTSTART;VALUE=DATE:20730823
+DTEND;VALUE=DATE:20730824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20730301T060000
+TRIGGER;VALUE=DATE-TIME:20730823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -177716,31 +177716,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2074@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20740727
-DTEND;VALUE=DATE:20740728
+DTSTART;VALUE=DATE:20741005
+DTEND;VALUE=DATE:20741006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 147 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 147 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20740727T060000
+TRIGGER;VALUE=DATE-TIME:20741005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2074@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20740301
-DTEND;VALUE=DATE:20740302
+DTSTART;VALUE=DATE:20740823
+DTEND;VALUE=DATE:20740824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20740301T060000
+TRIGGER;VALUE=DATE-TIME:20740823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -181226,31 +181226,31 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ddr-geburtstag-rolf-herricht--2075@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20750727
-DTEND;VALUE=DATE:20750728
+DTSTART;VALUE=DATE:20751005
+DTEND;VALUE=DATE:20751006
 SUMMARY:Geburtstag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute 148 Jahre alt. Beliebtester Komiker der DDR\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.
+DESCRIPTION:Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute 148 Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Geburtstag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20750727T060000
+TRIGGER;VALUE=DATE-TIME:20751005T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ddr-todestag-rolf-herricht--2075@ddr-kalender
 DTSTAMP:20240101T000000Z
-DTSTART;VALUE=DATE:20750301
-DTEND;VALUE=DATE:20750302
+DTSTART;VALUE=DATE:20750823
+DTEND;VALUE=DATE:20750824
 SUMMARY:Todestag Rolf Herricht 🎬
-DESCRIPTION:Rolf Herricht\, geboren 1927\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.
+DESCRIPTION:Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.
 CATEGORIES:DDR Feiertage
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Todestag Rolf Herricht 🎬
-TRIGGER;VALUE=DATE-TIME:20750301T060000
+TRIGGER;VALUE=DATE-TIME:20750823T060000
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
