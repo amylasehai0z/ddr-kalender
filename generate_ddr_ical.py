@@ -713,13 +713,13 @@ for year in YEARS:
         "Todestag Kurt Böwe 🎬",
         "Kurt Böwe\\, geboren 1929\\, verstarb am 15. März 2000. Er wurde 70 Jahre alt. DDR-Schauspieler und Nationalpreisträger.")
 
-    # Rolf Herricht (27.7.1927 – 1.3.1981)
-    add_event(lines, date(year, 7, 27),
+    # Rolf Herricht (5.10.1927 – 23.8.1981)
+    add_event(lines, date(year, 10, 5),
         "Geburtstag Rolf Herricht 🎬",
-        f"Rolf Herricht wurde am 27. Juli 1927 in Berlin geboren und starb 1981 mit 53 Jahren. Er wäre heute {year - 1927} Jahre alt. Beliebtester Komiker der DDR\\, Mitglied des legendären Komikerduos Herricht & Haase. Sein früher Tod mit 53 Jahren traf die DDR-Bevölkerung tief.")
-    add_event(lines, date(year, 3, 1),
+        f"Rolf Herricht wurde am 5. Oktober 1927 in Magdeburg geboren und starb 1981 mit 53 Jahren. Er wäre heute {year - 1927} Jahre alt. Beliebtester Komiker der DDR — zusammen mit Hans-Joachim Preil bildete er ab 1953 das legendäre Komikerduo Herricht & Preil. Preil schrieb die Sketche\\, Herricht spielte den Naiven: sein empörter Ausruf 'Aber\\, Herr Preil!' wurde sprichwörtlich. Fast drei Jahrzehnte begeisterten sie Millionen DDR-Zuschauer. Daneben war Herricht auch als DEFA-Filmkomiker erfolgreich und als Sketch-Partner von Helga Hahnemann bekannt. Sein früher Tod traf die DDR-Bevölkerung tief.")
+    add_event(lines, date(year, 8, 23),
         "Todestag Rolf Herricht 🎬",
-        "Rolf Herricht\\, geboren 1927\\, verstarb am 1. März 1981 in Berlin. Er wurde nur 53 Jahre alt. Beliebtester Komiker der DDR.")
+        "Rolf Herricht (1927–1981) starb am 23. August 1981 in Ost-Berlin im Alter von 53 Jahren an einem Herzinfarkt — während eines Auftritts im Musical 'Kiss Me\\, Kate' am Metropol-Theater Berlin. Sein Partner Hans-Joachim Preil hat diesen Verlust nie verwunden und trat danach kaum noch auf. Herricht ist auf dem Französischen Friedhof in Berlin beigesetzt.")
 
     # Horst Drinda (1.5.1927 – 21.2.2005)
     add_event(lines, date(year, 5, 1),
