@@ -1076,7 +1076,7 @@ for year in YEARS:
         f"Klaus Renft wurde am 19. Juli 1942 in Leipzig geboren und starb 2006 mit 64 Jahren. Er wäre heute {year - 1942} Jahre alt. Gründer der Klaus-Renft-Combo\\, einer der einflussreichsten DDR-Rockbands. 1958 erstmals gegründet\\, 1967 wieder zugelassen\\, wurde die Band 1975 endgültig verboten — wegen eines Liedes über eine missglückte DDR-Flucht und kritischer Texte über Bausoldaten. Einige Mitglieder wurden ausgebürgert. 1990 kurze Reunion\\, 2006 starb Renft in Leipzig.")
     add_event(lines, date(year, 10, 9),
         "Todestag Klaus Renft 🎸",
-        "Klaus Renft (1942–2006) starb am 9. Oktober 2006 in Leipzig im Alter von 64 Jahren. Der Gründer der Klaus-Renft-Combo — eine der wichtigsten DDR-Rockbands — erlebte das Bandverbot 1975\\, die Ausbürgerung von Bandmitgliedern und nach der Wende noch eine kurze Reunion. Sein Geburtstag am 9. Oktober fällt auf den Jahrestag der Friedlichen Revolution in Leipzig.")
+        "Klaus Renft (1942–2006) starb am 9. Oktober 2006 in Leipzig im Alter von 64 Jahren. Der Gründer der Klaus-Renft-Combo — eine der wichtigsten DDR-Rockbands — erlebte das Bandverbot 1975\\, die Ausbürgerung von Bandmitgliedern und nach der Wende noch eine kurze Reunion. Sein Todestag am 9. Oktober fällt auf den Jahrestag der Friedlichen Revolution in Leipzig — ein bewegendes Datum für die Stadt.")
 
     # Karat – Gründung 1975 (kein exaktes Datum) → über Jubiläumskonzert
     # Stattdessen: City – Toni Krahl bereits oben. Ergänze noch einige weitere.
